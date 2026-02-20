@@ -514,6 +514,12 @@ styling field:
 	name: remove from autocount
 	description: Removes the automatic card number for specific cards, to allow for overcounted cards like in Planeswalker Decks.
 	initial: no
+include file: /magic-modules.mse-include/watermarks/styling_fields
+styling field:
+	type: text
+	name: card watermark 2
+	description: Filename in magic-mainframe-extras to use for standalone card watermark
+	script: verify_watermark_image(value)
 include file: /magic-modules.mse-include/crowns/styling_fields
 include file: /magic-modules.mse-include/rarities/styling_fields
 styling field:
@@ -566,6 +572,11 @@ styling field:
 	choice: modern
 	choice: old
 	choice: diagonal T
+styling field:
+	type: package choice
+	name: casting cost mana symbols
+	match: magic-mana-*.mse-symbol-font
+	initial: magic-mana-large.mse-symbol-font
 styling field:
 	type: package choice
 	name: text box mana symbols
@@ -735,7 +746,7 @@ card style:
 			name: MPlantin
 			size: 15
 		symbol font:
-			name: magic-mana-large
+			name: { styling.casting_cost_mana_symbols }
 			size: 15
 			alignment: middle right
 		always symbol: true
@@ -748,7 +759,7 @@ card style:
 		height: 23
 		alignment: middle right
 		symbol font:
-			name: magic-mana-large
+			name: { styling.casting_cost_mana_symbols }
 			size: 12
 			alignment: middle right
 		always symbol: true
@@ -761,7 +772,7 @@ card style:
 		height: {if page_style(page_3_side()) == "null" then 0 else 23}
 		alignment: middle right
 		symbol font:
-			name: magic-mana-large
+			name: { styling.casting_cost_mana_symbols }
 			size: 12
 			alignment: middle right
 		always symbol: true
