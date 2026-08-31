@@ -1,0 +1,61 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.2333333333,0.8333333333)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4333333333,1.0000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (1.2000000000,0.4333333333)
+		lock: free
+		line_after: line
+	point:
+		position: (1.0000000000,0.2666666667)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.5737704065,-0.2666666667)
+		lock: free
+		line_after: line
+	point:
+		position: (0.9071037399,0.1000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0212554897,0.9000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (-0.3333333333,0.5474850832)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.2000000000,0.2000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2000000000,0.8000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8000000000,0.8000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8000000000,0.2000000000)
+		lock: free
+		line_after: line

@@ -1,0 +1,137 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.8333333333,0.1666666667)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.0552284777)
+		handle_after: (-0.0000000000,0.0552284777)
+	point:
+		position: (0.7333333333,0.2666666667)
+		lock: size
+		line_after: curve
+		handle_before: (0.0552284777,0.0000000000)
+		handle_after: (-0.0552284777,-0.0000000000)
+	point:
+		position: (0.6333333333,0.1666666667)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.0552284777)
+		handle_after: (-0.0000000000,-0.0552284777)
+	point:
+		position: (0.7333333333,0.0666666667)
+		lock: size
+		line_after: curve
+		handle_before: (-0.0552284777,0.0000000000)
+		handle_after: (0.0552284777,-0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.3666666667,0.8000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.0552284777)
+		handle_after: (-0.0000000000,-0.0552284777)
+	point:
+		position: (0.2666666667,0.7000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0552284777,0.0000000000)
+		handle_after: (-0.0552284777,-0.0000000000)
+	point:
+		position: (0.1666666667,0.8000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.0552284777)
+		handle_after: (-0.0000000000,0.0552284777)
+	point:
+		position: (0.2666666667,0.9000000000)
+		lock: size
+		line_after: curve
+		handle_before: (-0.0552284777,0.0000000000)
+		handle_after: (0.0552284777,-0.0000000000)
+part:
+	type: shape
+	name: Rectangle
+	combine: overlap
+	point:
+		position: (0.5224367664,0.3000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6991432818,0.4770342022)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5100398487,0.6657876085)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3333333333,0.4887534063)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.7333333333,0.8333333333)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8666666667,0.7000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6333333333,0.4666666667)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5000000000,0.5971085105)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.2744516487,0.0991291083)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5333333333,0.3587918084)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3916991333,0.5000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.1328174487,0.2403372999)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.0848389717,0.4719673779)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5053007112,0.9000000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.9333333333,0.4795382604)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5128715938,0.0515056383)
+		lock: free
+		line_after: line

@@ -1,0 +1,61 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.9936974790,0.0889392991)
+		lock: free
+		line after: line
+	point:
+		position: (0.4362555833,0.0889392991)
+		lock: free
+		line after: line
+	point:
+		position: (0.4362555833,0.4180672269)
+		lock: free
+		line after: line
+	point:
+		position: (0.9936974790,0.4180672269)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.0510423915,0.5462184874)
+		lock: free
+		line after: line
+	point:
+		position: (0.5735294118,0.5462184874)
+		lock: free
+		line after: line
+	point:
+		position: (0.5735294118,0.9668875243)
+		lock: free
+		line after: line
+	point:
+		position: (0.0510423915,0.9668875243)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Square
+	combine: merge
+	point:
+		position: (0.1873949580,0.1453781513)
+		lock: free
+		line after: line
+	point:
+		position: (0.1873949580,0.8483193277)
+		lock: free
+		line after: line
+	point:
+		position: (0.8084033613,0.8483193277)
+		lock: free
+		line after: line
+	point:
+		position: (0.8084033613,0.1453781513)
+		lock: free
+		line after: line

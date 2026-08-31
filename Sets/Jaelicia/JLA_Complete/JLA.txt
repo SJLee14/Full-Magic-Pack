@@ -1,0 +1,7685 @@
+Jaelicia
+1.0
+
+normal
+257/317
+5
+mythic rare
+Ellorn, Progenitor of Gothr
+black
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'>
+Legendary Artifact Creature — God 
+5
+4
+Menace, indestructible<br>///br///As long as your devotion to black is less than five, Ellorn isn&#8217;t a creature.<br>///br///Artifact cards in your graveyard have escape <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, exile three other cards. <i>(You may cast this card from your graveyard for its escape cost.)</i>
+
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+65/317
+4
+rare
+Carq, Hero of Gothr
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Human Knight 
+2
+3
+Deathtouch<br>///br///Carq, Hero of Gothr gets +1/+1 for each artifact card in your graveyard.<br>///br///Sacrifice two artifacts: Return Carq, Hero of Gothr from your graveyard to the battlefield.
+<i>Carq&#8217;s undying loyalty is a testament to the ideals of Gothr.</i>
+Edward Delandre Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+268/317
+6
+mythic rare
+Moltran, Progenitor of Faerus
+red
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'>
+Legendary Artifact Creature — God 
+7
+5
+Trample, indestructible<br>///br///As long as your devotion to red is less than five, Moltran isn&#8217;t a creature.<br>///br///Whenever you cast an artifact spell, Moltran deals 2 damage to each opponent.
+
+Bram Lee
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+282/317
+5
+mythic rare
+Varyus, Progenitor of Certhin
+white
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'>
+Legendary Artifact Creature — God 
+4
+6
+Vigilance, indestructible<br>///br///As long as your devotion to white is less than five, Varyus isn&#8217;t a creature.<br>///br///Whenever an enchantment enters the battlefield under your control, it gains &#8220;Exile target nonland permanent until this permanent leaves the battlefield.&#8221;
+
+Valinov
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+274/317
+4
+mythic rare
+Ryhm, Progenitor of Moorla
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Legendary Artifact Creature — God 
+3
+3
+Reach, indestructible<br>///br///As long as your devotion to green is less than five, Ryhm isn&#8217;t a creature.<br>///br///Creature tokens you control have &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.&#8221;
+
+Vasylina
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+263/317
+4
+mythic rare
+Illith, Progenitor of Seroa
+blue
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Legendary Artifact Creature — God 
+3
+4
+Flash<br>///br///Indestructible<br>///br///As long as your devotion to blue is less than five, Illith isn&#8217;t a creature.<br>///br///At the beginning of your end step, scry 2, then draw a card.
+
+Getsuga Dani
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+153/317
+5
+mythic rare
+Auxious, Traitor of Certhin
+white, black, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Vampire Knight 
+3
+3
+Vigilance, first strike<br>///br///<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Pay 2 life, Sacrifice an artifact or enchantment: Exile target creature, return it to the battlefield under your control.
+<i>&#8220;Cast off your titles and oaths. Seek true justice!&#8221;</i>
+Dongjunlu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+183/317
+7
+mythic rare
+Everlasting Time Scale
+white, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Artifact
+
+
+If a creature you control dies, exile it. Then return it to the battlefield under your control at the beginning of the next end step.<br>///br///If a creature an opponent controls dies, that player loses life equal to that creatures toughness. 
+<i>&#8220;I do not believe in immortality, but my time can be set to what I desire&#8221; - Auxious, Traitor of Certhin</i>
+N/A
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+162/317
+5
+mythic rare
+Conquest Demon
+black, red, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Demon Warrior 
+5
+4
+Flying, trample<br>///br///When Conquest Demon enters the battlefield, gain control of target creature with mana value 4 or less.<i><br>///br///</i>Whenever Conquest Demon attacks, creatures you control but don&#8217;t own get +2/+0 and gain trample until end of turn.
+
+ARTDEEPMIND
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+161/317
+5
+mythic rare
+Command Dominion
+black, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Enchantment
+
+
+Whenever a creature enters the battlefield under your control, gain control of up to one target creature you don&#8217;t control with lesser power.
+
+Artozi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+200/317
+5
+mythic rare
+Kronos, Time Paradox
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Planeswalker — Kronos 
+
+
++2: Return up to one target instant or sorcery card from your graveyard or you own in exile into your hand.<br>///br///-3: Target nonland permanent phases out for as long as Kronos, Time Paradox is on the battlefield.<br>///br///-10: Your opponents skip their next turn.<br>///br///Starting loyalty: 5
+
+Jasontn
+
+colorless
+
+
+
+
+<br>///br///<br>///br///
+
+
+===========
+normal
+159/317
+5
+mythic rare
+Chaos of War
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+Your opponents can&#8217;t cast spells during combat.<br>///br///At the beginning of combat on your turn, create a colorless X/X Construct Knight artifact creature token with haste where X is the number of instant and sorcery cards in your graveyard and you own in exile.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+235/317
+3
+mythic rare
+Thalias, Imbuer of Life
+blue, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Artifact Creature — Construct Cleric 
+2
+2
+When Thalias enters the battlefield, put X charge counters onto target noncreature artifact or enchantment you control. That permanent becomes a 0/0 Construct creature in addition to its other types and gains &#8220;This creature gets +1/+1 for each counter on it.&#8221;<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Return Thalias to your hand from the battlefield.
+
+Pete Mohr Bracher
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+201/317
+6
+mythic rare
+Lifewood Manipulation
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Enchantment
+
+
+Whenever another nonland, noncreature permanent enters the battlefield under your control, you may have it enter as a Construct creature with base power and toughness equal to its mana value in addition to its other types.
+
+Negg4Dia
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+185/317
+4
+mythic rare
+General Wallace, Scalebane
+white, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Knight 
+3
+4
+Protection from Viashino, Naga, and Dragons<br>///br///General Wallace, Scalebane gets +1/+1 for each token on the battlefield.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>:Create a 2/2 white Knight creature token with vigilance.
+
+Jason Engle
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+231/317
+4
+mythic rare
+Steady Recruitments
+white, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Enchantment
+
+
+Whenever a land enters the battlefield under your control, you may pay <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>. If you do, create a 2/2 white Knight creature token with vigilance.<br>///br///If one or more tokens would be created under your control, those tokens plus a 1/1 white Soldier creature token are created instead.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+55/317
+4
+mythic rare
+Warrin of Sound Mind
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Planeswalker — Warrin 
+
+
++1: Exile the top card of your library, you may play that card until the end of your next turn.<br>///br///+1: Target creature you control can&#8217;t be blocked this turn.<br>///br///-7: Shuffle your hand, graveyard and cards you own in exile into your library. Draw seven cards.<br>///br///Starting loyalty: 4
+
+Cobaltplasma
+
+colorless
+
+
+
+
+<br>///br///<br>///br///
+
+
+===========
+normal
+242/317
+6
+mythic rare
+Wander Space and Time
+multicolor
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Enchantment
+
+
+Other permanents and spells you control are all colors.<br>///br///You may spend mana as though it was any color of mana to cast spells or activate abilities.<br>///br///You may play cards you own in exile and from your graveyard.
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+279/317
+3
+mythic rare
+Saber of Wrath
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Legendary Artifact — Equipment 
+
+
+Equipped creature gets +1/+1 and gains menace.<br>///br///Whenever equipped creature deals combat damage to a player, Saber of Wrath deals 2 damage to any two target.s<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+277/317
+3
+mythic rare
+Saber of Duality
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Legendary Artifact — Equipment 
+
+
+Equipped Creature gets +2/+0 and gains ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.<br>///br///Whenever equipped creature deals combat damage to a player, create a nonlegendary copy of target nonland permanent you control, if that copy is a equipment, attach that equipment to a creature you control.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+278/317
+3
+mythic rare
+Saber of Hope
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Legendary Artifact — Equipment 
+
+
+Equipped creature gets +2/+2 and gains first strike.<br>///br///Whenever equipped creature deals combat damage to a player, exile target nonland permanent until Saber of Hope leaves the battlefield.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+276/317
+3
+mythic rare
+Saber of Desire
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Legendary Artifact — Equipment 
+
+
+Equipped creature gets +1/+0 and gains lifelink.<br>///br///Whenever equipped creature deals combat damage to a player, exile the top card of you and that players library. You may play those cards this turn, and by paying life instead of mana to cast them.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+ThemeFinland
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+275/317
+3
+mythic rare
+Saber of Bounty
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Legendary Artifact — Equipment 
+
+
+Equipped creature gets +1/+3 and gains vigilance.<br>///br///Whenever equipped creature deals combat damage to a player, it explores and you gain 3 life.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+Kotnonekot
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+111/317
+4
+rare
+Pyrr, Hero of Faerus
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Creature — Elemental Giant Knight 
+7
+4
+Trample<br>///br///Pyrr, Hero of Faerus can&#8217;t be blocked by artifact creatures.<br>///br///Whenever Pyrr, Hero of Faerus deals combat damage to a player, it deals that much damage to up to one target creature or planeswalker.
+<i>The embodiment of Faerus&#8217; volatile nature.<br>///br///</i>
+Rodg-Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+22/317
+4
+rare
+Paladrin, Hero of Certhin
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Creature — Human Knight 
+4
+4
+First strike, protection from artifacts and enchantments you don&#8217;t control.<br>///br///Whenever Paladrin, Hero of Certhin attacks, other attacking creatures you control gain protection from artifacts and enchantments you don&#8217;t control until end of turn.
+<i>&#8220;I will not be tempted or cursed, my loyalty lies with those that believe in me.&#8221;</i>
+Eksrey
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+118/317
+4
+rare
+Aegi, Hero of Moorla
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Giant Warrior 
+3
+8
+Prevent all noncombat damage that would be dealt to Aegi, Hero of Moorla.<br>///br///Other creatures you control get +0/+3.<br>///br///Whenever another creature enters the battlefield under your control, creatures you control get +1/+0 until end of turn.
+<i>&#8220;Stand here.&#8221;</i>
+Toblin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+36/317
+4
+rare
+Hector, Hero of Seroa
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Human Artificer 
+2
+4
+Sacrifice an artifact: Search your library for an artifact card with mana value equal to the the sacrificed card plus one. Reveal it and put that card into your hand, then shuffle.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Create a 1/1 colorless Thopter artifact creature token with flying.
+<i>Hector&#8217;s inventions are known to provide innovations from beyond this realm.</i>
+Johnny Morrow
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+247/317
+5
+rare
+Xl’thar, Viashino Hero
+red, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Viashino Soldier 
+3
+3
+First strike<br>///br///Viashino you control have haste<br>///br///<span class="symbol"><img src='magic-mana-small-RG.png' alt='R/G' width='16' height='16'><img src='magic-mana-small-RG.png' alt='R/G' width='16' height='16'></span>: Viashino you control get +1/+0 until end of turn.<br>///br///Whenever Xl&#8217;thar, Viashino Hero attacks create a 2/2 red and green Viashino creature token with &#8220;When this creature attacks, it explores.&#8221;
+<i>&#8220;My resistance is not in vain, we will reclaim our land, when the time comes.&#8221;</i>
+Elgrimlock
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+220/317
+4
+rare
+Riaz, Progenitor Knight
+white, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Artifact Creature — Construct Knight 
+2
+3
+Double strike<br>///br///Whenever a creature token you control attacks, create a copy of that creature.<br>///br///Whenever an equipped creature you control attacks, create a token copy of a equipment attached to that creature.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+216/317
+3
+rare
+Remi, Spirit Tether
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Legendary Creature — Human Cleric Wizard 
+2
+2
+Protection from creatures with deathtouch<br>///br///Whenever an artifact or enchantment is put into your graveyard from the battlefield, return up to one target creature card with mana value 2 or less from your graveyard to the battlefield.<br>///br///<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, Exile Remi, Spirit Tether from your graveyard: Return target artifact or enchantment card from your graveyard to your hand.
+
+Anatofinnstark
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+248/317
+4
+rare
+Zera, the Crow Maiden
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Creature — Human Warlock 
+3
+4
+<span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Sacrifice a nonland nontoken permanent: Create two 1/1 blue Bird creature tokens with flying.<br>///br///Tap any number of creatures you control with flying: Put target nonland permanent card from your graveyard with mana value equal to the number of creatures tapped this way onto the battlefield under your control. Activate only as a sorcery and only once each turn.
+
+Friendhaircut
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+207/317
+6
+rare
+Obaku, Hex Weaver
+black, green, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Creature — Treefolk Warlock 
+3
+7
+Deathtouch, ward <span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'></span><br>///br///Whenever a creature you don&#8217;t control becomes the target of an ability you control, put a -1/-1 counter and a hex counter on it.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Pay 1 life: Target creature loses all abilities until end of turn.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+73/317
+3
+rare
+Gothr Cutthroat
+black, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct Rogue 
+3
+2
+Lifelink<br>///br///When Gothr Cutthroat enters the battlefield, surveil 2. <i>(Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i><br>///br///When Gothr Cutthroat dies, return another target artifact card from your graveyard to your hand.
+<i>The streets of Gothr are full of fear and desire.<br>///br///</i>
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+97/317
+3
+rare
+Faerus Highborn
+red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct Warlock 
+3
+2
+Menace, haste<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Whenever one or more nontoken creature enters the battlefield under your control this turn, those creatures gain menace and haste until end of turn. Those creatures are artifacts in addition to their other types.
+<i>&#8220;Become reborn in the flames of reconstruction! Let the passion burn off impurities.&#8221;</i>
+Edward Delandre Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+11/317
+3
+rare
+Certhin Ranger
+white, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct Knight Ranger 
+2
+3
+Reach, vigilance<br>///br///When Certhin Ranger enters the battlefield, it deals damage equal to its power to any target.<br>///br///<i>Metalcraft</i> &#8212; <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Certhin Ranger deals damage equal to its power to any target. Activate this ability only if you control three or more artifacts.
+<i>Certhin is guarded by a elite troop of constructs said to be forged by Varyus</i>
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+134/317
+3
+rare
+Moorla Gate Warden
+green, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Construct Warrior 
+2
+4
+Prevent all noncombat damage dealt to Moorla Gate Warden.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>: Moorla Gate Warden gets +3/+3 and gains trample until end of turn. Use this ability only once each turn.
+<i>Moorla is home to everything wild Jaelicia, even overgrown Constructs.</i>
+Travis Anderson
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+43/317
+3
+rare
+Seroa Interloper
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Wizard 
+2
+2
+Flash<br>///br///When Seroa Interloper enters the battlefield, you may sacrifice an artifact or enchantment, if you do, counter target spell or activated ability.
+<i>&#8220;Knowledge is in the hands of those who seek it&#8221; - Seroa saying.</i>
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+152/317
+5
+rare
+Auxious’ Dragoon
+white, black, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Knight 
+4
+5
+Flying Vigilance<br>///br///Whenever a permanent you control but don&#8217;t own is put into a graveyard, the owner of that permanent loses 3 life.
+<i>&#8220;Freedom belongs to those who take it&#8221; - Auxious, Traitor of Certhin</i>
+Dongjunlu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+147/317
+6
+rare
+Absolute Oblivion
+white, black, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+As a additional cost to cast Absolute Oblivion, pay 5 life.<br>///br///Exile all artifacts, creatures, enchantments and planeswalkers.
+<i>War never changes</i>
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+155/317
+5
+rare
+Bloodgem Dark Knight
+black, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct Knight Warlock 
+3
+3
+When Bloodgem Dark Knight enters the battlefield, conquer each opponent.<br>///br///Sacrifice another artifact: Bloodgem Dark Knight gains menace and deathtouch until end of turn.
+<i>A pact paid in blood.</i>
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+156/317
+7
+rare
+Bloodgem Dragon
+black, red, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Dragon 
+6
+6
+Flying, haste<br>///br///Whenever Bloodgem Dragon deals combat damage to a player, conquer that player. <i>(Exile the top card of that players library. You may play that card for as long as it remains exiled, and spend mana as though it was any color.)</i><br>///br///Sacrifice a permanent: Bloodgem Dragon gets +1/+1 until end of turn.
+<i>Known throughout Jaelica as &#8216;blood storms&#8217;, they paint villages red with the destruction they bring.<br>///br///</i>
+Jujusaurus
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+223/317
+5
+rare
+Rupturing Vortex
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Return up to three target nonland permanents to their owner&#8217;s hands. Rupturing Vortex deals 3 damage to target player.
+
+jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+189/317
+6
+rare
+Herald of Kronos
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Angel Wizard Knight 
+4
+4
+Flying<br>///br///<i>Magecraft</i> &#8212; Whenever you cast or copy an instant or sorcery spell, Herald of Kronos deals 2 damage to each opponent and put a +1/+1 counter on Herald of Kronos.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+177/317
+4
+rare
+Essence Elemental
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elemental Cleric 
+2
+2
+Flying, trample, ward <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span><br>///br///Essence Elemental gets +1/+1 for each artifact and enchantment you control.
+<i>Lifewood empowers all things created from it, the inner essence is what fuels its strength.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+217/317
+5
+rare
+Resonant Golem
+blue, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Elemental Golem 
+4
+4
+Trample<br>///br///Resonant Golem enters the battlefield tapped.<br>///br///Whenever you gain life, put that many +1/+1 counters onto Resonant Golem.
+<i>&#8220;This Golem&#8217;s strength is a mystery lost in the very ruins it crawled out from&#8221; - Hector, Hero of Seroa</i>
+GetsugaDante
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+214/317
+3
+rare
+Relinquisher of Blades
+white, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Cleric 
+2
+2
+Whenever a creature token you control dies, put a +1/+1 counter on target creature you control.<br>///br///Whenever Relinquisher of Blades attacks, if it has 4 power or greater, draw a card.
+
+Castaguer93
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+215/317
+3
+rare
+Remember the Legends
+white, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Create two 2/2 white Knight creature tokens with vigilance.<br>///br///<i>Storycraft</i> &#8212; Put an indestructible counter onto target legendary creature you control if you control three or more enchantments.
+<i>&#8220;Do not falter now, remember those that fell before us, and those that turned against us.&#8221; - Paladrin, Hero of Certhin</i>
+eksrey
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+184/317
+4
+rare
+Faces From Before
+red, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each other creature you control that shares a type with that creature.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Create a token copy of target creature you control. You can only activate this ability as a sorcery.
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+229/317
+3
+rare
+Spark Amber
+white, red, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant Creature or planeswalker<br>///br///Enchanted creature loses all abilities and types and is a Spark Amber creature with base power and toughness 0/3.<br>///br///At the beginning of the combat, enchanted creature deals 1 damage to each other creature its owner controls.
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+232/317
+4
+rare
+Strix Knight Commander
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Wizard Knight 
+2
+2
+Flying<br>///br///When Strix Knight Commander enters the battlefield, return target artifact or enchantment to its owners hand.<br>///br///At the beginning of your end step, if you have seven or more cards in your hand, create a 1/1 blue Bird creature token with flying.
+
+rodg-art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+228/317
+5
+rare
+Soul Siphon Naga
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Naga Warlock 
+4
+3
+Whenever another nonartifact creature dies, each opponent loses 1 life.<br>///br///<span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, Sacrifice another creature: Soul Siphon Naga connives. <i>(Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</i>
+
+ArtDeepMind
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+245/317
+5
+rare
+Willow Hexblade
+black, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Treefolk Warlock 
+3
+7
+Deathtouch<br>///br///Whenever Willow Hexblade attacks, target creature defending player controls becomes a 0/1 Treefolk and loses all abilities until end of turn.<br>///br///<span class="symbol"><img src='magic-mana-small-5.png' alt='5' width='14' height='14'></span>: Return Willow Hexblade from your graveyard to your hand.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+78/317
+2
+rare
+Gothr Weaponmaster
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire Cleric Knight 
+2
+2
+As long as there are three or more artifact cards in your graveyard, Gothr Weaponmaster has vigilance.<br>///br///Sacrifice an artifact: Put a +1/+1 counter on Gothr Weaponmaster.
+<i>&#8220;Hmm, this blade is dull, but has its uses.&#8221;</i>
+Devtexture
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+80/317
+3
+rare
+Hell from Above
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Create a 4/4 black Demon creature token with flying.<br>///br///<i>Morbid</i> &#8212; If a creature died this turn, exile target players graveyard.
+<i>In Gothr, hell is not limited to below your feet.</i>
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+87/317
+4
+rare
+Slain by Many
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each creature you control.<br>///br///Destroy target creature.
+<i>&#8220;I think that should do it!&#8221; - Gothr gang leader</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+86/317
+5
+rare
+Scared To Death
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Destroy all nonartifact creatures. Each player loses life for each creature they controlled that was destroyed this way.
+
+Edward Delandre Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+96/317
+2
+rare
+Faerus Hellhound
+red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Dog 
+3
+1
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Faerus Hellhound gains double strike until end of turn.<br>///br///<span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Target creature you control gains haste until end of turn.
+<i>Modeled after man&#8217;s best friend to be machines greatest ally.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+104/317
+5
+rare
+Faerus Sunthrasher
+red, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Horror 
+3
+3
+Flying<br>///br///Faerus Sunthrasher can&#8217;t be blocked by creatures with flying.<br>///br///When Faerus Sunthrasher dies, it deals 3 damage to each creature with flying.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+117/317
+5
+rare
+The Third Chamber of Faerus
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///All permanents lose indestructible until end of turn. Damage can&#8217;t be prevented this turn. The The Third Chamber of Faerus deals 7 damage to target creature or planeswalker. If that permanent would be put into a graveyard, exile it instead and conquer that permanent&#8217;s controller.. <i>(Exile the top card of that players library. You may play that card for as long as it remains exiled, and spend mana as though it was any color.)</i>
+<i>The third chamber is where heros are forged... or forgotten.</i>
+BMD247
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+112/317
+4
+rare
+Razerstone Manticore
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Manticore 
+4
+3
+Flying<br>///br///When Razerstone Manticore enters the battlefield, conquer target opponent. <i>(Exile the top card of that players library. You may play that card for as long as it remains exiled, and spend mana as though it was any color.)</i><br>///br///Whenever you cast a spell from exile, create a blood token.
+<i>The saying in Faerus is what is yours is mine, and what is not yours is mine as well.<br>///br///</i>
+Bayardwu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+7/317
+2
+rare
+Certhin Dragoon Roost
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+When Certhin Dragoon Roost enters the battlefield, create a 1/2 white Drake creature token with flying.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Create a 1/2 white Drake creature token with flying. Activate this ability only during your turn.
+
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+13/317
+4
+rare
+Certhin Slayer
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Warrior Ranger 
+3
+3
+Reach<br>///br///Choose a creature type as Certhin Slayer enters the battlefield.<br>///br///Certhin Slayer has protection from creatures of the chosen type. <i>(This creature can&#8217;t be blocked, targeted or dealt damage by creatures of the chosen type.)</i>
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+12/317
+6
+rare
+Certhin Sand Dragon
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Dragon 
+5
+5
+Flying<br>///br///Whenever Certhin Sand Dragon enters the battlefield or attacks, return target artifact or creature to its owners hand.<br>///br///Sacrifice a artifact: Certhin Sand Dragon gains lifelink until end of turn.
+<i>If you feel a rumbling in the sand, change course.</i>
+88GRZES
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+4/317
+6
+rare
+Certhin Champion
+white
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Giant Warrior 
+5
+5
+Vigilance, trample<br>///br///Spells and abilities you control that target Certhin Champion costs <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span> less to cast or activate.<br>///br///<i>Heroic</i> &#8212; Whenever you cast a spell that targets Certhin Champion, put a +1/+1 counter on each creature you control.
+<i>Being a champion isn&#8217;t easy, but it&#8217;s made easier when you are a master of arms.</i>
+Yerbol Bulkentayev
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+144/317
+4
+rare
+Titan of Bounty
+green, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Elemental Golem 
+3
+3
+<span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Put a +1/+1 counter on Titan of Bounty.<br>///br///<span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, Sacrifice Titan of Bounty: Search your library for a land card for each +1/+1 counter on Titan of Bounty as this ability was activated. Put those lands onto the battlefield tapped and shuffle.
+<i>Now that is explosive!</i>
+Artozi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+127/317
+6
+rare
+Moorla Ancient Borderguard
+green, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Construct Knight 
+4
+4
+Reach<br>///br///When Moorla Ancient Borderguard enters the battlefield, create two 1/1 blue Bird creature tokens with flying.<br>///br///<span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Moorla Ancient Borderguard fights another target creature you don&#8217;t control.
+
+Edward Delandre Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+122/317
+5
+rare
+Bring Home the Beasts
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Search your library for two nonartifact creature cards and reveal them, put them into your hand and shuffle.
+
+Theoskengen
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+143/317
+8
+rare
+Thunderfoot Ancient
+green
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Treefolk Druid Warrior 
+5
+7
+Reach, trample<br>///br///This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less for each creature you control.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Creatures you control may assign combat damage as if they weren&#8217;t blocked this turn.
+
+Bayardwu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+52/317
+2
+rare
+Time Piper
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Wizard 
+0
+1
+Flash<br>///br///When Time Piper enters the battlefield, untap all artifacts you control.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Return Time Piper from your graveyard to your hand.
+
+jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+47/317
+3
+rare
+Seroa Silver
+blue, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact
+
+
+Artifact creatures you control get +1/+1.<br>///br///<i>Magecraft</i> &#8212; Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter onto up to one target artifact creature you control.
+
+pieredroal
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+41/317
+5
+rare
+Seroa Arms Bearer
+blue, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Knight 
+3
+2
+Flash<br>///br///When Seroa Arms Bearer enters the battlefield, put a +1/+1 counter on up to X target creatures you control where X is the number of cards in your hand.
+<i>&#8220;Blades a blink away. what a efficient armory&#8221; - Seroa Knight captain</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+44/317
+6
+rare
+Seroa Market Guard
+blue, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Golem Knight 
+4
+3
+As long as you control another artifact, Seroa Market Guard has ward <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>.<br>///br///As long as you control an enchantment, Seroa Market Guard has vigilance.<br>///br///As long as Seroa Market Guard has a counter on it, it can&#8217;t be blocked.
+<i>Guards even shop for themselves to help protect the patrons.</i>
+Travis Anderson
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+266/317
+2
+rare
+Luminant Engine
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Add one mana of any color.
+<i>&#8220;With this device, our future will be brighter!&#8221; - Young Inventor</i>
+kuzy62
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+256/317
+1
+rare
+Contraption Schematics
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>: Contraption Schematics becomes a Construct creature in addition to its other types, with base power and toughness 1/1.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Put a +1/+1 counter on target artifact creature.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Remove three +1/+1 counters from Contraption Schematics: Draw three cards.
+
+Caconym Design
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+267/317
+5
+rare
+Mitotic Propagator
+artifact
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'>
+Artifact
+
+
+As Mitotic Propagator enters the battlefield, choose a creature type.<br>///br///Creatures of the chosen type cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast.<br>///br///Creatures of the chosen type enter the battlefield with an additional +1/+1 counter.
+
+Kuzy62
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+151/317
+2
+uncommon
+Auxious’ Devotee
+white, black, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Cleric 
+2
+2
+Lifelink<br>///br///Creatures you control but don&#8217;t own have lifelink.
+<i>&#8220;My devotion to Auxious is like a undying flame.&#8221;</i>
+Anatofinnstark
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+210/317
+2
+uncommon
+Pursue Glory
+white, black, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; Target creature gains lifelink and vigilance for as long as Pursue Glory is under your control.<br>///br///III &#8212; Attacking creatures you control get +1/+0.<br>///br///At the beginning of your end step, if you gain life this turn, return this card from your graveyard to your hand.
+<i>&#8220;Hope is onward...&#8221; - Certhin Cleric</i>
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+167/317
+3
+uncommon
+Decide Fate
+white, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Choose one -<br>///br///<b>&#8226; </b>Exile target creature.<br>///br///<b>&#8226; </b>Target creature gains indestructible until end of turn.
+<i>&#8220;For those who do not follow, your path ends here...&#8221; - Certhin Cleric</i>
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+157/317
+2
+uncommon
+Certhin Exile
+white, black, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Knight 
+1
+2
+Flying, vigilance<br>///br///Certhin Exile gets +1/+1 for each creature you control but don&#8217;t own.
+<i>&#8220;I may have left my home, but I haven&#8217;t forgotten my calling.&#8221;</i>
+dongjunlu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+237/317
+3
+uncommon
+Traitor’s Torch
+white, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature can&#8217;t be blocked by creatures with power 3 or less.<br>///br///Whenever a creature enters the battlefield under your control, if you don&#8217;t own it, you may attach Traitor&#8217;s Torch to that creature.<br>///br///Equip creature you don&#8217;t own <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span><br>///br///Equip <span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+168/317
+2
+uncommon
+Demonic Purge
+black, red, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Put three -1/-1 counters onto target creature. If that creature dies this turn, its controller loses 3 life.
+<i>A demon&#8217;s touch is an unforgettable nightmare.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+208/317
+3
+uncommon
+Pathway Cutthroat
+black, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Warrior 
+3
+2
+When Pathway Cutthroat enters the battlefield, you may sacrifice a permanent, if you do, destroy target creature with power less than or equal to Pathway Cutthroat&#8217;s power.<br>///br///Creatures with power less than Pathway Cutthroat can&#8217;t block it
+<i>&#8220;Drop the damn coin.&#8221;</i>
+Rodg-Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+238/317
+3
+uncommon
+Treacherous Devil
+black, red, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Devil Warrior 
+4
+2
+When Treacherous Devil enters the battlefield, sacrifice a permanent.<br>///br///Whenever you sacrifice a permanent, Treacherous Devil deals 1 damage to each player.
+<i>It&#8217;s thirst for blood never tires.</i>
+Tsabo6
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+204/317
+4
+uncommon
+Lord of Fear
+black, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct Demon Warlock 
+3
+3
+When Lord of Fear enters the battlefield, gain control of target creature with lesser power.<br>///br///Whenever you gain control of a permanent, put a +1/+1 counter on Lord of Fear.
+<i>&#8220;Bring them to me.&#8221;</i>
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+174/317
+4
+uncommon
+Eldritch Scriptures
+black, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; Destroy target creature or artifact.<br>///br///III &#8212; Exile the top card of each players library. You may play those cards for as long as they remained exiled.<br>///br///&#8203;
+<i>&#8220; I seek the power of those before me, and yet to come.&#8221; - Master Warlock</i>
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+211/317
+2
+uncommon
+Pyre Bolt
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Pyre Bolt deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+<i>The spiraling flames consume flesh in seconds.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+226/317
+3
+uncommon
+Sigiled Executioner
+blue, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct Wizard Knight 
+2
+2
+Sigiled Executioner has double strike as long as there are three instant and/ or sorcery cards you own in exile and in your graveyard.
+<i>&#8220;Might and magic.&#8221;</i>
+Tsabo6
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+197/317
+5
+uncommon
+Ionic Warp
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Suspend 1 <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(Rather than cast this card from your hand, you may pay <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</i><br>///br///Ionic Warp deals 3 damage to each creature your opponents control.
+<i>&#8220;Glad I wasn&#8217;t holding that ionic spell scroll...&#8221; - Seroan Wizard</i>
+Tsabo6
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+213/317
+3
+uncommon
+Reimergent Seas
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; <br>///br///Target creature phases out.<br>///br///III &#8212; Draw two cards.<br>///br///&#8203;
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+187/317
+5
+uncommon
+Herald of Enervation
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Angel Wizard 
+3
+3
+Flying<br>///br///<i>Magecraft</i> &#8212; Whenever you cast or copy an instant or sorcery spell, create a 1/1 blue Bird creature token with flying, it gains haste until end of turn.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+181/317
+2
+uncommon
+Essence Pool
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; Target player mills three cards.<br>///br///III &#8212; <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Untap target artifact you control.<br>///br///Create a copy of target artifact you control with mana value 2 or less.
+
+Travis Anderson
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+243/317
+2
+uncommon
+Wield Essence
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Flash<br>///br///Enchant noncreature non-equipment artifact<br>///br///Enchanted artifact is an equipment with &#8220;Equipped creature gets +X/+X, where X is the mana value of this permanent.&#8221; and &#8220;Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.&#8221; 
+
+jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+202/317
+2
+uncommon
+Lifewood Opening
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Exile target artifact or enchantment you control, then return it to the battlefield.<br>///br///Draw a card.
+
+Nele-Diel
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+179/317
+3
+uncommon
+Essence Guardian
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Cleric Shaman 
+2
+2
+When Essence Guardian enters the battlefield, you may have target noncreature artifact you control become a 2/2 Construct artifact creature for as long as Essence Guardian is under your control.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+194/317
+4
+uncommon
+Infuse the Constructs
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Each noncreature non-equipment artifact you control becomes a 2/2 Construct Knight creature in addition to its types until end of turn.
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+225/317
+2
+uncommon
+Scout Ahead
+white, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Search your library for a historic card, put it into your hand, then shuffle. <i>(Artifacts, legendaries, and Sagas are historic.)</i>
+
+Florentllamas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+224/317
+3
+uncommon
+Scalebane Plate
+white, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature gets +1/+1 for each token you control.<br>///br///Equip legendary creature <span class="symbol"><img src='magic-mana-small-0.png' alt='0' width='14' height='14'></span><br>///br///Equip <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>
+
+Tamplierpainter
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+205/317
+4
+uncommon
+Moorla Offerings
+white, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Support 4 <i>(Put a +1/+1 counter on each of up to four target creatures.)</i><br>///br///<i>Storycraft &#8212; </i>Draw a card for each creature you control with power 4 or greater if you control three or more enchantments.
+<i>A present of pure essence, grown in the deep woods of Moorla.</i>
+Toblin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+158/317
+5
+uncommon
+Certhin Trading Grounds
+white, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Target opponent chooses one of the following -<br>///br///<b>&#8226; </b>Both you and that opponent gain 2 life.<br>///br///<b>&#8226; </b>Both you and that opponent create a 2/2 white Knight token with vigilance.<br>///br///<b>&#8226; </b>Both you and that opponent draw a card.
+
+Czepeku
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+171/317
+6
+uncommon
+Disassembled Ancient
+white, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct Knight 
+0
+0
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each creature you control with a +1/+1 counter on it.<br>///br///Disassembled Ancient enters with three +1/+1 counters on it.<br>///br///<span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>: Put a +1/+1 counter on Disassembled Ancient.
+
+Castaguer93
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+241/317
+2
+uncommon
+Viashino Venomancer
+red, green, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Viashino Shaman 
+2
+1
+Deathtouch<br>///br///Other Viashino you control get +1/+0 and have deathtouch.
+
+Tsabo6
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+154/317
+4
+uncommon
+Banner of the Banished
+red, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+When Banner of the Banished enters the battlefield, create two 2/2 red and green Viashino creature tokens with &#8220;When this creature attacks, it explores&#8221;<br>///br///Sacrifice Banner of the Banished: Destroy target artifact you don&#8217;t control.
+
+Hokunin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+193/317
+5
+uncommon
+Inciter Shaman
+red, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Naga Shaman 
+3
+4
+Trample<br>///br///When Inciter Shaman enters the battlefield, nonartifact creatures you control gain haste and trample until end of turn.<br>///br///As long as Inciter Shaman is attacking, creatures you control get +1/+0.
+
+Artdeepmind
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+160/317
+2
+uncommon
+Cleanse Machina
+white, red, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Exile target artifact. If that artifact was a creature, you gain 4 life.
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+150/317
+3
+uncommon
+Assembly Required
+white, red, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Create a copy of target artifact. If that copy is an equipment, attach that copy to a creature you control.
+<i>The sunmade clan are renowned smiths of replication, yet others are unable to recreate their technology.</i>
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+233/317
+3
+uncommon
+Sunmade Knight
+white, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct Knight 
+2
+3
+Vigilance<br>///br///<i>Metalcraft</i> &#8212; Whenever a creature token attacks under your control, that creature gets +1/+1 until end of turn as long as you control three or more artifacts.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+219/317
+2
+uncommon
+Revoking Light
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Destroy target attacking or blocking creature. You gain 2 life.
+<i>Spirit&#8217;s manifested through the essence of the world are capable</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+165/317
+2
+uncommon
+Crush the Clock
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+This spell can&#8217;t be countered.<br>///br///Counter target artifact, enchantment or planeswalker spell.
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+209/317
+4
+uncommon
+Prophesized by the Ruins
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Draw a card for each artifact and enchantment you control. Then each opponent exiles the top four cards of their library.
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+195/317
+2
+uncommon
+Invoke Perception
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Surveil 3, then for each card you put into your graveyard this way, target player mills two cards. <i>(Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</i>
+
+Bayardwu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+206/317
+3
+uncommon
+Necromantic Studies
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+Whenever a nontoken creature you control dies, you may sacrifice an artifact. If you do, return that creature to your hand.
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+163/317
+4
+uncommon
+Crow Conjurer
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Warlock 
+2
+2
+When Crow Conjurer enters the battlefield, create two 1/1 blue Bird tokens with flying.<br>///br///Tap two other untapped creatures you control: Target creatures gets +2/+2 and gains flying until end of turn.
+
+Artdeepmind
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+246/317
+3
+uncommon
+Willow Warden
+black, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Treefolk Solider 
+2
+4
+Deathtouch<br>///br///Willow Warden can&#8217;t be blocked by artifact creatures.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, Exile Willow Warden from your graveyard: Put a hex counter onto target creature you don&#8217;t control.
+
+Edward Delandre Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+240/317
+3
+uncommon
+Underrock Ogre
+black, green, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Ogre Rogue 
+4
+3
+Menace<br>///br///Underrock Ogre can&#8217;t block or be blocked by creature&#8217;s with flying.
+<i>A uncommon monster of Jaelicia, yet still very imposing.</i>
+eksrey
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+218/317
+5
+uncommon
+Revoke the Scriptures
+black, green, multicolor, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+Counter the first spell your opponents cast during your turn.<br>///br///<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>: Target creature loses all abilities until end of turn.
+<i>Eldritch texts tell of times where the gods cease to exist.</i>
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+85/317
+2
+uncommon
+The Restless Path
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Whenever target artifact or creature you own is put into a graveyard this turn, return it to your hand. <br>///br///Draw a card.
+<i>&#8220;There is still use for your talents, take my horse and ride back to Gothr.&#8221; - Carq, Hero of Gothr</i>
+Morkardfc
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+62/317
+3
+uncommon
+Artificial Rebirth
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Return target artifact card from your graveyard to the battlefield. If that permanent is a creature, it gains haste until end of turn.
+<i>Transformed by soul magic, reborn by advanced technology.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+67/317
+3
+uncommon
+Construct Death
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+<i>Metalcraft</i> &#8212; This spells costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> less to cast if you control three or more artifacts.<br>///br///Destroy target creature.
+<i>&#8220;I won&#8217;t fall to Demons from above...&#8221; - Gothr Knight</i>
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+77/317
+3
+uncommon
+Gothr Soulstress
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire Warlock 
+3
+1
+Deathtouch<br>///br///Whenever a nontoken nonartifact creature you control dies, create a 1/1 black Bat artifact creature token with flying.
+<i>She refines the souls of the fallen to continue to serve.</i>
+Allnamesinuse
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+88/317
+7
+uncommon
+Soulless Eclipse
+black
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Return up to two artifact creature cards from your graveyard to the battlefield.
+<i>The black sun is the sign of the old gods.</i>
+Morkardfc
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+83/317
+4
+uncommon
+Planar Contract
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Search your library for a card and put it into your graveyard then shuffle.<br>///br///For each opponent, return target card from your graveyard to your hand.
+
+Kotnonekot
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+69/317
+5
+uncommon
+Demonic Beastmaster
+black
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire Warlock 
+1
+1
+Menace<br>///br///When Demonic Beastmaster enters the battlefield, create two 2/2 black Demon Beast creature tokens with menace.
+<i>A usher of destruction.</i>
+Kuzinskiy
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+70/317
+9
+uncommon
+Devourer of Rust
+black
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Leviathan Horror 
+5
+5
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each artifact card in your graveyard.<br>///br///Flying
+<i>This is the result of a full junkyard.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+100/317
+1
+uncommon
+Faerus Reaver
+red, artifact, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct Warrior 
+2
+1
+First strike<br>///br///Faerus Reaver can&#8217;t block.
+<i>Patrolling the upper layers of Faerus, reavers aren&#8217;t told to protect, but to hunt.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+116/317
+3
+uncommon
+Smother in Flames
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Smother in Flames deals 4 damage to target creature.<br>///br///<i>Metalcraft</i> &#8212; Opponents can&#8217;t gain life until the end of your next turn if you control three or more artifacts
+
+elgrimlock
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+115/317
+4
+uncommon
+Siphon Blood
+red
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Destroy target creature or nonbasic land. Create three blood tokens. <i>(They&#8217;re artifacts with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Discard a card, Sacrifice this artifact: Draw a card.&#8221;)</i>
+<i>Faerus saps the resources of every living thing in Jaelicia.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+105/317
+4
+uncommon
+Faerus Vatwasp
+red, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Imp 
+3
+2
+Flying, haste<br>///br///When Faerus Vatwasp dies, it deals 3 damage to you.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+95/317
+4
+uncommon
+Faerus Crag Fiend
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elemental Devil 
+4
+2
+Menace<br>///br///When Faerus Crag Fiend dies, it deals damage equal to its power to up to one target creature or planeswalker.
+
+Artdeepmind
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+108/317
+4
+uncommon
+Hostile Territory
+red
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Enchantment
+
+
+Whenever a creature attacks you or a planeswalker you control, Hostile Territory deals 1 damage to that creature.<br>///br///Sacrifice an artifact: Hostile Territory deals 1 damage to target attacking creature.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+93/317
+5
+uncommon
+Faerus Centurion
+red, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Centaur Warrior 
+4
+3
+Haste<br>///br///Whenever Faerus Centurion attacks, other attacking creatures gain +1/+0 until end of turn.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+92/317
+6
+uncommon
+Faerus Broodmother
+red, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Spider 
+3
+5
+Reach<br>///br///<i>Metalcraft</i> &#8212; Whenever Faerus Broodmother attacks, if you control three or more artifacts, create a 1/1 red Imp creature token with flying and &#8220;When this creature dies, it deals 1 damage to you.&#8221;
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+10/317
+1
+uncommon
+Certhin Nomad
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Scout Rogue 
+1
+2
+When Certhin Nomad enters the battlefield, search your library for a Plains card and put it into your hand, then shuffle.
+
+Tsabo6
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+30/317
+2
+uncommon
+Wordly Possesions
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creautre you don&#8217;t control<br>///br///Enchanted creature gets -1/-1 for each artifact and/ or enchantment on the battlefield.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+27/317
+2
+uncommon
+Timeless Scribe
+white, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct Wizard 
+0
+1
+Timeless Scribe gets +1/+1 for each artifact and enchantment on the battlefield.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, Sacrifice an artifact or enchantment: Timeless Scribe gains flying until end of turn.
+
+Morkardfc
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+19/317
+2
+uncommon
+Fall of the Fallen
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Destroy target nonwhite creature.
+<i>&#8220;I&#8217;m sending you back to the hell you crawled out from.&#8221;</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+28/317
+3
+uncommon
+Timeless Texts
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature<br>///br///Enchanted creature gets +1/+1 for each artifact and/ or enchantment on the battlefield.
+
+morkardfc
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+15/317
+4
+uncommon
+Contest of Metal
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Choose one -<br>///br///<b>&#8226; </b>Exile up to two target creatures you control, return them to the battlefield under your control.<br>///br///<b>&#8226; </b>Put a +1/+1 counter on each creature you control.
+<i>&#8220;You are either coming with me, or feeling the full might of the resistance.&#8221; - Certhin Exile</i>
+Dongjunlu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+8/317
+4
+uncommon
+Certhin Herdmaster
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Shaman 
+1
+1
+When Certhin Herdmaster enters the battlefield create a 3/3 green and white Beast token with trample.<br>///br///Other creatures you control get +1/+0.
+
+Edward Delandre Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+23/317
+5
+uncommon
+Repel the Assault
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Destroy all attacking creatures.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+126/317
+1
+uncommon
+Hidden Hand of Moorla
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elf Rogue 
+1
+1
+Flash, deathtouch
+
+Rodg-Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+135/317
+2
+uncommon
+Moorla Golem
+green, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Elemental Golem 
+2
+2
+Whenever you gain life, put a +1/+1 counter on Moorla Golem.<br>///br///<i>Storycraft </i>&#8212; Moorla Golem has ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> as long as you control three or more enchantments. <i>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.)</i>
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+140/317
+2
+uncommon
+Resting Horn
+green, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact
+
+
+At the beginning of your end step, if you control a tapped creature, you gain 2 life.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+129/317
+2
+uncommon
+Moorla Constrictameleon
+green
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Lizard Serpent 
+0
+0
+Moorla Constrictameleon comes into play with X +1/+1 counters.<br>///br///Remove a +1/+1 counter from Moorla Constrictameleon: Other creatures you control get +1/+1 until end of turn.
+
+Jujusaurus
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+132/317
+2
+uncommon
+Moorla Elderboar
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Boar 
+3
+2
+Moorla Elderboar can&#8217;t be blocked by creatures with power 2 or less.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice Moorla Elderboar: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Castaguer93
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+142/317
+3
+uncommon
+Shamanic Circle
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+Creatures you control get +1/+1.<br>///br///Whenever you gain life, up to one target creature you control gets +1/+1 until end of turn.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+121/317
+4
+uncommon
+Bounty of Moorla
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+Whenever a creature with power 4 or greater enters the battlefield under your control, that creature explores.<br>///br///Whenever a land enters the battlefield under your control, you gain 1 life.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+128/317
+5
+uncommon
+Moorla Bond
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+Whenever Moorla Bond enters the battlefield, create a 1/1 green Druid token.<br>///br///<span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, Tap a creature with base power and toughness 1/1 you control: Target land you control becomes a 4/4 Elemental Golem creature, it is still a land.
+
+Artozi
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+48/317
+1
+uncommon
+Seroa Soulless
+blue, artifact, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Skeleton Wizard Knight 
+2
+2
+Seroa Soulless enters the battlefield tapped.<br>///br///You may cast Seroa Soulless from your graveyard as long as you have seven or more cards in your hand.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+38/317
+2
+uncommon
+Relic Siphoner
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Rogue 
+2
+1
+Flash<br>///br///Whenever Relic Thief deals combat damage to a player, draw a card. If that player controls an artifact or enchantment, draw an additional card.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+56/317
+3
+uncommon
+Weave Essence
+blue
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Choose one -<b><br>///br///&#8226; </b>Target artifact or enchantment becomes a Construct creature in addition to its other types, with base power and toughness equal to its mana value.<br>///br///<b>&#8226; </b>Counter target artifact or enchantment spell.
+
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+35/317
+2
+uncommon
+Haze Maze Golem
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Golem 
+4
+4
+Haze Maze Golem can only attack alone.<br>///br///Haze Maze Golem can only block alone.<br>///br///You have no maximum hand size.
+
+Toblin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+45/317
+4
+uncommon
+Seroa Monitor
+blue, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Monk 
+0
+5
+No more than one creature can attack each combat.<br>///br///No more than one creature can block each combat.<br>///br///At the beginning of your end step, if you have seven or more cards in your hand, target opponent mills five cards.
+
+Pete Mohr Bracher
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+50/317
+5
+uncommon
+Technological Awe
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant creature you control<br>///br///Whenever a artifact creature enters the battlefield under your control, it enters as a copy of enchanted creature.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+53/317
+6
+uncommon
+Timless Soul Wielder
+blue, artifact, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Warlock 
+3
+2
+Artifact creatures you control have haste.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice a creature: Return target artifact card from your graveyard to your hand. Activate this ability only if you have three or more instant and/ or sorcery cards you own in exile and in your graveyard.
+<i>Wisdom gained from experience is a deadly weapon.</i>
+Jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+33/317
+10
+uncommon
+Cloudshifter Golem
+blue, artifact, horizontal
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Elemental Golem 
+5
+5
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each card in your hand.<br>///br///Reach<br>///br///When Cloudshifter Golem enters the battlefield, return another target artifact or enchantment you control to your hand.
+
+000fesbra000
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+280/317
+2
+uncommon
+Siphoner Drone
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact Creature — Drone 
+1
+1
+When Siphoner Drone dies, each player loses 2 life.
+<i>Wielding volatile essence, these drones are meant to disrupt the innovations of tomorrow.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+271/317
+2
+uncommon
+Rest in Stone
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact
+
+
+When Rest in Stone enters the battlefield, create a 1/1 blue Bird creature token with flying.<br>///br///Activated abilities of cards in graveyards can&#8217;t be activated.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>: Exile target card from a graveyard.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+258/317
+3
+uncommon
+Forging Grounds
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact
+
+
+Whenever another artifact you control is put into a graveyard, put a +1/+1 counter on up to one target creature you control.<br>///br///<span class="symbol"><img src='magic-mana-small-6.png' alt='6' width='14' height='14'></span>: Create a token copy of this permanent.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+252/317
+3
+uncommon
+Augmentor Servo
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact Creature — Servo 
+2
+2
+Augmentor Servo has flying as long as you control a artifact creature with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, lifelink, menace, reach, shroud, trample, vigilance and ward.
+<i>&#8220;Adaptable and adorable.&#8221; - Hector, Hero of Seroa</i>
+Alradeck
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+272/317
+4
+uncommon
+Rev Beast
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact Creature — Construct Beast 
+4
+2
+Haste<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>: Attach target equipment you control to Rev Beast.
+<i>If you see a red glow at night, know it is too late to run.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+269/317
+6
+uncommon
+Orbis of Chaos
+artifact
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'>
+Legendary Artifact
+
+
+Orbis of Chaos has all activated abilities of each other artifact on the battlefield.<br>///br///Whenever another artifact ability is activated, if it isn&#8217;t a mana ability, Orbis of Chaos deals 1 damage to the owner of that ability.
+
+Kotnonekot
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+270/317
+7
+uncommon
+Precipice of Power
+artifact
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'>
+Artifact
+
+
+When Precipice of Power enters the battlefield, destroy up to one other target nonland permanent.<br>///br///Sacrifice three artifacts and/or enchantments: Return Precipice of Power from your graveyard to your hand.
+
+queenofeagles
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+175/317
+2
+common
+Empowering Stone
+white, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact
+
+
+Empowering Stone enters the battlefield tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Target creature gains +1/+1 until end of turn.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Sacrifice Empowering Stone: Draw a card.
+
+NURO_ART
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+199/317
+3
+common
+Knight of Auxious
+white, black, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct Knight 
+2
+3
+When Knight of Auxious dies, you may exile it. If you do, gain control of target creature with lesser power.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+198/317
+3
+common
+Judicial Smite
+white, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+As a additional cost to cast Judicial Smite, sacrifice an artifact or enchantment.<br>///br///Exile target nonland permanent.
+<i>&#8220;My weapon may not endure this strike, but most certainly, you fall with it.&#8221;</i>
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+221/317
+3
+common
+Riler Demon
+black, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Demon Shaman 
+3
+1
+When Riler Demon dies, create a 2/2 black Demon Beast creature token with menace.
+<i>&#8220;Fetch me their souls.&#8221;</i>
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+251/317
+2
+common
+Forge of Conquerors
+black, red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-BR.png' alt='B/R' width='16' height='16'>
+Artifact
+
+
+Creatures you control but don&#8217;t own get +1/+1.<br>///br///<span class="symbol"><img src='magic-mana-small-6.png' alt='6' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Target creature gets +3/+3 and menace until end of turn.
+<i>Blades worthy of taking, making and breaking.</i>
+DartGarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+230/317
+5
+common
+Spawn of Conquerors
+black, red, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Demon Warrior 
+4
+2
+When Spawn of Conquerors dies, conquer target opponent. <i>(Exile the top card of that players library. You may play that card for as long as it remains exiled, and spend mana as though it was any color.)</i>
+
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+196/317
+2
+common
+Ionic Halberdier
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Wizard Knight 
+2
+2
+<span class="symbol"><img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>: Ionic Halberdier gets +X/+X until end of turn, where X is equal to the number of instant and sorcery cards in you own in exile and in your graveyard.
+
+Artdeepmind
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+239/317
+6
+common
+Trinity Bolt
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Suspend 3 <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span><br>///br///Trinity Bolt deals 3 damage to up to three targets.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+190/317
+6
+common
+Herald of Stasis
+blue, red, multicolor, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Angel Wizard 
+4
+4
+Flying<br>///br///When Herald of Stasis enters the battlefield, return target instant or sorcery card from your graveyard to your hand.
+<i>&#8220;Hold that thought.&#8221;</i>
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+182/317
+2
+common
+Essence Spirits
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Spirit 
+1
+1
+Flying<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-C.png' alt='C' width='14' height='14'></span>. Spend this mana only to cast artifact or enchantment spells.
+
+QueenofEagles
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+180/317
+3
+common
+Essence Knight
+blue, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Cleric Knight 
+3
+2
+When Essence Knight enters the battlefield, if you control an enchantment, return target creature to its owner&#8217;s hand.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+203/317
+2
+common
+Lifewood Portal
+blue, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact
+
+
+Lifewood Portal enters the battlefield tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Target creature can&#8217;t be blocked this turn. Activate this ability only if you control an enchantment.
+
+Negg4dia
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+191/317
+3
+common
+Herd the Hollows
+white, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; You gain 3 life.<br>///br///III &#8212; Create a 3/3 green and white Beast token with trample.<br>///br///Put a +1/+1 counter on up to one target creature you control.
+
+DartGarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+186/317
+3
+common
+Hands of Solidarity
+white, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact
+
+
+When Hands of Solidarity enters the battlefield, create a 1/1 blue Bird creature token with flying.<br>///br///<span class="symbol"><img src='magic-mana-small-X.png' alt='X' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Tap target creature with mana value X. It doesn&#8217;t untap during its controllers next untap step.
+
+Czepeku
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+149/317
+2
+common
+Altar of Dynasty
+red, green, artifact, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact
+
+
+As Altar of Dynasty enters the battlefield choose a creature type.<br>///br///Creatures of the chosen type get +1/+0.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of any color. Use this mana to cast creature spells with the chosen type or activate an ability of a creature of the chosen type.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+236/317
+2
+common
+Toothy Viashino
+red, green, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Viashino Warrior 
+3
+1
+Whenever another creature you control explores, Toothy Viashino deals 1 damage to each opponent.
+
+Devtexture
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+234/317
+5
+common
+Temple of the Old Dynasty
+red, green, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I &#8212; Create a 2/2 red and green Viashino creature token with &#8220;When this creature attacks, it explores.&#8221;<br>///br///II &#8212; Until end of turn, creature spells you cast cost <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> less to cast.<br>///br///III &#8212; Mill four cards.
+
+Travis Anderson
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+192/317
+2
+common
+Ignite the Core
+white, red, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Sorcery
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Target creature deals damage equal to its power to itself.
+
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+212/317
+2
+common
+Pyre Knight
+white, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct Wizard Knight 
+2
+2
+Haste<br>///br///<i>Heroic</i> &#8212; Whenever Pyre Knight becomes the target of a spell you control, it deals 1 damage to each opponent.
+<i>Wielding cold steel and scorching flame.</i>
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+170/317
+3
+common
+Despite the Odds
+white, red, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; Despite the Odds deals 2 damage to target opponent.<br>///br///III &#8212; Whenever a creature you control attacks this turn, you may pay <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>. If you do, put a +1/+1 counter on it.<br>///br///&#8203;
+<i>&#8220;To surrender is to let fate slip from ones hands.&#8221; - Sunmade saying</i>
+Anatofinnstark
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+172/317
+3
+common
+Diviner’s Essence
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; Create a 1/1 blue Bird creature token with flying.<br>///br///III &#8212; Scry 1, then draw a card.<br>///br///&#8203;
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+222/317
+2
+common
+Runic Reader
+white, blue, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Wizard 
+1
+3
+Whenever an artifact or enchantment enters the battlefield under your control, Scry 1.<br>///br///<span class="symbol"><img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>: Investigate. <i>(Create a colorless Clue artifact token with &#8220;<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+Rodg-Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+173/317
+2
+common
+Diviner’s Thopter
+white, blue, artifact, multicolor, horizontal
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Thopter 
+2
+1
+Flying<br>///br///When you cast an artifact or enchantment spell, creatures you control with flying get +1/+1 until end of turn.
+
+Alradeck
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+249/317
+2
+common
+Zera’s Crow
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Bird 
+1
+1
+Flying<br>///br///Whenever Zera&#8217;s Crow becomes tapped, it connives. <i>(Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on this creature.)</i>
+
+Friendhaircut
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+164/317
+2
+common
+Crow Conspiracy
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; Create a 1/1 blue Bird creature token with flying.<br>///br///III &#8212; Tap an untapped creature you control with flying: Scry 1.<br>///br///&#8203;
+
+dusint
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+148/317
+3
+common
+Access Revoked
+blue, black, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Choose one -<br>///br///<b>&#8226; </b>Target player can&#8217;t search their library this turn.<br>///br///<b>&#8226; </b>Counter target spell.<br>///br///<b>&#8226; </b>Target player discards a card.
+
+Castaguer93
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+227/317
+2
+common
+Slumber in the Glades
+black, green, multicolor, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Saga 
+
+
+<i>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i><br>///br///I, II &#8212; Tap up to two creatures. Put a hex counter on each of them.<br>///br///III &#8212; Until end of turn, creatures your opponents control with hex counters on them have base power and toughness 0/2.<br>///br///Target creature you don&#8217;t own loses all abilities until your next turn.
+<i>&#8220;Lets rest under the shade of those willows...&#8221; - Now demoted knight</i>
+DartGarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+166/317
+3
+common
+Deathchanter
+black, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Warlock 
+2
+2
+When Deathchanter enters the battlefield or dies, another target creature gains menace and deathtouch until end of turn.<br>///br///<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Target creature must be blocked this turn.
+
+Eksrey
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+244/317
+3
+common
+Willow Beast
+black, green, multicolor, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Nightmare Beast 
+2
+2
+Whenever Willow Beast attacks, put a -1/-1 counter on up to one target creature defending player controls.
+<i>Its breath is so bad, you can smell it in your sleep.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+76/317
+1
+common
+Gothr Prodder
+black, artifact, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Skeleton Rogue Knight 
+1
+1
+Whenever Gothr Prodder attacks, as long as you control another artifact or an enchantment, it explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</i>
+<i>Skull and bones, covered in armor.</i>
+Edward Delandre Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+81/317
+1
+common
+Ingrain Sickness
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Put two -1/-1 counters onto target creature.
+<i>You won&#8217;t recover any time soon.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+61/317
+1
+common
+Abyssal Catfish
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire Fish 
+2
+1
+Abyssal Catfish can&#8217;t block artifact creatures
+<i>Don&#8217;t swim in the lakes of Gothr. The fish lie in wait.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+84/317
+2
+common
+Reap Souls
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+As an additional cost to cast Reap Souls, sacrifice any number of nonartifact creatures.<br>///br///For each creature sacrificed this turn, draw a card and create a blood token. <i>(It&#8217;s an artifact with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Discard a card, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+Allnamesinuse
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+71/317
+4
+common
+Expose the Hold
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Destroy target artifact, enchantment or nonbasic land.
+<i>&#8220;A well placed blast spell should do the trick&#8221; - Adept warlock</i>
+Lee Sue Yeon
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+79/317
+3
+common
+Grip Enlightenment
+black
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Each opponent discards a card. If you control an artifact, each of those players discards an additional card. If you control a enchantment, each of those players discards an additional card.
+
+Travis Anderson
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+74/317
+4
+common
+Gothr Hexblade
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Human Warlock Knight 
+3
+2
+Deathtouch<br>///br///Creatures blocking Gothr Hexblade lose all abilities until end of turn.
+<i>&#8220;A spell strong enough to slay a god.&#8221;</i>
+Allnamesinuse
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+82/317
+4
+common
+Peel the Reality
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant nonland permanent<br>///br///Enchanted permanent loses all abilities and can&#8217;t gain abilities as long as it is enchanted by Peel the Reality.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+63/317
+2
+common
+Blind to Conflict
+black
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Instant
+
+
+Prevent all damage dealt to and dealt by nonartifact creatures until end of turn.<br>///br///Draw a card.
+<i>&#8220;There is no war on Jaelicia.&#8221; - Blind fool</i>
+DartGarry
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+68/317
+4
+common
+Construct Reanimator
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Vampire Warlock 
+1
+1
+<i>Metalcraft</i> &#8212; When Construct Reanimator enters the battlefield, return target artifact creature card from your graveyard to the battlefield if you control three or more artifacts.
+<i>&#8220;Rise my precious!!!&#8221;</i>
+Morkardfc
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+66/317
+5
+common
+Conquerers Manifesto
+black
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Enchantment
+
+
+When Conquerers Manifesto enters the battlefield, conquer target opponent. <i>(Exile the top card of that players library. You may play that card for as long as it remains exiled, and spend mana as though it was any color.)</i><br>///br///Whenever you sacrifice a permanent you don&#8217;t own, create two blood tokens. <i>(They&#8217;re artifacts with &#8220;<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Discard a card, Sacrifice this artifact: Draw a card.&#8221;)</i>
+
+travis anderson
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+72/317
+6
+common
+Gothr Border Giant
+black, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct Giant Knight 
+3
+5
+Reach, deathtouch
+<i>It&#8217;s deep crystal eyes scare off the souls of those brave enough to make the journey all the way to Gothr, yet unwilling to make it their final resting place.</i>
+Morkardfc
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+94/317
+1
+common
+Faerus Courier
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Human Peasant Rogue 
+2
+1
+Whenever Faerus Courier attacks, as long as you control an artifact or enchantment, it explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</i>
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+89/317
+1
+common
+Cover Fire
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+Choose one -<br>///br///<b>&#8226; </b>Cover Fire deals 2 damage to target creature.<br>///br///<b>&#8226; </b>Target creature gains +1/+2 until end of turn.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+98/317
+1
+common
+Faerus Moltiger
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Creature — Elemental Cat 
+2
+1
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Faerus Moltiger deals 1 damage to any target.
+
+Artdeepmind
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+102/317
+2
+common
+Faerus Shrieker
+red, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Imp 
+1
+1
+Flying<br>///br///When Faerus Shrieker dies, it deals 1 damage to you.
+
+Sketch_Dailies
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+103/317
+2
+common
+Faerus Summoning
+red
+<img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Suspend 1 <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> <i>(Rather than cast this card from your hand, you may pay <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)</i><br>///br///Create a 3/1 red Elemental creature token with trample and haste, exile that token at the end of turn.
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+113/317
+3
+common
+Rev Armor
+red, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature gets +1/+1.<br>///br///As long as equipped creature has haste, it gets an additional +1/+0.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+114/317
+3
+common
+Siege at Night
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Creatures you control gain haste until end of turn.<br>///br///For each tapped creature your opponents control, creatures you control get +1/+0 until end of turn.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+90/317
+4
+common
+Emberstack Knight
+red, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct Wizard Knight 
+2
+3
+Prowess <i>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i><br>///br///Whenever a instant or sorcery spell you control deals damage, put a +1/+1 counter on Emberstack Knight.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+101/317
+4
+common
+Faerus Shagbeast
+red, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Beast Horror 
+4
+3
+Menace
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+91/317
+4
+common
+Faerus Ballista
+red, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact — Vehicle 
+5
+3
+Faerus Ballista enters the battlefield tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Faerus Ballista deals 2 damage to any target.<br>///br///Crew 2 <i>(Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</i>
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+106/317
+5
+common
+Fire Funnel
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Piercing <i>(This spell can target permanents with hexproof, ward, or shroud as though they did not.)</i><br>///br///Fire Funnel deals 5 damage to target creature or planeswalker.<br>///br///<i>Metalcraft</i> &#8212; Fire Funnel deals 3 damage to that permanent&#8217;s controller if you control three or more artifacts.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+99/317
+5
+common
+Faerus Obliterator
+red, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact Creature — Construct Horror 
+7
+3
+<i>Magecraft</i> &#8212; Whenever you cast or copy an instant or sorcery spell, Faerus Obliterator gains trample until end of turn.<br>///br///Faerus Obliterator attacks each combat if able.
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+14/317
+1
+common
+Certhin Wayfinder
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Scout Warrior 
+1
+2
+Whenever Certhin Wayfinder attacks, as long as you control an artifact or enchantment, it explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</i>
+
+BMD247
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+20/317
+1
+common
+Glare of Hope
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Target creature gets +1/+0 and gains first strike until end of turn.<br>///br///Scry 1.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+6/317
+1
+common
+Certhin Discipline
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant Creature<br>///br///Enchanted creature has first strike and vigilance.<br>///br///Whenever Certhin Discipline is put into a graveyard from the battlefield, return it to its owner&#8217;s hand.
+
+Castaguer93
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+29/317
+1
+common
+Wandering Shieldbearer
+white
+<img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Soldier 
+0
+3
+<i>Storycraft</i> &#8212; Wandering Shieldbearer assigns combat damage with its toughness rather than its power as long as you control three or more enchantments.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Tap target creature you don&#8217;t control.
+
+Dusint
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+9/317
+3
+common
+Certhin Knight
+white, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct Knight 
+2
+3
+Whenever Certhin Knight and another artifact creature attacks, Certhin Knight gains first strike until end of turn. Untap it.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+3/317
+3
+common
+Certhin Boltcaster
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Archer Rogue 
+2
+2
+When Certhin Boltcaster enters the battlefield, it deals damage equal to its power to target creature or planeswalker.
+
+Rodg-Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+16/317
+3
+common
+Desert Guardians
+white, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct Knight 
+3
+3
+Other artifact creatures you control get +1/+1.<br>///br///Desert Guardians can block any number of artifact creatures.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+17/317
+3
+common
+Enlighten
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Draw a card. If you control an artifact, draw an additional card. If you control a enchantment, draw an additional card.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+25/317
+3
+common
+Sleeping Giant
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Giant 
+5
+5
+Sleeping Giant enters the battlefield tapped.<br>///br///Sleeping Giant doesn&#8217;t untap during your untap step.<br>///br///Whenever an artifact or enchantment enters the battlefield under your control, untap Sleeping Giant.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+18/317
+4
+common
+Eye On The Prize
+white
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Eye On The Prize deals 5 damage to target tapped creature. If that creature had flying, you gain 3 life.
+
+Bayardwu
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+26/317
+4
+common
+Spelunking For Relics
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Enchantment
+
+
+Whenever one or more creatures you control deal combat damage to a player, search your library for a equipment card, reveal it and put it into your hand then shuffle.
+
+Nuro_Art
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+5/317
+5
+common
+Certhin Desert Golem
+white, artifact, horizontal
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Artifact Creature — Construct Golem 
+3
+3
+Vigilance<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Exile Certhin Desert Golem from your graveyard: Destroy target artifact or enchantment you don&#8217;t control.
+
+Devtexture
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+131/317
+1
+common
+Moorla Countrysider
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Nomad Warrior 
+1
+1
+Whenever Moorla Countrysider attacks, as long as you control an artifact or enchantment, it explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</i>
+
+Negg4Dia
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+141/317
+1
+common
+Seek Bounty
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Instant
+
+
+Look at the top five cards of your library. Reveal any number of land cards from among them. You gain 1 life for each card revealed this way. Put one of the revealed cards into your hand. Put the other cards on the bottom of your library in any order.
+
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+120/317
+3
+common
+Beam of Life
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Search your library for a basic land card or a stage land card, put it on the battlefield tapped, then shuffle.<br>///br///You gain 1 life for each land that entered the battlefield this turn.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+145/317
+2
+common
+Tracker of Tusks
+green
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Archer Warrior 
+2
+3
+Reach<br>///br///Tracker of Tusks can&#8217;t block artifact creatures.
+
+Castaguer93
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+119/317
+2
+common
+Alluring Den
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment — Aura 
+
+
+Enchant land<br>///br///Enchanted land has &#8220;<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Create a 0/1 green Beast creature token.&#8221;
+
+Climbtothestars
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+138/317
+3
+common
+Moorla Tritop
+green, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Artifact Creature — Construct Beast 
+3
+3
+Opponents can&#8217;t gain control of Moorla Tritop.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+133/317
+3
+common
+Moorla Expeditioner
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Human Rogue Shaman 
+1
+3
+<i>Storycraft</i> &#8212; <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Target creature you control explores. Activate only if you control three or more enchantments. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</i>
+
+artofjosevega
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+130/317
+3
+common
+Moorla Counseling
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+When Moorla Counseling enters the battlefield, target creature you control explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i><br>///br///<i>Ferocious</i> &#8212; Attacking creatures you control with base power 4 or greater have trample.
+
+Toblin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+125/317
+3
+common
+Generous Giant
+green
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Elemental Giant Nomad 
+5
+4
+Trample<br>///br///When Generous Giant enters the battlefield, each opponent may return up to one target artifact card from their graveyard to their hand.
+
+Toblin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+137/317
+5
+common
+Moorla Spiked Anole
+green
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Lizard 
+4
+4
+When Moorla Spiked Anole enters the battlefield, it fights target creature.
+
+Hellcawolf
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+139/317
+6
+common
+Respect for the Fallen
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Sorcery
+
+
+Draw a card for each creature card in your graveyard.
+
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+124/317
+6
+common
+Expedition to Moorla
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Enchantment
+
+
+<i>Landfall</i> &#8212; Whenever a land enters the battlefield under your control, create a 1/1 blue Bird creature token with flying, then target creature you control explores.
+
+florentllamas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+46/317
+1
+common
+Seroa Sightseer
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Monk Wizard 
+1
+2
+Whenever Seroa Sightseer attacks, as long as you control an artifact or enchantment, it explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</i>
+<i>Seroa is scattered with ancient and new age wonders.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+39/317
+1
+common
+Retain Momentum
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Choose one -<br>///br///<b>&#8226; </b>Target creature gets +1/+1 and gains flying until end of turn.<br>///br///<b>&#8226; </b>Target creature gets -1/-1 and loses flying until end of turn.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+34/317
+1
+common
+Essence Diviner
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Wizard Shaman 
+0
+3
+When Essence Diviner enters the battlefield, target opponent mills X cards, where X is the number of artifacts and enchantments you control.<br>///br///<i>Storycraft</i> &#8212; <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>:Target player mills three cards. Activate this only if you control three or more enchantments.
+<i>She can read the spirits of things seemingly lifeless.</i>
+Imessecar
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+40/317
+1
+common
+Revoke Impulse
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Counter target instant spell or activated ability.
+<i>&#8220;Don&#8217;t move an inch.&#8221; - Adept Wizard.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+31/317
+3
+common
+Barron of Essence
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Elf Wizard 
+2
+2
+Flash<br>///br///When Barron of Essence enters the battlefield, return up to one target artifact or enchantment to its owner&#8217;s hand.
+<i>The elves of Jaelicia are naturally attuned with all things containing essence.</i>
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+49/317
+3
+common
+Stormsplitter Serpent
+blue
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Serpent 
+*
+4
+Suspend 2 <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> <i>(Rather than cast this card from your hand, you may pay <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)</i><br>///br///Stormsplitter Serpent&#8217;s power is equal to the number of instant and sorcery cards you own in exile and in your graveyard.
+<i>Traveling the seas of Jaelicia is no easy feat. Best to bring a mage or two.</i>
+Travis Anderson
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+32/317
+4
+common
+Cloak of Silver
+blue, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature has ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>.<br>///br///Whenever equipped creature attacks, draw a card, then discard a card.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>
+
+pieredroal
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+59/317
+4
+common
+Witness Brilliance
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+<i>Storycraft</i> &#8212; Scry 3 and draw two cards. If you control three or more enchantments, draw three cards instead.
+<i>True sight of what is to come requires an open mind.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+57/317
+3
+common
+Wielder of Frost
+blue, artifact, horizontal
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Wizard 
+2
+2
+<i>Magecraft</i> &#8212; Whenever you cast or copy an instant or sorcery spell, tap up to one artifact or creature.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+58/317
+4
+common
+Will Won’t Suffice
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Choose one -<br>///br///<b>&#8226; </b>Counter target spell.<br>///br///<b>&#8226; </b>Creatures your opponents control get -3/-0 until end of turn.
+<i>&#8220;Your tricks won&#8217;t work on me.&#8221; - Final words</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+54/317
+1
+common
+Traverse the Planes
+blue
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Sorcery
+
+
+Choose up to X target creatures you control. Each creature chosen this way explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i>
+<i>Jaelicia is simply too vast to be explored solely by foot.</i>
+Florentllamas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+37/317
+5
+common
+Introspective Abstraction
+blue
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Return up to three target artifacts or enchantments to their owner&#8217;s hands.<br>///br///Exile the top card of your library face down, you may look at and play it as long as they remain exiled.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+1/317
+1
+common
+Gilded Hatchling
+colorless
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Creature — Dragon 
+0
+1
+Gilded Hatchling has flying as long as you control an enchantment<br>///br///Gilded Hatchling gets +1/+0 as long as you control an artifact.
+<i>A gold dragon is a omen of divine intervention.</i>
+Gerezon
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+281/317
+1
+common
+Spell Defuser
+artifact
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>. Use this mana only to cast noncreature spells.<br>///br///<span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span>, Sacrifice Spell Defuser: Draw a card.
+<i>&#8220;Through the use of compression plates, we will be able to imitate the resilience of Moorla&#8217;s toughest creatures.&#8221; - Young Inventor</i>
+Kuzy62
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+259/317
+2
+common
+Forgotten Kappa
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact Creature — Horror 
+2
+1
+Menace<br>///br///When Forgotten Kappa dies, you lose 2 life.
+<i>A long forgotten threat, seeking its original form.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+264/317
+2
+common
+Impulse Dynamo
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact
+
+
+When Impulse Dynamo enters the battlefield, draw a card.<br>///br///<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Untap another target artifact.
+<i>A engine powered by stimulation.</i>
+Kuzy62
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+260/317
+2
+common
+Gilded Amulet
+artifact
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'>
+Artifact — Equipment 
+
+
+Equipped creature must be blocked.<br>///br///Whenever equipped creature dies, draw a card.<br>///br///Equip <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>
+
+Kuzy62
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+253/317
+3
+common
+Bastion of Progress
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact
+
+
+Activated abilities of artifacts you control cost <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to activate. This effect can&#8217;t reduce the amount of mana an ability costs to activate less than one mana.
+<i>&#8220;Smelt every last bit of scrap you can find.&#8221; - Bastion Foreman</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+261/317
+3
+common
+Ik-Clan Shieldmate
+artifact
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'>
+Artifact Creature — Construct Warrior 
+2
+4
+Other artifact creatures you control get +0/+1.<br>///br///<i>Metalcraft</i> &#8212; Ik-Clan Shieldmate has ward <span class="symbol"><img src='magic-mana-small-2.png' alt='2' width='14' height='14'></span> as long as you control three or more artifacts,
+<i>*Bleep bloop*</i>
+GeorgeVostrikov
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+262/317
+4
+common
+Ik-Clan Vanguard
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact Creature — Construct Warrior 
+3
+3
+<i>Metalcraft</i> &#8212; Ik-Clan Vanguard gets +2/+0 and has trample as long as you control three or more artifacts.
+<i>*Bloop bleep*</i>
+GeorgeVostrikov
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+254/317
+4
+common
+Conscripted Mercenary
+artifact
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'>
+Artifact Creature — Construct Warrior 
+2
+2
+Vigilance, hexproof<br>///br///Whenever Conscripted Mercenary attacks, it explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</i>
+
+Invast
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+255/317
+5
+common
+Consulate Gateway
+artifact
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'>
+Artifact
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Exile the top card of your library. You may play that card until end of turn.<br>///br///At the beginning of each end step, return cards exiled with Consulate Gateway to their owners graveyards.
+
+000fesbra000
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+265/317
+6
+common
+Lost Horror
+artifact
+<img src='magic-mana-small-6.png' alt='6' width='14' height='14'>
+Artifact Creature — Construct Horror 
+5
+5
+Lost Horror can&#8217;t be blocked by nonartifact creatures.
+<i>A escaped experiment, yet still fulfilling its intended purpose, culling &#8220;natural&#8221; organisms.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+273/317
+7
+common
+Rogue Deathcoil
+artifact
+<img src='magic-mana-small-7.png' alt='7' width='14' height='14'>
+Artifact Creature — Construct Wurm 
+6
+5
+First strike
+<i>A behemoth of mechanical design, meant to tear into the deepest layers of Faerus.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+306/317
+0
+rare
+Uma, Gothr Stronghold
+black, land
+
+Land — Capital 
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> for each artifact in your graveyard.
+<i>Uma, capital of Gothr, home to soul magic.</i>
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+285/317
+0
+rare
+Frulmir, Faerus Stronghold
+red, land
+
+Land — Capital 
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add six <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>. Spend this mana only cast artifact spells or activate abilities of artifacts.
+<i>Frulmir, capital of Faerus, home of desires.</i>
+JJCanvas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+293/317
+0
+rare
+Pakinx, Certhin Stronghold
+white, land
+
+Land — Capital 
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Create a token copy of target artifact or enchantment you control with mana value 2 or less.
+<i>Pakinx, capital of Certhin, home to Jaelicia&#8217;s history.</i>
+NURO_ART
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+294/317
+0
+rare
+Palu, Moorla Stronghold
+green, land
+
+Land — Capital 
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Target creature you control gets +3/+3 and trample until end of turn.
+<i>Palu, capital of Moorla, home to those willing to survive.</i>
+JJCanvas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+292/317
+0
+rare
+Nelphine, Seroa Stronghold
+blue, land
+
+Land — Capital 
+
+
+<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, Sacrifice an artifact or enchantment, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Draw two cards.
+<i>Nelphine, capital of Seroa, home of innovation and wonders.</i>
+JJCanvas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+286/317
+0
+uncommon
+Gothr Coastal Nexus
+white, blue, black, land, multicolor, horizontal
+
+Land — Nexus 
+
+
+Gothr Coastal Nexus enters the battlefield tapped unless you control a artifact and an enchantment.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.
+<i>The coasts of Gothr are full of bastions made to trade among the other nations.</i>
+JJCanvas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+284/317
+0
+uncommon
+Faerus Emberstack Nexus
+blue, black, red, land, multicolor, horizontal
+
+Land — Nexus 
+
+
+Faerus Emberstack Nexus enters the battlefield tapped unless you control an artifact and an enchantment.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>, or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.
+<i>Emberstack forges scatter across Faerus controlled territory.</i>
+NURO_ART
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+283/317
+0
+uncommon
+Certhin Spine Nexus
+white, red, green, land, multicolor, horizontal
+
+Land — Nexus 
+
+
+Certhin Spine Nexus enters the battlefield tapped unless you control an artifact and an enchantment.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.
+<i>The spines of long deceased great beasts, representing the endurance of the people of Jaelicia.</i>
+Yefumm
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+291/317
+0
+uncommon
+Moorla Conifer Nexus
+black, red, green, land, multicolor, horizontal
+
+Land — Nexus 
+
+
+Moorla Conifer Nexus enters the battlefield tapped unless you control an artifact and an enchantment.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.
+<i>The deep winding woods and jungle of Moorla refuge safe zones for travelers, easily spotted by beacons of essence.</i>
+Negg4Dia
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+305/317
+0
+uncommon
+Seroa Skystone Nexus
+white, blue, green, land, multicolor, horizontal
+
+Land — Nexus 
+
+
+Seroa Skystone Nexus enters the battlefield tapped unless you control an artifact and an enchantment.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>, or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.
+<i>Anomaly only known to the lands of Seroa, skystone geysers make for great landmarks.</i>
+Negg4Dia
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+300/317
+0
+common
+Ruins of Despair
+black, land
+
+Land — Ruins 
+
+
+As Ruins of Despair enters the battlefield, choose a color.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of the chosen color. Activate this ability only if you control an artifact or enchantment.
+
+jjcanvas
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+303/317
+0
+common
+Ruins of Progress
+red, land
+
+Land — Ruins 
+
+
+As Ruins of Progress enters the battlefield, choose a color.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of the chosen color. Activate this ability only if you control an artifact or enchantment.
+
+NURO_ART
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+302/317
+0
+common
+Ruins of Luxury
+white, land
+
+Land — Ruins 
+
+
+As Ruins of Luxury enters the battlefield, choose a color.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of the chosen color. Activate this ability only if you control an artifact or enchantment.
+
+NURO_ART
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+299/317
+0
+common
+Ruins of Abundance
+green, land
+
+Land — Ruins 
+
+
+As Ruins of Abundance enters the battlefield, choose a color.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of the chosen color. Activate this ability only if you control an artifact or enchantment.
+
+Yefumm
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+301/317
+0
+common
+Ruins of Knowledge
+blue, land
+
+Land — Ruins 
+
+
+As Ruins of Knowledge enters the battlefield, choose a color.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add one mana of the chosen color. Activate this ability only if you control an artifact or enchantment.
+
+Castaguer93
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+176/317
+2
+common
+Enervation Crystal
+blue, red, artifact, multicolor, horizontal
+<img src='magic-mana-small-U.png' alt='U' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Artifact
+
+
+Enervation Crystal enters the battlefield tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Exile a instant or sorcery card from your graveyard: Enervation Crystal deals 2 damage to target player.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+178/317
+5
+common
+Essence Forager
+blue, green, multicolor, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Creature — Human Cleric Shaman 
+4
+5
+<i>Storycraft</i> &#8212; When Essence Forager enters the battlefield, you gain 5 life if you control three or more enchantments.
+
+vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+188/317
+7
+common
+Herald of Heresy
+white, black, multicolor, horizontal
+<img src='magic-mana-small-5.png' alt='5' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Creature — Angel Cleric Warlock 
+5
+5
+Flying, deathtouch, lifelink<br>///br///Retreat 3 <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> <i>(Exile this permanent face-down. Distribute up to three +1/+1 counters among up to three target creatures you control.)</i>
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+250/317
+4
+common
+Conquesting Rider
+black, red, artifact, horizontal
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-BR.png' alt='B/R' width='16' height='16'>
+Artifact Creature — Construct Rogue Knight 
+3
+2
+Whenever Conquesting Rider deals combat damage to a player, conquer that player. <i>(Exile the top card of that players library. You may play that card for as long as it remains exiled, and spend mana as though it was any color.)</i>
+<i>It rides a unknown beast of equal covetous urges.</i>
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+169/317
+2
+common
+Desert Duelist
+white, green, multicolor, horizontal
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Creature — Human Warrior 
+2
+2
+First strike<br>///br///Desert Champion can&#8217;t be blocked by more than one creature.
+
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+75/317
+1
+uncommon
+Gothr Paladin
+black, artifact, horizontal
+<img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Artifact Creature — Construct Cleric Knight 
+2
+1
+Gothr Paladin enters the battlefield tapped.<br>///br///<span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>: Return Gothr Paladin from your graveyard to the battlefield.
+<i>A knight&#8217;s duties never end.</i>
+Jeffchendesigns
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+110/317
+6
+uncommon
+Open the Fifth Gate
+red
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Instant
+
+
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each instant and sorcery card in your graveyard.<br>///br///Open the Fifth Gate deals 5 damage to any target. Opponents can&#8217;t gain life this turn.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+2/317
+2
+uncommon
+Bold Maneuver
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Target creature you control gets +3/+0 and gains indestructible until end of turn.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+123/317
+3
+uncommon
+Earthen Dragon
+green
+<img src='magic-mana-small-X.png' alt='X' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Dragon 
+3
+3
+This spell costs <span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span> less to cast for each creature token you control.<br>///br///Trample<br>///br///Earthen Dragon enters the battlefield with X +1/+1 counters on it.
+
+jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+42/317
+3
+uncommon
+Seroa Frost Knight
+blue, artifact, horizontal
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Artifact Creature — Construct Wizard Knight 
+2
+3
+When Seroa Frost Knight enters the battlefield, tap target creature you don&#8217;t control and put a stun counter on it.
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+60/317
+4
+common
+Absorb Soul
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Sorcery
+
+
+Destroy target nonartifact creature. You gain life equal to that creatures toughness.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+51/317
+3
+common
+Thwart the Ambush
+blue
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-U.png' alt='U' width='14' height='14'>
+Instant
+
+
+Target attacking or blocking creature phases out. Target opponent mills three cards. <i>(Treat it and anything attached to it as though they don&#8217;t exist until its controller&#8217;s next turn.)</i>
+
+jasontn
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+136/317
+1
+common
+Moorla Prowler
+green
+<img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Creature — Cat 
+2
+1
+
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+107/317
+3
+common
+Harness Hatred
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Sorcery
+
+
+Gain control of target creature until end of turn. Untap that creature. It gains haste and trample until end of turn.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+21/317
+3
+common
+Kinetic Reversal
+white
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Instant
+
+
+Destroy target tapped creature.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+109/317
+4
+mythic rare
+Irani, Emberstack Apprentice
+red
+<img src='magic-mana-small-2.png' alt='2' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'><img src='magic-mana-small-R.png' alt='R' width='14' height='14'>
+Legendary Planeswalker — Irani 
+
+
++1: Up to one target artifact creature gets +2/+0 until end of turn. If that creature dies this turn, it deals 2 damage to any target.<br>///br///-2: Create a 2/2 colorless Construct artifact creature token.<br>///br///-6: You get a emblem with &#8220;Whenever a nontoken artifact is put into your graveyard from the battlefield, return it to your hand unless an opponent takes 3 damage from this emblem.&#8221;<br>///br///Starting loyalty: 4
+
+artdeepmind
+
+colorless
+
+
+
+
+<br>///br///<br>///br///
+
+
+===========
+normal
+146/317
+6
+mythic rare
+Vorhtox, Xl’thar’s Heir
+green
+<img src='magic-mana-small-4.png' alt='4' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'><img src='magic-mana-small-G.png' alt='G' width='14' height='14'>
+Legendary Planeswalker — Vorthox 
+
+
++2: Put a +1/+1 counter on up to three target creatures you control.<br>///br///+0: Create a 2/2 red and green Viashino creature token with &#8220;When this creature attacks, it explores.&#8221;<br>///br///-11: You get an emblem with &#8220;Whenever a creature you control deals combat damage to a player, you may destroy an artifact or enchantment that player control.&#8221;<br>///br///Starting loyalty: 5
+
+Johnny Morrow
+
+colorless
+
+
+
+
+<br>///br///<br>///br///
+
+
+===========
+normal
+24/317
+3
+mythic rare
+Rulbel, Sunmade Tactician
+white
+<img src='magic-mana-small-1.png' alt='1' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'><img src='magic-mana-small-W.png' alt='W' width='14' height='14'>
+Legendary Planeswalker — Rulbel 
+
+
++1: Target creature gains first strike and must be blocked this turn.<br>///br///-1: Create a 2/2 white Knight creature token with vigilance.<br>///br///-7: You get a emblem with &#8220;Whenever a creature you control attacks, create a 1/1 white soldier token that enters tapped and attacking.&#8221;<br>///br///Starting loyalty: 3
+
+Jasontn
+
+colorless
+
+
+
+
+<br>///br///<br>///br///
+
+
+===========
+normal
+64/317
+5
+mythic rare
+Bogrunach, Unyielding
+black
+<img src='magic-mana-small-3.png' alt='3' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'><img src='magic-mana-small-B.png' alt='B' width='14' height='14'>
+Legendary Planeswalker — Bogrunach 
+
+
++2: Gain control of target creature or artifact, untap it, it gains haste until end of turn.<br>///br///-3: You may sacrifice a creature or artifact you own. If you do, draw two cards and lose 2 life. If you do not, Bogrunach, Unyielding deals 3 damage to each player.<br>///br///-10: You get a emblem with &#8220;Whenever a creature you control deals combat damage to a player, conquer that player.&#8221; <i>(Exile the top card of that players library. You may play that card for as long as it remains exiled, and spend mana as though it was any color.)</i><br>///br///Starting loyalty: 5
+
+morkardfc
+
+colorless
+
+
+
+
+<br>///br///<br>///br///
+
+
+===========
+token
+14/17
+0
+common
+Viashino
+red, green, multicolor, horizontal
+
+Token Creature — Viashino 
+2
+2
+When this creature attacks, it explores. <i>(Reveal the top card of your library. Put that card into your hand if it&#8217;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</i>
+
+Hokunin
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+11/17
+0
+common
+Beast
+green
+
+Token Creature — Beast 
+0
+1
+
+
+Climbtothestars
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+3/17
+0
+common
+Drake
+white
+
+Token Creature — Drake 
+1
+2
+Flying
+
+Vablo
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+13/17
+0
+common
+Beast
+white, green, multicolor, horizontal
+
+Token Creature — Beast 
+3
+3
+Trample
+
+Edward Delandre Art
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+4/17
+0
+common
+Knight
+white
+
+Token Creature — Knight 
+2
+2
+Vigilance
+
+Dongjunlu
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+17/17
+0
+common
+Construct Knight
+artifact
+
+Token Artifact Creature — Construct Knight 
+X
+X
+Haste
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+6/17
+0
+common
+Bird
+blue
+
+Token Creature — Bird 
+1
+1
+Flying
+
+Artdeepmind
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+9/17
+0
+common
+Demon Beast
+black
+
+Token Creature — Demon Beast 
+2
+2
+Menace
+
+Kuzinskiy
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+1/17
+0
+common
+Copy
+colorless
+
+Token
+
+
+
+
+Dartgarry
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+10/17
+0
+common
+Elemental
+red
+
+Token Creature — Elemental 
+3
+1
+Trample, haste
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+2/17
+0
+common
+Copy
+colorless
+
+Token
+
+
+
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+7/17
+0
+common
+Bat
+black, artifact, horizontal
+
+Token Artifact Creature — Bat 
+1
+1
+Flying
+
+Allnamesinuse
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+8/17
+0
+common
+Demon
+black
+
+Token Creature — Demon 
+4
+4
+Flying
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+12/17
+0
+common
+Druid
+green
+
+Token Creature — Druid 
+1
+1
+
+
+Artozi
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+16/17
+0
+common
+Construct
+artifact
+
+Token Artifact Creature — Construct 
+2
+2
+
+
+cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+5/17
+0
+common
+Soldier
+white
+
+Token Creature — Soldier 
+1
+1
+
+
+JasonTN
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+308/317
+0
+basic land
+Plains
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Ihebrardrobin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+310/317
+0
+basic land
+Island
+blue, land
+
+Basic Land — Island 
+
+
+
+
+andreasrocha
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+313/317
+0
+basic land
+Swamp
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+chris karbach
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+315/317
+0
+basic land
+Mountain
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+fmacmanus
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+316/317
+0
+basic land
+Forest
+green, land
+
+Basic Land — Forest 
+
+
+
+
+lhebarrdrobin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+309/317
+0
+basic land
+Plains
+white, land
+
+Basic Land — Plains 
+
+
+
+
+Lhebrardrobin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+311/317
+0
+basic land
+Island
+blue, land
+
+Basic Land — Island 
+
+
+
+
+jstiller30
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+312/317
+0
+basic land
+Swamp
+black, land
+
+Basic Land — Swamp 
+
+
+
+
+fmacmanus
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+314/317
+0
+basic land
+Mountain
+red, land
+
+Basic Land — Mountain 
+
+
+
+
+chris karbach
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+317/317
+0
+basic land
+Forest
+green, land
+
+Basic Land — Forest 
+
+
+
+
+Chris-Karbach
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+287/317
+0
+common
+Grumbling  Backwoods
+black, green, land, horizontal
+
+Land — Stage 
+
+
+Grumbling  Backwoods enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.
+
+andreasrocha
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+307/317
+0
+common
+Vibrant Keep
+blue, green, land, horizontal
+
+Land — Stage 
+
+
+Vibrant Keep enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.
+
+lhebrardrobin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+295/317
+0
+common
+Quiet Cathedral
+white, black, land, horizontal
+
+Land — Stage 
+
+
+Quiet Cathedral enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.
+
+lhebrardrobin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+296/317
+0
+common
+Remote Town
+blue, black, land, horizontal
+
+Land — Stage 
+
+
+Remote Town enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span>.
+
+lhebrardrobin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+298/317
+0
+common
+Risen Farmland
+red, green, land, horizontal
+
+Land — Stage 
+
+
+Risen Farmland enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span>.
+
+Chris-Karbach
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+304/317
+0
+common
+Sanctioned Haven
+white, green, land, horizontal
+
+Land — Stage 
+
+
+Sanctioned Haven enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-G.png' alt='G' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.
+
+andreasrocha
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+290/317
+0
+common
+Mason Grounds
+white, red, land, horizontal
+
+Land — Stage 
+
+
+Mason Grounds enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span>.
+
+lhebrardrobin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+297/317
+0
+common
+Resonant Shrine
+white, blue, land, horizontal
+
+Land — Stage 
+
+
+Resonant Shrine enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-W.png' alt='W' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span>.
+
+lhebrardrobin
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+288/317
+0
+common
+Hellfire Fortress
+black, red, land, horizontal
+
+Land — Stage 
+
+
+Hellfire Fortress enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-B.png' alt='B' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.
+
+fmacmanus
+
+colorless
+
+
+
+
+
+
+
+===========
+normal
+289/317
+0
+common
+Isolating Researchfront
+blue, red, land, horizontal
+
+Land — Stage 
+
+
+Isolating Researchfront enters the battlefield tapped unless you control a basic land.<br>///br///<span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>: Add <span class="symbol"><img src='magic-mana-small-U.png' alt='U' width='14' height='14'></span> or <span class="symbol"><img src='magic-mana-small-R.png' alt='R' width='14' height='14'></span>.
+
+Chris-Karbach
+
+colorless
+
+
+
+
+
+
+
+===========
+token
+15/17
+0
+common
+Blood
+artifact
+
+Token Artifact — Blood 
+
+
+<span class="symbol"><img src='magic-mana-small-1.png' alt='1' width='14' height='14'></span>, <span class="symbol"><img src='magic-mana-small-T.png' alt='T' width='14' height='14'></span>, Discard a card, Sacrifice this artifact: Draw a card.
+
+Cobaltplasma
+
+colorless
+
+
+
+
+
+
+
+===========
