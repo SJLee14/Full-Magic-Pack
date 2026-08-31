@@ -1,4 +1,4 @@
-﻿mse_version: 2.5.6
+﻿mse_version: 2.5.8
 package:
 	name: archenemy-standard.mse-style
 	version: 2010-05-20
@@ -21,46 +21,46 @@ package:
 	file: M20251020T075237 stats/type.png
 package:
 	name: ch-s.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075237 cn.png
-	file: M20251020T075237 locale
+	file: M20260220T163707 locale
 package:
 	name: ch-t.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075237 cn.png
-	file: M20251020T075237 locale
+	file: M20260220T163707 locale
 package:
 	name: da.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075237 dk.png
-	file: M20251020T075237 locale
+	file: M20260220T163707 locale
 package:
 	name: de.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075237 de.png
-	file: M20251020T075237 locale
+	file: M20260220T163707 locale
 package:
 	name: en.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 50
-	file: M20251020T075239 locale
+	file: M20260220T163707 locale
 	file: M20251020T075239 usgb.png
 package:
 	name: es.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075239 es.png
-	file: M20251020T075239 locale
+	file: M20260220T163707 locale
 package:
 	name: fr.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075239 fr.png
-	file: M20251020T075239 locale
+	file: M20260220T163707 locale
 package:
 	name: herospath-creature.mse-style
 	version: 2014-01-21
@@ -131,22 +131,22 @@ package:
 	file: M20251020T075239 stats/watermark.png
 package:
 	name: it.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075239 it.png
-	file: M20251020T075239 locale
+	file: M20260220T163707 locale
 package:
 	name: jp.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075239 jp.png
-	file: M20251020T075239 locale
+	file: M20260220T163707 locale
 package:
 	name: ko.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075239 ko.png
-	file: M20251020T075239 locale
+	file: M20260220T163707 locale
 package:
 	name: magic-DayNight.mse-style
 	version: 2024-05-30
@@ -186,18 +186,6 @@ package:
 	file: M20251020T075239 glstamp.jpg
 	file: M20251020T075239 gpt.png
 	file: M20251020T075239 gstamp.jpg
-	file: M20251020T075240 hybrid_blend_card.png
-	file: M20251020T075240 hybrid_blend_identity.png
-	file: M20251020T075240 hybrid_blend_pt.png
-	file: M20251020T075240 hybrid_blend_stamp.png
-	file: M20251020T075240 lvlup_multiply_1.png
-	file: M20251020T075240 lvlup_multiply_2.png
-	file: M20251020T075240 lvlup_texture_1.png
-	file: M20251020T075240 lvlup_texture_2.png
-	file: M20251020T075240 mcard.jpg
-	file: M20251020T075240 mlcard.jpg
-	file: M20251020T075240 mlpt.png
-	file: M20251020T075240 mlstamp.jpg
 	file: M20251020T075240 mpt.png
 	file: M20251020T075240 mstamp.jpg
 	file: M20251020T075240 multicolor_blend_card.png
@@ -508,7 +496,7 @@ package:
 	status: 50
 	file: M20251020T075241 include
 	file: M20251020T075241 masks
-	file: M20251020T075241 new-blends
+	file: M20260220T163707 new-blends
 package:
 	name: magic-booster-mini.mse-style
 	version: 2021-03-09
@@ -525,7 +513,7 @@ package:
 	file: M20251020T075241 magic_dark.png
 	file: M20251020T075241 magic_light.png
 	file: M20251020T075241 magic_yellow.png
-	file: M20251020T075241 style
+	file: M20260220T163707 style
 package:
 	name: magic-booster.mse-style
 	version: 2021-03-09
@@ -542,7 +530,7 @@ package:
 	file: M20251020T075241 magic_dark.png
 	file: M20251020T075241 magic_light.png
 	file: M20251020T075241 magic_yellow.png
-	file: M20251020T075241 style
+	file: M20260220T163707 style
 package:
 	name: magic-cartoon.mse-style
 	version: 2024-05-30
@@ -610,27 +598,28 @@ package:
 	file: M20251020T075242 watermarks
 package:
 	name: magic-checklist.mse-style
-	version: 2014-06-28
+	version: 2025-07-29
 	status: 34
 	file: M20251020T075242 acard.jpg
-	file: M20251020T075242 artifact_blend_card.png
+	file: D artifact_blend_card.png
 	file: M20251020T075242 bcard.jpg
-	file: M20251020T075242 border.png
+	file: M20260220T163707 border.png
 	file: M20251020T075242 boxmask.png
-	file: M20251020T075242 build.bat
+	file: D build.bat
 	file: M20251020T075242 card-sample.png
 	file: M20251020T075242 ccard.jpg
 	file: M20251020T075242 circle.png
 	file: M20251020T075242 gcard.jpg
-	file: M20251020T075242 hybrid_blend_card.png
+	file: D hybrid_blend_card.png
 	file: M20251020T075242 mcard.jpg
-	file: M20251020T075242 multicolor_blend_card.png
-	file: M20251020T075242 night_circle.png
+	file: D multicolor_blend_card.png
+	file: D night_circle.png
 	file: M20251020T075242 pt.png
 	file: M20251020T075242 rcard.jpg
-	file: M20251020T075242 style
-	file: M20251020T075242 sun_circle.png
+	file: M20260220T163707 style
+	file: D sun_circle.png
 	file: M20251020T075242 title.png
+	file: A20260220T163707 title_full.png
 	file: M20251020T075242 ucard.jpg
 	file: M20251020T075242 wcard.jpg
 package:
@@ -843,8 +832,6 @@ package:
 	file: M20251020T075243 rlcard.jpg
 	file: M20251020T075243 rlpt.png
 	file: M20251020T075243 rpt.png
-	file: M20251020T075244 style
-	file: M20251020T075244 tombstone.png
 	file: M20251020T075244 ucard.jpg
 	file: M20251020T075244 ulcard.jpg
 	file: M20251020T075244 ulpt.png
@@ -857,7 +844,7 @@ package:
 	name: magic-cockatrice-v2.mse-export-template
 	version: 2024-09-23
 	status: 34
-	file: M20251020T075244 export-template
+	file: M20260220T163707 export-template
 	file: M20251020T075244 icon.png
 	file: M20251020T075244 readme.txt
 package:
@@ -1088,6 +1075,41 @@ package:
 	file: M20251020T075244 watermark_wumana.png
 	file: M20251020T075244 watermarks
 package:
+	name: magic-crystal-cave.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163707 card/a.png
+	file: A20260220T163707 card/b.png
+	file: A20260220T163707 card/c.png
+	file: A20260220T163707 card/g.png
+	file: A20260220T163707 card/m.png
+	file: A20260220T163707 card/r.png
+	file: A20260220T163707 card/u.png
+	file: A20260220T163707 card/w.png
+	file: A20260220T163707 card_mask.png
+	file: A20260220T163707 card_sample.png
+	file: A20260220T163707 crown/a.png
+	file: A20260220T163707 crown/b.png
+	file: A20260220T163707 crown/c.png
+	file: A20260220T163707 crown/g.png
+	file: A20260220T163707 crown/m.png
+	file: A20260220T163707 crown/r.png
+	file: A20260220T163707 crown/u.png
+	file: A20260220T163707 crown/w.png
+	file: A20260220T163707 foil_mask.png
+	file: A20260220T163707 image_mask.png
+	file: A20260220T163707 pt/a.png
+	file: A20260220T163707 pt/b.png
+	file: A20260220T163707 pt/c.png
+	file: A20260220T163707 pt/g.png
+	file: A20260220T163707 pt/m.png
+	file: A20260220T163707 pt/r.png
+	file: A20260220T163707 pt/u.png
+	file: A20260220T163707 pt/w.png
+	file: A20260220T163707 special_blend_pt.png
+	file: A20260220T163707 stamp_border_mask.png
+	file: A20260220T163707 style
+package:
 	name: magic-crystal.mse-style
 	version: 2024-05-30
 	status: 50
@@ -1249,6 +1271,67 @@ package:
 	file: M20251020T075245 whateleys.jpg
 	file: M20251020T075245 whateleys.png
 package:
+	name: magic-dox-sokrates_750.mse-style
+	version: 2024-08-01
+	status: 34
+	file: A20260220T163707 border_borderless_mask.png
+	file: A20260220T163707 border_fade_mask.png
+	file: A20260220T163707 border_mask.png
+	file: A20260220T163707 border_stamp_mask.png
+	file: A20260220T163707 card-sample.png
+	file: A20260220T163707 card_mask.png
+	file: A20260220T163707 crown/a.png
+	file: A20260220T163707 crown/b.png
+	file: A20260220T163707 crown/c.png
+	file: A20260220T163707 crown/g.png
+	file: A20260220T163707 crown/m.png
+	file: A20260220T163707 crown/r.png
+	file: A20260220T163707 crown/u.png
+	file: A20260220T163707 crown/w.png
+	file: A20260220T163707 fonts/caesar dressing.ttf
+	file: A20260220T163707 image_mask.png
+	file: A20260220T163707 namebox/a.png
+	file: A20260220T163707 namebox/b.png
+	file: A20260220T163707 namebox/c.png
+	file: A20260220T163707 namebox/g.png
+	file: A20260220T163707 namebox/m.png
+	file: A20260220T163707 namebox/r.png
+	file: A20260220T163707 namebox/u.png
+	file: A20260220T163707 namebox/w.png
+	file: A20260220T163707 nonstamp/a.png
+	file: A20260220T163707 nonstamp/b.png
+	file: A20260220T163707 nonstamp/c.png
+	file: A20260220T163707 nonstamp/g.png
+	file: A20260220T163707 nonstamp/m.png
+	file: A20260220T163707 nonstamp/r.png
+	file: A20260220T163707 nonstamp/u.png
+	file: A20260220T163707 nonstamp/w.png
+	file: A20260220T163707 pt/a.png
+	file: A20260220T163707 pt/b.png
+	file: A20260220T163707 pt/c.png
+	file: A20260220T163707 pt/g.png
+	file: A20260220T163707 pt/m.png
+	file: A20260220T163707 pt/r.png
+	file: A20260220T163707 pt/u.png
+	file: A20260220T163707 pt/w.png
+	file: A20260220T163707 stamp/a.png
+	file: A20260220T163707 stamp/b.png
+	file: A20260220T163707 stamp/c.png
+	file: A20260220T163707 stamp/g.png
+	file: A20260220T163707 stamp/m.png
+	file: A20260220T163707 stamp/r.png
+	file: A20260220T163707 stamp/u.png
+	file: A20260220T163707 stamp/w.png
+	file: A20260220T163707 style
+	file: A20260220T163708 textbox/a.png
+	file: A20260220T163708 textbox/b.png
+	file: A20260220T163708 textbox/c.png
+	file: A20260220T163708 textbox/g.png
+	file: A20260220T163708 textbox/m.png
+	file: A20260220T163708 textbox/r.png
+	file: A20260220T163708 textbox/u.png
+	file: A20260220T163708 textbox/w.png
+package:
 	name: magic-duplex.mse-style
 	version: 2024-05-30
 	status: 50
@@ -1366,10 +1449,10 @@ package:
 	name: magic-egg-allinone-exporter.mse-export-template
 	version: 2025-03-31
 	status: 34
-	file: A20260219T202033 .ds_store
-	file: A20260219T202033 build.bat
-	file: A20260220T161015 export-template
-	file: A20260219T202033 icon.png
+	file: M20260219T202033 .ds_store
+	file: M20260219T202033 build.bat
+	file: M20260220T161015 export-template
+	file: M20260219T202033 icon.png
 package:
 	name: magic-embossedletters.mse-symbol-font
 	version: 2009-03-25
@@ -1440,6 +1523,62 @@ package:
 	file: M20251020T075246 imagemask.png
 	file: M20251020T075246 light_mask.png
 	file: M20251020T075246 style
+package:
+	name: magic-expedition-33.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_borderless_mask.png
+	file: A20260220T163708 border_fade_mask.png
+	file: A20260220T163708 border_mask.png
+	file: A20260220T163708 card/a.png
+	file: A20260220T163708 card/b.png
+	file: A20260220T163708 card/c.png
+	file: A20260220T163708 card/g.png
+	file: A20260220T163708 card/m.png
+	file: A20260220T163708 card/r.png
+	file: A20260220T163708 card/u.png
+	file: A20260220T163708 card/w.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 crown/a.png
+	file: A20260220T163708 crown/b.png
+	file: A20260220T163708 crown/c.png
+	file: A20260220T163708 crown/g.png
+	file: A20260220T163708 crown/m.png
+	file: A20260220T163708 crown/r.png
+	file: A20260220T163708 crown/u.png
+	file: A20260220T163708 crown/w.png
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 fonts/thesherloks-vintage.otf
+	file: A20260220T163708 fonts/trajanpro-regular.ttf
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 nonstamp/a.png
+	file: A20260220T163708 nonstamp/b.png
+	file: A20260220T163708 nonstamp/c.png
+	file: A20260220T163708 nonstamp/g.png
+	file: A20260220T163708 nonstamp/m.png
+	file: A20260220T163708 nonstamp/r.png
+	file: A20260220T163708 nonstamp/u.png
+	file: A20260220T163708 nonstamp/w.png
+	file: A20260220T163708 pt/a.png
+	file: A20260220T163708 pt/b.png
+	file: A20260220T163708 pt/c.png
+	file: A20260220T163708 pt/g.png
+	file: A20260220T163708 pt/m.png
+	file: A20260220T163708 pt/r.png
+	file: A20260220T163708 pt/u.png
+	file: A20260220T163708 pt/w.png
+	file: A20260220T163708 special_blend_pt.png
+	file: A20260220T163708 stamp/a.png
+	file: A20260220T163708 stamp/b.png
+	file: A20260220T163708 stamp/c.png
+	file: A20260220T163708 stamp/g.png
+	file: A20260220T163708 stamp/m.png
+	file: A20260220T163708 stamp/r.png
+	file: A20260220T163708 stamp/u.png
+	file: A20260220T163708 stamp/w.png
+	file: A20260220T163708 stamp_border_mask.png
+	file: A20260220T163708 style
 package:
 	name: magic-extended-art.mse-style
 	version: 2024-05-30
@@ -1514,10 +1653,10 @@ package:
 	file: M20251020T075246 style
 package:
 	name: magic-field-test.mse-export-template
-	version: 2018-02-09
+	version: 2026-02-06
 	status: 34
-	file: A20251020T075246 export-template
-	file: A20251020T075246 icon.png
+	file: M20260220T163708 export-template
+	file: M20251020T075246 icon.png
 package:
 	name: magic-firepenguinmaster-flip.mse-style
 	version: 2024-05-29
@@ -1795,7 +1934,6 @@ package:
 	file: M20251020T075247 wcard.jpg
 	file: M20251020T075247 wlcard.jpg
 	file: M20251020T075247 wlpt.png
-	file: M20251020T075248 wltypeline.png
 	file: M20251020T075248 wpt.png
 	file: M20251020T075248 wtypeline.png
 package:
@@ -2047,10 +2185,6 @@ package:
 	file: M20251020T075248 ulcard.jpg
 	file: M20251020T075248 ulpt.png
 	file: M20251020T075248 ultextbox.png
-	file: M20251020T075249 ultypeline.png
-	file: M20251020T075249 upt.png
-	file: M20251020T075249 utextbox.png
-	file: M20251020T075249 utypeline.png
 	file: M20251020T075249 wcard.jpg
 	file: M20251020T075249 wlcard.jpg
 	file: M20251020T075249 wlpt.png
@@ -2978,7 +3112,6 @@ package:
 	file: M20251020T075251 elements/battlecrown/cmbattlecrown.png
 	file: M20251020T075251 elements/battlecrown/crbattlecrown.png
 	file: M20251020T075251 elements/battlecrown/csbattlecrown.png
-	file: M20251020T075252 elements/battlecrown/cubattlecrown.png
 	file: M20251020T075252 elements/battlecrown/cwbattlecrown.png
 	file: M20251020T075252 elements/battlecrown/gabattlecrown.png
 	file: M20251020T075252 elements/battlecrown/gbattlecrown.png
@@ -12592,7 +12725,7 @@ package:
 	file: M20251020T075308 pride/trans.png
 	file: M20251020T075308 pride_legend_mask.png
 	file: M20251020T075308 pride_mask.png
-	file: M20251020T075308 style
+	file: M20260220T163708 style
 	file: M20251020T075308 text_pt_mask.png
 	file: M20251020T075308 textbox mask elements/bottom/choice_nonotch_nopt.png
 	file: M20251020T075308 textbox mask elements/bottom/choice_nonotch_pt.png
@@ -12703,7 +12836,7 @@ package:
 	file: M20251020T075308 stripe_line_top.png
 	file: M20251020T075308 stripe_normal_bot.png
 	file: M20251020T075308 stripe_normal_top.png
-	file: M20251020T075308 style
+	file: M20260220T163708 style
 	file: M20251020T075308 tall_mask.png
 	file: M20251020T075308 tall_textbox_mask.png
 	file: M20251020T075308 tall_watermark_mask.png
@@ -12754,7 +12887,7 @@ package:
 	file: M20251020T075308 mask/noleaf_medium.png
 	file: M20251020T075308 mask/noleaf_none.png
 	file: M20251020T075308 mask/noleaf_short.png
-	file: M20251020T075308 style
+	file: M20260220T163708 style
 	file: M20251020T075308 textbox/ablevtext_3.png
 	file: M20251020T075308 textbox/ablevtext_4.png
 	file: M20251020T075308 textbox/aclevtext_3.png
@@ -12938,7 +13071,7 @@ package:
 	file: M20251020T075309 image mask/bordered.png
 	file: M20251020T075309 image mask/leaf.png
 	file: M20251020T075309 image mask/noleaf.png
-	file: M20251020T075309 style
+	file: M20260220T163708 style
 package:
 	name: magic-genevensis-10-saga.mse-style
 	version: 2022-02-22
@@ -12949,7 +13082,7 @@ package:
 	file: M20251020T075309 image_extended_mask.png
 	file: M20251020T075309 image_mask.png
 	file: M20251020T075309 separator_mask.png
-	file: M20251020T075309 style
+	file: M20260220T163708 style
 	file: M20251020T075309 watermark_mask.png
 package:
 	name: magic-genevensis-11-class.mse-style
@@ -12995,7 +13128,7 @@ package:
 	file: M20251020T075309 mask/right_notchlow.png
 	file: M20251020T075309 separator_border.png
 	file: M20251020T075309 separator_mask.png
-	file: M20251020T075309 style
+	file: M20260220T163708 style
 	file: M20251020T075309 text_mask.png
 	file: M20251020T075309 textbox/abclass_background.png
 	file: M20251020T075309 textbox/acclass_background.png
@@ -13094,7 +13227,7 @@ package:
 	file: M20251020T075309 image_leaf_notch_mask.png
 	file: M20251020T075309 image_mask.png
 	file: M20251020T075309 image_notch_mask.png
-	file: M20251020T075309 style
+	file: M20260220T163708 style
 	file: M20251020T075309 text_bottom_mask.png
 	file: M20251020T075309 text_bottom_mask_notch.png
 	file: M20251020T075309 text_mask.png
@@ -13221,7 +13354,7 @@ package:
 	file: M20251020T075309 pt_mask.png
 	file: M20251020T075309 specialcrown_extended_mask.png
 	file: M20251020T075309 specialcrown_extended_type_mask.png
-	file: M20251020T075309 style
+	file: M20260220T163708 style
 	file: M20251020T075309 textbox_background.png
 	file: M20251020T075309 textbox_background_mask.png
 	file: M20251020T075309 textbox_background_wings_mask.png
@@ -13252,7 +13385,7 @@ package:
 	file: M20251020T075309 image_leaf_mask.png
 	file: M20251020T075309 image_mask.png
 	file: M20251020T075309 red_transparent.png
-	file: M20251020T075309 style
+	file: M20260220T163708 style
 	file: M20251020T075309 text_mask.png
 	file: M20251020T075309 transparent_red.png
 	file: M20251020T075309 type/abplanetype.png
@@ -13495,10 +13628,10 @@ package:
 	name: magic-kasu-eldrazi_750.mse-style
 	version: 2024-08-01
 	status: 34
-	file: M20251020T075310 artifact_blend_card.png
-	file: M20251020T075310 artifact_blend_crown.png
-	file: M20251020T075310 artifact_blend_identity.png
-	file: M20251020T075310 artifact_blend_pt.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_identity.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075310 basic_card.png
 	file: M20251020T075310 basic_card_mask.png
 	file: M20251020T075310 basic_image_mask.png
@@ -13545,10 +13678,10 @@ package:
 	file: M20251020T075310 crown/rcrown.png
 	file: M20251020T075310 crown/ucrown.png
 	file: M20251020T075310 crown/wcrown.png
-	file: M20251020T075310 hybrid_blend_card.png
-	file: M20251020T075310 hybrid_blend_crown.png
-	file: M20251020T075310 hybrid_blend_identity.png
-	file: M20251020T075310 hybrid_blend_pt.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_identity.png
+	file: D hybrid_blend_pt.png
 	file: M20251020T075310 image_mask.png
 	file: M20251020T075310 image_mask_extended.png
 	file: M20251020T075310 image_mask_extended_textbox.png
@@ -13556,7 +13689,7 @@ package:
 	file: M20251020T075310 land_overlay.png
 	file: M20251020T075310 multicolor_blend_card.png
 	file: M20251020T075310 multicolor_blend_crown.png
-	file: M20251020T075310 multicolor_blend_identity.png
+	file: D multicolor_blend_identity.png
 	file: M20251020T075310 multicolor_blend_pt.png
 	file: M20251020T075310 pt/apt.png
 	file: M20251020T075310 pt/bpt.png
@@ -13568,15 +13701,15 @@ package:
 	file: M20251020T075310 pt/upt.png
 	file: M20251020T075310 pt/wpt.png
 	file: M20251020T075310 stamp.png
-	file: M20251020T075310 style
+	file: M20260220T163708 style
 package:
 	name: magic-kasu-legend_750.mse-style
 	version: 2024-08-01
 	status: 34
-	file: M20251020T075310 artifact_blend_card.png
-	file: M20251020T075310 artifact_blend_crown.png
-	file: M20251020T075310 artifact_blend_identity.png
-	file: M20251020T075310 artifact_blend_textbox.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_identity.png
+	file: D artifact_blend_textbox.png
 	file: M20251020T075310 card-sample.png
 	file: M20251020T075310 card_mask.png
 	file: M20251020T075310 crown/acrown.png
@@ -13587,20 +13720,20 @@ package:
 	file: M20251020T075310 crown/rcrown.png
 	file: M20251020T075310 crown/ucrown.png
 	file: M20251020T075310 crown/wcrown.png
-	file: M20251020T075310 hybrid_blend_card.png
-	file: M20251020T075310 hybrid_blend_crown.png
-	file: M20251020T075310 hybrid_blend_identity.png
-	file: M20251020T075310 hybrid_blend_textbox.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_identity.png
+	file: D hybrid_blend_textbox.png
 	file: M20251020T075310 image_mask.png
 	file: M20251020T075310 image_mask_alias.png
 	file: M20251020T075310 image_mask_alias_textbox.png
 	file: M20251020T075310 image_mask_textbox.png
 	file: M20251020T075310 land_alias_overlay.png
 	file: M20251020T075310 land_overlay.png
-	file: M20251020T075310 multicolor_blend_card.png
-	file: M20251020T075310 multicolor_blend_crown.png
-	file: M20251020T075310 multicolor_blend_identity.png
-	file: M20251020T075310 multicolor_blend_textbox.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_identity.png
+	file: D multicolor_blend_textbox.png
 	file: M20251020T075310 namebox/acard.png
 	file: M20251020T075310 namebox/bcard.png
 	file: M20251020T075310 namebox/ccard.png
@@ -13625,7 +13758,7 @@ package:
 	file: M20251020T075310 pt.png
 	file: M20251020T075310 pt_symbol.png
 	file: M20251020T075310 stamp.png
-	file: M20251020T075310 style
+	file: M20260220T163708 style
 	file: M20251020T075310 textbox/acard.png
 	file: M20251020T075310 textbox/bcard.png
 	file: M20251020T075310 textbox/ccard.png
@@ -13770,7 +13903,8 @@ package:
 	status: 34
 	file: M20251020T075310 acard.png
 	file: M20251020T075310 acard2.png
-	file: M20251020T075310 artifact_blend_card.png
+	file: M20260220T163708 artifact_blend_card.png
+	file: A20260220T163708 artifact_blend_card2.png
 	file: M20251020T075310 artifact_blend_pt.png
 	file: M20251020T075310 artifact_blend_stamp.png
 	file: M20251020T075310 artist_arrow.png
@@ -13786,6 +13920,7 @@ package:
 	file: M20251020T075310 gcard.png
 	file: M20251020T075310 gcard2.png
 	file: M20251020T075310 hybrid_blend_card.png
+	file: A20260220T163708 hybrid_blend_card2.png
 	file: M20251020T075310 hybrid_blend_pt.png
 	file: M20251020T075310 hybrid_blend_stamp.png
 	file: M20251020T075310 image_mask.png
@@ -13794,13 +13929,14 @@ package:
 	file: M20251020T075310 image_mask_inv1.png
 	file: M20251020T075310 mcard.png
 	file: M20251020T075310 mcard2.png
-	file: M20251020T075310 multicolor_blend_card.png
+	file: M20260220T163708 multicolor_blend_card.png
+	file: A20260220T163708 multicolor_blend_card2.png
 	file: M20251020T075310 multicolor_blend_pt.png
 	file: M20251020T075310 multicolor_blend_stamp.png
 	file: M20251020T075310 pt.png
 	file: M20251020T075310 rcard.png
 	file: M20251020T075310 rcard2.png
-	file: M20251020T075310 style
+	file: M20260220T163708 style
 	file: M20251020T075310 tombstone.png
 	file: M20251020T075310 ucard.png
 	file: M20251020T075310 ucard2.png
@@ -13902,9 +14038,25 @@ package:
 	file: M20251020T075311 spotlight/wpt.png
 	file: M20251020T075311 spotmask.jpg
 	file: M20251020T075311 stampmask.jpg
-	file: M20251020T075311 style
+	file: M20260220T163708 style
 	file: M20251020T075311 tale_mask.jpg
 	file: M20251020T075311 voverlay.png
+package:
+	name: magic-m15-aetherdrift-full-art-basics.mse-style
+	version: 2024-05-20
+	status: 34
+	file: A20260220T163708 card.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 mask_stamp_background_border.png
+	file: A20260220T163708 mask_stamp_background_border_triangle.png
+	file: A20260220T163708 style
+	file: A20260220T163708 symbol/b.png
+	file: A20260220T163708 symbol/c.png
+	file: A20260220T163708 symbol/g.png
+	file: A20260220T163708 symbol/r.png
+	file: A20260220T163708 symbol/u.png
+	file: A20260220T163708 symbol/w.png
 package:
 	name: magic-m15-aftermath.mse-style
 	version: 2024-05-27
@@ -14000,7 +14152,7 @@ package:
 	file: M20251020T075311 wlcard3.jpg
 package:
 	name: magic-m15-altered.mse-style
-	version: 2024-09-23
+	version: 2025-10-05
 	status: 34
 	file: D acard.jpg
 	file: D alias/aalias.png
@@ -14247,6 +14399,7 @@ package:
 	file: M20251020T075311 frame_masks/borderless_dka.png
 	file: M20251020T075311 frame_masks/borderless_frameless.png
 	file: M20251020T075311 frame_masks/borderless_frameless_miracle.png
+	file: A20260220T163708 frame_masks/borderless_transparent.png
 	file: M20251020T075311 frame_masks/clear_frame_mask.png
 	file: M20251020T075311 frame_masks/clear_tops_dka_mask.png
 	file: M20251020T075311 frame_masks/clear_tops_dka_mask2.png
@@ -14261,6 +14414,9 @@ package:
 	file: M20251020T075311 frame_masks/map_mask.png
 	file: M20251020T075311 frame_masks/miracle_borderless.png
 	file: M20251020T075311 frame_masks/miracle_borderless_crown.png
+	file: A20260220T163708 frame_masks/spacecraft.png
+	file: A20260220T163708 frame_masks/spacecraft_borderless.png
+	file: A20260220T163708 frame_masks/spacecraft_clear.png
 	file: D full_consscrolls.png
 	file: D gcard.jpg
 	file: D glcard.jpg
@@ -14954,10 +15110,11 @@ package:
 	file: D snow/wmiracle.png
 	file: D snow/wsnow.png
 	file: D stamp_mask.png
-	file: M20251020T075311 style
+	file: M20260220T163708 style
 	file: D test.png
 	file: D test_mask.png
 	file: D tombstone.png
+	file: A20260220T163708 transparent_borderless.png
 	file: D ucard.jpg
 	file: D ulcard.jpg
 	file: D ulpt.png
@@ -15010,6 +15167,35 @@ package:
 	file: M20251020T075311 stamp_rim.png
 	file: M20251020T075311 style
 	file: M20251020T075311 typeline.png
+package:
+	name: magic-m15-bigtext.mse-style
+	version: 2025-10-08
+	status: 34
+	file: A20260220T163708 acard.jpg
+	file: A20260220T163708 artifact_blend_card.png
+	file: A20260220T163708 bcard.jpg
+	file: A20260220T163708 blcard.jpg
+	file: A20260220T163708 border_mask.png
+	file: A20260220T163708 card-sample.png
+	file: A20260220T163708 ccard.jpg
+	file: A20260220T163708 clcard.jpg
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 foil_mask_rare.png
+	file: A20260220T163708 gcard.jpg
+	file: A20260220T163708 glcard.jpg
+	file: A20260220T163708 hybrid_blend_card.png
+	file: A20260220T163708 license
+	file: A20260220T163708 mcard.jpg
+	file: A20260220T163708 mlcard.jpg
+	file: A20260220T163708 multicolor_blend_card.png
+	file: A20260220T163708 rcard.jpg
+	file: A20260220T163708 readme.md
+	file: A20260220T163708 rlcard.jpg
+	file: A20260220T163708 style
+	file: A20260220T163708 ucard.jpg
+	file: A20260220T163708 ulcard.jpg
+	file: A20260220T163708 wcard.jpg
+	file: A20260220T163708 wlcard.jpg
 package:
 	name: magic-m15-black.mse-style
 	version: 2024-05-27
@@ -15776,7 +15962,6 @@ package:
 	file: M20251020T075312 shadow/lane_masks/3e3.png
 	file: M20251020T075312 shadow/lane_masks/4.png
 	file: M20251020T075312 shadow/lane_masks/4e1.png
-	file: M20251020T075313 shadow/lane_masks/4e1e2.png
 	file: M20251020T075313 shadow/lane_masks/4e1e2e3.png
 	file: M20251020T075313 shadow/lane_masks/4e1e2e3e4.png
 	file: M20251020T075313 shadow/lane_masks/4e1e2e4.png
@@ -16625,7 +16810,7 @@ package:
 	file: M20251020T075315 artifact_blend_type.png
 	file: M20251020T075315 artist_arrow.png
 	file: M20251020T075315 basicsymbol/bbasicsymbol.png
-	file: A20251020T075315 basicsymbol/cbasicsymbol.png
+	file: M20251020T075315 basicsymbol/cbasicsymbol.png
 	file: M20251020T075315 basicsymbol/gbasicsymbol.png
 	file: M20251020T075315 basicsymbol/rbasicsymbol.png
 	file: M20251020T075315 basicsymbol/ubasicsymbol.png
@@ -16738,7 +16923,7 @@ package:
 	file: M20251020T075315 shadow_stamp_pinline.png
 	file: M20251020T075315 shadow_stamp_pinline_triangle.png
 	file: M20251020T075315 special_blend_pt.png
-	file: M20251020T075315 style
+	file: M20260220T163708 style
 	file: M20251020T075315 textbox.png
 	file: M20251020T075315 type/atype.png
 	file: M20251020T075315 type/btype.png
@@ -16960,7 +17145,7 @@ package:
 	file: M20251020T075315 rpt.png
 	file: M20251020T075315 rtextbox.png
 	file: M20251020T075315 rtypeline.png
-	file: M20251020T075315 style
+	file: M20260220T163708 style
 	file: D style - wonk
 	file: M20251020T075315 symbols/aetherprint.png
 	file: M20251020T075315 symbols/artifact.png
@@ -17340,6 +17525,32 @@ package:
 	file: M20251020T075316 wcard.png
 	file: M20251020T075316 wcard2.png
 package:
+	name: magic-m15-ixalan-full-art-basics.mse-style
+	version: 2024-05-20
+	status: 34
+	file: A20260220T163708 basic_land/b.png
+	file: A20260220T163708 basic_land/c.png
+	file: A20260220T163708 basic_land/g.png
+	file: A20260220T163708 basic_land/r.png
+	file: A20260220T163708 basic_land/u.png
+	file: A20260220T163708 basic_land/w.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 mask_stamp_background_border.png
+	file: A20260220T163708 mask_stamp_background_border_triangle.png
+	file: A20260220T163708 style
+	file: A20260220T163708 symbol/b.png
+	file: A20260220T163708 symbol/c.png
+	file: A20260220T163708 symbol/g.png
+	file: A20260220T163708 symbol/r.png
+	file: A20260220T163708 symbol/u.png
+	file: A20260220T163708 symbol/w.png
+	file: A20260220T163708 type/b.png
+	file: A20260220T163708 type/c.png
+	file: A20260220T163708 type/g.png
+	file: A20260220T163708 type/r.png
+	file: A20260220T163708 type/u.png
+	file: A20260220T163708 type/w.png
+package:
 	name: magic-m15-jinx.mse-style
 	version: 2024-06-07
 	status: 34
@@ -17444,7 +17655,7 @@ package:
 	file: M20251020T075316 mask_stamp_background_border_triangle.png
 	file: M20251020T075316 multicolor_blend_card.png
 	file: M20251020T075316 name_color.png
-	file: M20251020T075316 style
+	file: M20260220T163708 style
 	file: M20251020T075316 symbol_forest.png
 	file: M20251020T075316 symbol_island.png
 	file: M20251020T075316 symbol_mountain.png
@@ -17716,6 +17927,19 @@ package:
 	file: D wlstamp.jpg
 	file: D wpt.png
 	file: D wstamp.jpg
+package:
+	name: magic-m15-mainframe-battles.mse-style
+	version: 2025-01-21
+	status: 34
+	file: A20260220T163708 border_mask.png
+	file: A20260220T163708 borderless_mask.png
+	file: A20260220T163708 card-sample.png
+	file: A20260220T163708 frame_mask.png
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 style
+	file: A20260220T163708 test.png
+	file: A20260220T163708 trim_mask.png
+	file: A20260220T163708 vehicle.png
 package:
 	name: magic-m15-mainframe-dfc.mse-style
 	version: 2024-09-06
@@ -18697,7 +18921,7 @@ package:
 	file: M20251020T075317 snow_masks/snow_back_mask.png
 	file: M20251020T075317 snow_masks/snow_front_mask.png
 	file: M20251020T075317 snow_masks/snow_modal_mask.png
-	file: M20251020T075317 style
+	file: M20260220T163708 style
 	file: M20251020T075317 textmask.png
 	file: D ucb.png
 	file: D ulcb.png
@@ -19123,7 +19347,7 @@ package:
 	file: M20251020T075318 stamp_mask.png
 	file: M20251020T075318 stampmask.jpg
 	file: M20251020T075318 stripe_mask.png
-	file: M20251020T075318 style
+	file: M20260220T163708 style
 	file: D style backup
 	file: D stylec
 	file: M20251020T075318 top_stripe.png
@@ -19186,6 +19410,7 @@ package:
 	file: M20251020T075318 artifact_blend_card8.png
 	file: M20251020T075318 artifact_blend_card9.png
 	file: M20251020T075318 artifact_blend_crown.png
+	file: A20260220T163708 artifact_blend_custom_border.png
 	file: D artifact_blend_snowtexture.png
 	file: M20251020T075318 bcard.jpg
 	file: M20251020T075318 bcard2.jpg
@@ -19233,23 +19458,8 @@ package:
 	file: M20251020T075318 hybrid_blend_card2.png
 	file: M20251020T075318 hybrid_blend_card3.png
 	file: M20251020T075318 hybrid_blend_card4.png
-	file: M20251020T075319 hybrid_blend_card5.png
-	file: M20251020T075319 hybrid_blend_card6.png
-	file: M20251020T075319 hybrid_blend_card7.png
-	file: M20251020T075319 hybrid_blend_card8.png
-	file: M20251020T075319 hybrid_blend_card9.png
-	file: M20251020T075319 hybrid_blend_crown.png
+	file: A20260220T163708 hybrid_blend_custom_border.png
 	file: D hybrid_blend_snowtexture.png
-	file: M20251020T075319 imagemask.png
-	file: M20251020T075319 imagemask2.png
-	file: M20251020T075319 imagemask3.png
-	file: M20251020T075319 m20/acard.png
-	file: M20251020T075319 m20/acard2.png
-	file: M20251020T075319 m20/acard3.png
-	file: M20251020T075319 m20/bcard.png
-	file: M20251020T075319 m20/bcard2.png
-	file: M20251020T075319 m20/bcard3.png
-	file: M20251020T075319 m20/ccard.png
 	file: M20251020T075319 m20/ccard2.png
 	file: M20251020T075319 m20/ccard3.png
 	file: M20251020T075319 m20/gcard.png
@@ -19261,12 +19471,12 @@ package:
 	file: M20251020T075319 m20/mcard.png
 	file: M20251020T075319 m20/mcard2.png
 	file: M20251020T075319 m20/mcard3.png
-	file: A20251020T075319 m20/nyx_mask.png
+	file: M20251020T075319 m20/nyx_mask.png
 	file: M20251020T075319 m20/rcard.png
 	file: M20251020T075319 m20/rcard2.png
 	file: M20251020T075319 m20/rcard3.png
-	file: A20251020T075319 m20/snowbox_mask.png
-	file: A20251020T075319 m20/type_mask.png
+	file: M20251020T075319 m20/snowbox_mask.png
+	file: M20251020T075319 m20/type_mask.png
 	file: M20251020T075319 m20/ucard.png
 	file: M20251020T075319 m20/ucard2.png
 	file: M20251020T075319 m20/ucard3.png
@@ -19290,6 +19500,7 @@ package:
 	file: M20251020T075319 multicolor_blend_card8.png
 	file: M20251020T075319 multicolor_blend_card9.png
 	file: M20251020T075319 multicolor_blend_crown.png
+	file: A20260220T163708 multicolor_blend_custom_border.png
 	file: D multicolor_blend_snowtexture.png
 	file: D nyx/4pw_mask.png
 	file: D nyx/4pw_v_mask.png
@@ -19381,7 +19592,7 @@ package:
 	file: M20251020T075319 stamps/ub/wstamp.png
 	file: M20251020T075319 state_frame.png
 	file: M20251020T075319 state_mask.png
-	file: M20251020T075319 style
+	file: M20260220T163708 style
 	file: M20251020T075319 ucard.jpg
 	file: M20251020T075319 ucard2.jpg
 	file: M20251020T075319 ucard3.jpg
@@ -19482,7 +19693,7 @@ package:
 	file: D rstamp.jpg
 	file: D sorcery.png
 	file: D structure.png
-	file: M20251020T075319 style
+	file: M20260220T163708 style
 	file: D sun_circle.png
 	file: M20251020T075319 textmask.png
 	file: D tombstone.png
@@ -19742,7 +19953,7 @@ package:
 	file: M20251020T075319 rlcard.png
 	file: M20251020T075319 rlpt.png
 	file: M20251020T075319 rpt.png
-	file: M20251020T075319 style
+	file: M20260220T163708 style
 	file: M20251020T075319 ucard.png
 	file: M20251020T075319 ulcard.png
 	file: M20251020T075319 ulpt.png
@@ -19751,6 +19962,26 @@ package:
 	file: M20251020T075319 wlcard.png
 	file: M20251020T075319 wlpt.png
 	file: M20251020T075319 wpt.png
+package:
+	name: magic-m15-phyrexia-full-art-basics.mse-style
+	version: 2024-05-20
+	status: 34
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 mask_stamp_background_border.png
+	file: A20260220T163708 mask_stamp_background_border_triangle.png
+	file: A20260220T163708 style
+	file: A20260220T163708 symbol/b.png
+	file: A20260220T163708 symbol/c.png
+	file: A20260220T163708 symbol/g.png
+	file: A20260220T163708 symbol/r.png
+	file: A20260220T163708 symbol/u.png
+	file: A20260220T163708 symbol/w.png
+	file: A20260220T163708 type/b.png
+	file: A20260220T163708 type/c.png
+	file: A20260220T163708 type/g.png
+	file: A20260220T163708 type/r.png
+	file: A20260220T163708 type/u.png
+	file: A20260220T163708 type/w.png
 package:
 	name: magic-m15-planeshifted-duplex.mse-style
 	version: 2024-06-07
@@ -20280,13 +20511,21 @@ package:
 	file: M20251020T075320 multicolor_blend_node.png
 	file: D multicolor_blend_pt.png
 	file: D multicolor_blend_stamp.png
+	file: A20260220T163708 nodes/alnode.png
 	file: M20251020T075320 nodes/anode.png
+	file: A20260220T163708 nodes/blnode.png
 	file: M20251020T075320 nodes/bnode.png
+	file: A20260220T163708 nodes/clnode.png
 	file: M20251020T075320 nodes/cnode.png
+	file: A20260220T163708 nodes/glnode.png
 	file: M20251020T075320 nodes/gnode.png
+	file: A20260220T163708 nodes/mlnode.png
 	file: M20251020T075320 nodes/mnode.png
+	file: A20260220T163708 nodes/rlnode.png
 	file: M20251020T075320 nodes/rnode.png
+	file: A20260220T163708 nodes/ulnode.png
 	file: M20251020T075320 nodes/unode.png
+	file: A20260220T163708 nodes/wlnode.png
 	file: M20251020T075320 nodes/wnode.png
 	file: D rcard.jpg
 	file: D rlcard.jpg
@@ -20344,7 +20583,7 @@ package:
 	file: D artifact_blend_snowtexture.png
 	file: M20251020T075321 bar.png
 	file: D bcard.jpg
-	file: M20251020T075321 beyond_mask.png
+	file: M20260220T163708 beyond_mask.png
 	file: D blcard.jpg
 	file: M20251020T075321 bookmark/amark.png
 	file: M20251020T075321 bookmark/blmark.png
@@ -20462,7 +20701,7 @@ package:
 	file: D snow/usnow.png
 	file: D snow/wlsnow.png
 	file: D snow/wsnow.png
-	file: M20251020T075321 style
+	file: M20260220T163708 style
 	file: M20251020T075321 textmask.png
 	file: M20251020T075321 trim_masks/double_mask.png
 	file: M20251020T075321 trim_masks/mask.png
@@ -20744,13 +20983,37 @@ package:
 	file: M20251020T075322 wlpt.png
 	file: M20251020T075322 wpt.png
 package:
+	name: magic-m15-secret-lair-arcade.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_mask.png
+	file: A20260220T163708 border_stamp_mask.png
+	file: A20260220T163708 card/big score.png
+	file: A20260220T163708 card/final fortune.png
+	file: A20260220T163708 card/heat shimmer.png
+	file: A20260220T163708 card/roiling vortex.png
+	file: A20260220T163708 card/wheel of misfortune.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 fonts/incised901-norditalic-allcaps.ttf
+	file: A20260220T163708 fonts/mane-regular.otf
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 name_texture.png
+	file: A20260220T163708 pt/big score.png
+	file: A20260220T163708 pt/final fortune.png
+	file: A20260220T163708 pt/heat shimmer.png
+	file: A20260220T163708 pt/roiling vortex.png
+	file: A20260220T163708 pt/wheel of misfortune.png
+	file: A20260220T163708 stamp.png
+	file: A20260220T163708 style
+package:
 	name: magic-m15-secret-lair-gatewatch.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075322 artifact_blend_card.png
-	file: M20251020T075322 artifact_blend_logo.png
-	file: M20251020T075322 artifact_blend_loyalty.png
-	file: M20251020T075322 artifact_blend_stamprim.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_logo.png
+	file: D artifact_blend_loyalty.png
+	file: D artifact_blend_stamprim.png
 	file: M20251020T075322 back.png
 	file: M20251020T075322 back_image_mask.png
 	file: M20251020T075322 back_loyalty.png
@@ -20776,10 +21039,10 @@ package:
 	file: M20251020T075323 fonts/futura medium bt.ttf
 	file: M20251020T075323 fonts/futura medium italic bt.ttf
 	file: M20251020T075323 fonts/theevent.ttf
-	file: M20251020T075323 hybrid_blend_card.png
-	file: M20251020T075323 hybrid_blend_logo.png
-	file: M20251020T075323 hybrid_blend_loyalty.png
-	file: M20251020T075323 hybrid_blend_stamprim.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_logo.png
+	file: D hybrid_blend_loyalty.png
+	file: D hybrid_blend_stamprim.png
 	file: M20251020T075323 logo/alogo.png
 	file: M20251020T075323 logo/blogo.png
 	file: M20251020T075323 logo/clogo.png
@@ -20796,10 +21059,10 @@ package:
 	file: M20251020T075323 loyalty/rloyalty.png
 	file: M20251020T075323 loyalty/uloyalty.png
 	file: M20251020T075323 loyalty/wloyalty.png
-	file: M20251020T075323 multicolor_blend_card.png
-	file: M20251020T075323 multicolor_blend_logo.png
-	file: M20251020T075323 multicolor_blend_loyalty.png
-	file: M20251020T075323 multicolor_blend_stamprim.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_logo.png
+	file: D multicolor_blend_loyalty.png
+	file: D multicolor_blend_stamprim.png
 	file: M20251020T075323 position.png
 	file: M20251020T075323 stamprim/astamprim.png
 	file: M20251020T075323 stamprim/bstamprim.png
@@ -20809,17 +21072,67 @@ package:
 	file: M20251020T075323 stamprim/rstamprim.png
 	file: M20251020T075323 stamprim/ustamprim.png
 	file: M20251020T075323 stamprim/wstamprim.png
-	file: M20251020T075323 style
+	file: M20260220T163708 style
 	file: M20251020T075323 text_mask.png
 	file: M20251020T075323 tint.png
 	file: M20251020T075323 trophy.png
 package:
+	name: magic-m15-showcase-aetherdrift-first-place-walker.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_mask.png
+	file: A20260220T163708 border_mask_borderless.png
+	file: A20260220T163708 border_stamp_mask.png
+	file: A20260220T163708 card.png
+	file: A20260220T163708 card_borderless.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 card_tall.png
+	file: A20260220T163708 card_tall_borderless.png
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 image_mask_borderless.png
+	file: A20260220T163708 image_mask_tall.png
+	file: A20260220T163708 image_mask_tall_borderless.png
+	file: A20260220T163708 loyalty/loyalty cost + shadow.png
+	file: A20260220T163708 loyalty/loyalty cost +.png
+	file: A20260220T163708 loyalty/loyalty cost - shadow.png
+	file: A20260220T163708 loyalty/loyalty cost -.png
+	file: A20260220T163708 loyalty/loyalty cost 0 shadow.png
+	file: A20260220T163708 loyalty/loyalty cost 0.png
+	file: A20260220T163708 loyalty/loyalty shadow.png
+	file: A20260220T163708 loyalty/loyalty.png
+	file: A20260220T163708 nonstamp.png
+	file: A20260220T163708 style
+	file: A20260220T163708 textbox_mask.png
+	file: A20260220T163708 textbox_mask_stamp.png
+	file: A20260220T163708 textbox_mask_tall.png
+	file: A20260220T163708 textbox_mask_tall_stamp.png
+package:
+	name: magic-m15-showcase-aetherdrift-first-place.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_mask.png
+	file: A20260220T163708 border_mask_borderless.png
+	file: A20260220T163708 border_stamp_mask.png
+	file: A20260220T163708 card.png
+	file: A20260220T163708 card_borderless.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 crown.png
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 foil_mask_crown.png
+	file: A20260220T163708 foil_mask_pt.png
+	file: A20260220T163708 foil_mask_stamp.png
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 image_mask_borderless.png
+	file: A20260220T163708 pt.png
+	file: A20260220T163708 stamp.png
+	file: A20260220T163708 style
+package:
 	name: magic-m15-showcase-assassins-creed-memory-corridor.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075323 artifact_blend_card.png
-	file: M20251020T075323 artifact_blend_crown.png
-	file: M20251020T075323 artifact_blend_pt.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075323 border_mask.png
 	file: M20251020T075323 border_stamp_mask.png
 	file: M20251020T075323 card/acard.png
@@ -20845,14 +21158,14 @@ package:
 	file: M20251020T075323 foil_mask_triangle.png
 	file: D fonts/din next lt arabic bold allcaps.ttf
 	file: D fonts/din next lt arabic medium allcaps.ttf
-	file: M20251020T075323 hybrid_blend_card.png
-	file: M20251020T075323 hybrid_blend_crown.png
-	file: M20251020T075323 hybrid_blend_pt.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
 	file: M20251020T075323 image_mask.png
 	file: M20251020T075323 image_mask_full.png
 	file: M20251020T075323 multicolor_blend_card.png
-	file: M20251020T075323 multicolor_blend_crown.png
-	file: M20251020T075323 multicolor_blend_pt.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075323 pt/apt.png
 	file: M20251020T075323 pt/bpt.png
 	file: M20251020T075323 pt/cpt.png
@@ -20862,17 +21175,91 @@ package:
 	file: M20251020T075323 pt/upt.png
 	file: M20251020T075323 pt/wpt.png
 	file: M20251020T075323 special_blend_pt.png
-	file: M20251020T075323 style
+	file: M20260220T163708 style
+package:
+	name: magic-m15-showcase-avatar-elemental.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_borderless_mask.png
+	file: A20260220T163708 border_extended_mask.png
+	file: A20260220T163708 border_fade_mask.png
+	file: A20260220T163708 card/a.png
+	file: A20260220T163708 card/b.png
+	file: A20260220T163708 card/c.png
+	file: A20260220T163708 card/g.png
+	file: A20260220T163708 card/m.png
+	file: A20260220T163708 card/r.png
+	file: A20260220T163708 card/u.png
+	file: A20260220T163708 card/w.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 clearcard/a.png
+	file: A20260220T163708 clearcard/b.png
+	file: A20260220T163708 clearcard/c.png
+	file: A20260220T163708 clearcard/g.png
+	file: A20260220T163708 clearcard/m.png
+	file: A20260220T163708 clearcard/r.png
+	file: A20260220T163708 clearcard/u.png
+	file: A20260220T163708 clearcard/w.png
+	file: A20260220T163708 clearcrown/a.png
+	file: A20260220T163708 clearcrown/b.png
+	file: A20260220T163708 clearcrown/c.png
+	file: A20260220T163708 clearcrown/g.png
+	file: A20260220T163708 clearcrown/m.png
+	file: A20260220T163708 clearcrown/r.png
+	file: A20260220T163708 clearcrown/u.png
+	file: A20260220T163708 clearcrown/w.png
+	file: A20260220T163708 crown/a.png
+	file: A20260220T163708 crown/b.png
+	file: A20260220T163708 crown/c.png
+	file: A20260220T163708 crown/g.png
+	file: A20260220T163708 crown/m.png
+	file: A20260220T163708 crown/r.png
+	file: A20260220T163708 crown/u.png
+	file: A20260220T163708 crown/w.png
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 noncrown/a.png
+	file: A20260220T163708 noncrown/b.png
+	file: A20260220T163708 noncrown/c.png
+	file: A20260220T163708 noncrown/g.png
+	file: A20260220T163708 noncrown/m.png
+	file: A20260220T163708 noncrown/r.png
+	file: A20260220T163708 noncrown/u.png
+	file: A20260220T163708 noncrown/w.png
+	file: A20260220T163708 nonpt.png
+	file: A20260220T163708 pt/a.png
+	file: A20260220T163708 pt/b.png
+	file: A20260220T163708 pt/c.png
+	file: A20260220T163708 pt/g.png
+	file: A20260220T163708 pt/m.png
+	file: A20260220T163708 pt/r.png
+	file: A20260220T163708 pt/u.png
+	file: A20260220T163708 pt/w.png
+	file: A20260220T163708 special_blend_pt.png
+	file: A20260220T163708 stamp_border_mask.png
+	file: A20260220T163708 style
+	file: A20260220T163708 symbol/airbender.png
+	file: A20260220T163708 symbol/avatar.png
+	file: A20260220T163708 symbol/blank.png
+	file: A20260220T163708 symbol/bloodbender.png
+	file: A20260220T163708 symbol/earthbender.png
+	file: A20260220T163708 symbol/firebender.png
+	file: A20260220T163708 symbol/lavabender.png
+	file: A20260220T163708 symbol/lightningbender.png
+	file: A20260220T163708 symbol/metalbender.png
+	file: A20260220T163708 symbol/nonbender.png
+	file: A20260220T163708 symbol/waterbender.png
 package:
 	name: magic-m15-showcase-bloomburrow-borderless-anime.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075323 artifact_blend_card.png
-	file: M20251020T075323 artifact_blend_crown.png
-	file: M20251020T075323 artifact_blend_nonpt.png
-	file: M20251020T075323 artifact_blend_nonptpt.png
-	file: M20251020T075323 artifact_blend_pt.png
-	file: M20251020T075323 artifact_blend_stamp.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_nonpt.png
+	file: D artifact_blend_nonptpt.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075323 border_mask.png
 	file: M20251020T075323 border_pt_mask.png
 	file: M20251020T075323 border_stamp_mask.png
@@ -20883,39 +21270,39 @@ package:
 	file: M20251020T075323 foil_mask.png
 	file: M20251020T075323 foil_mask_pt.png
 	file: M20251020T075323 foil_mask_round.png
-	file: M20251020T075323 hybrid_blend_card.png
-	file: M20251020T075323 hybrid_blend_crown.png
-	file: M20251020T075323 hybrid_blend_nonpt.png
-	file: M20251020T075323 hybrid_blend_nonptpt.png
-	file: M20251020T075323 hybrid_blend_pt.png
-	file: M20251020T075323 hybrid_blend_stamp.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_nonpt.png
+	file: D hybrid_blend_nonptpt.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075323 image_mask.png
 	file: M20251020T075323 image_mask_full.png
 	file: M20251020T075323 image_mask_pt.png
-	file: M20251020T075323 multicolor_blend_card.png
-	file: M20251020T075323 multicolor_blend_crown.png
-	file: M20251020T075323 multicolor_blend_nonpt.png
-	file: M20251020T075323 multicolor_blend_nonptpt.png
-	file: M20251020T075323 multicolor_blend_pt.png
-	file: M20251020T075323 multicolor_blend_stamp.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_nonpt.png
+	file: D multicolor_blend_nonptpt.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075323 namebox.png
 	file: M20251020T075323 nonpt.png
 	file: M20251020T075323 nonptpt.png
 	file: M20251020T075323 pt.png
 	file: M20251020T075323 special_blend_pt.png
 	file: M20251020T075323 stamp.png
-	file: M20251020T075323 style
+	file: M20260220T163708 style
 	file: M20251020T075323 textbox.png
 	file: M20251020T075323 textbox_pt.png
 package:
 	name: magic-m15-showcase-bloomburrow-woodland.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075323 artifact_blend_border.png
-	file: M20251020T075323 artifact_blend_card.png
-	file: M20251020T075323 artifact_blend_crown.png
-	file: M20251020T075323 artifact_blend_pt.png
-	file: M20251020T075323 artifact_blend_stamp.png
+	file: D artifact_blend_border.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075323 border/aborder.png
 	file: M20251020T075323 border/bborder.png
 	file: M20251020T075323 border/cborder.png
@@ -20947,18 +21334,18 @@ package:
 	file: M20251020T075323 foil_mask.png
 	file: M20251020T075323 foil_mask_pt.png
 	file: M20251020T075323 foil_mask_round.png
-	file: M20251020T075323 hybrid_blend_border.png
-	file: M20251020T075323 hybrid_blend_card.png
-	file: M20251020T075323 hybrid_blend_crown.png
-	file: M20251020T075323 hybrid_blend_pt.png
-	file: M20251020T075323 hybrid_blend_stamp.png
+	file: D hybrid_blend_border.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075323 image_mask.png
 	file: M20251020T075323 image_mask_full.png
-	file: M20251020T075323 multicolor_blend_border.png
-	file: M20251020T075323 multicolor_blend_card.png
-	file: M20251020T075323 multicolor_blend_crown.png
-	file: M20251020T075323 multicolor_blend_pt.png
-	file: M20251020T075323 multicolor_blend_stamp.png
+	file: D multicolor_blend_border.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075323 pt/apt.png
 	file: M20251020T075323 pt/bpt.png
 	file: M20251020T075323 pt/cpt.png
@@ -20976,21 +21363,21 @@ package:
 	file: M20251020T075323 stamp/rstamp.png
 	file: M20251020T075323 stamp/ustamp.png
 	file: M20251020T075323 stamp/wstamp.png
-	file: M20251020T075323 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-capenna-art-deco-walker.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075323 artifact_blend_card.png
-	file: M20251020T075323 artifact_blend_crown.png
-	file: M20251020T075323 artifact_blend_nonstamprim.png
-	file: M20251020T075323 artifact_blend_pinlines_bottom.png
-	file: M20251020T075323 artifact_blend_pinlines_top.png
-	file: M20251020T075323 artifact_blend_pinlines_typeline.png
-	file: M20251020T075323 artifact_blend_pt.png
-	file: M20251020T075323 artifact_blend_stamprim.png
-	file: M20251020T075323 artifact_blend_textbox.png
-	file: M20251020T075323 artifact_blend_typeline.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_nonstamprim.png
+	file: D artifact_blend_pinlines_bottom.png
+	file: D artifact_blend_pinlines_top.png
+	file: D artifact_blend_pinlines_typeline.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamprim.png
+	file: D artifact_blend_textbox.png
+	file: D artifact_blend_typeline.png
 	file: M20251020T075323 border_crown_mask.png
 	file: M20251020T075323 border_mask.png
 	file: M20251020T075323 border_pinlines_mask.png
@@ -21020,16 +21407,16 @@ package:
 	file: M20251020T075323 foil_mask_crown.png
 	file: M20251020T075323 foil_mask_loyalty.png
 	file: M20251020T075323 foil_mask_round.png
-	file: M20251020T075323 hybrid_blend_card.png
-	file: M20251020T075323 hybrid_blend_crown.png
-	file: M20251020T075323 hybrid_blend_nonstamprim.png
-	file: M20251020T075323 hybrid_blend_pinlines_bottom.png
-	file: M20251020T075323 hybrid_blend_pinlines_top.png
-	file: M20251020T075323 hybrid_blend_pinlines_typeline.png
-	file: M20251020T075323 hybrid_blend_pt.png
-	file: M20251020T075323 hybrid_blend_stamprim.png
-	file: M20251020T075323 hybrid_blend_textbox.png
-	file: M20251020T075323 hybrid_blend_typeline.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_nonstamprim.png
+	file: D hybrid_blend_pinlines_bottom.png
+	file: D hybrid_blend_pinlines_top.png
+	file: D hybrid_blend_pinlines_typeline.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamprim.png
+	file: D hybrid_blend_textbox.png
+	file: D hybrid_blend_typeline.png
 	file: M20251020T075323 loyalty/loy.png
 	file: M20251020T075323 loyalty/loydown.png
 	file: M20251020T075323 loyalty/loydown_shadow.png
@@ -21041,12 +21428,12 @@ package:
 	file: M20251020T075324 multicolor_blend_crown.png
 	file: M20251020T075324 multicolor_blend_nonstamprim.png
 	file: M20251020T075324 multicolor_blend_pinlines_bottom.png
-	file: M20251020T075324 multicolor_blend_pinlines_top.png
-	file: M20251020T075324 multicolor_blend_pinlines_typeline.png
-	file: M20251020T075324 multicolor_blend_pt.png
+	file: D multicolor_blend_pinlines_top.png
+	file: D multicolor_blend_pinlines_typeline.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075324 multicolor_blend_stamprim.png
-	file: M20251020T075324 multicolor_blend_textbox.png
-	file: M20251020T075324 multicolor_blend_typeline.png
+	file: D multicolor_blend_textbox.png
+	file: D multicolor_blend_typeline.png
 	file: M20251020T075324 nonstamprim/anonstamprim.png
 	file: M20251020T075324 nonstamprim/bnonstamprim.png
 	file: M20251020T075324 nonstamprim/cnonstamprim.png
@@ -21099,7 +21486,7 @@ package:
 	file: M20251020T075324 stamprim/wstamprim.png
 	file: M20251020T075324 stripe_bottom.png
 	file: M20251020T075324 stripe_top.png
-	file: M20251020T075324 style
+	file: M20260220T163708 style
 	file: M20251020T075324 textbox/atextbox.png
 	file: M20251020T075324 textbox/btextbox.png
 	file: M20251020T075324 textbox/ctextbox.png
@@ -21122,11 +21509,11 @@ package:
 	name: magic-m15-showcase-capenna-art-deco.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075324 artifact_blend_card.png
-	file: M20251020T075324 artifact_blend_crown.png
-	file: M20251020T075324 artifact_blend_nonstamprim.png
-	file: M20251020T075324 artifact_blend_pt.png
-	file: M20251020T075324 artifact_blend_stamprim.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_nonstamprim.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamprim.png
 	file: M20251020T075324 border_crown_mask.png
 	file: M20251020T075324 border_mask.png
 	file: M20251020T075324 border_stamp_mask.png
@@ -21152,15 +21539,15 @@ package:
 	file: M20251020T075324 foil_mask_crown.png
 	file: M20251020T075324 foil_mask_pt.png
 	file: M20251020T075324 foil_mask_round.png
-	file: M20251020T075324 hybrid_blend_card.png
-	file: M20251020T075324 hybrid_blend_crown.png
-	file: M20251020T075324 hybrid_blend_nonstamprim.png
-	file: M20251020T075324 hybrid_blend_pt.png
-	file: M20251020T075324 hybrid_blend_stamprim.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_nonstamprim.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamprim.png
 	file: M20251020T075324 multicolor_blend_card.png
 	file: M20251020T075324 multicolor_blend_crown.png
 	file: M20251020T075324 multicolor_blend_nonstamprim.png
-	file: M20251020T075324 multicolor_blend_pt.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075324 multicolor_blend_stamprim.png
 	file: M20251020T075324 nonstamprim/anonstamprim.png
 	file: M20251020T075324 nonstamprim/bnonstamprim.png
@@ -21188,12 +21575,13 @@ package:
 	file: M20251020T075324 stamprim/rstamprim.png
 	file: M20251020T075324 stamprim/ustamprim.png
 	file: M20251020T075324 stamprim/wstamprim.png
-	file: M20251020T075324 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-capenna-golden-age.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075324 artifact_blend_card.png
+	file: A20260220T163708 alias.png
+	file: D artifact_blend_card.png
 	file: M20251020T075324 background.png
 	file: M20251020T075324 border_crown_mask.png
 	file: M20251020T075324 border_mask.png
@@ -21217,13 +21605,13 @@ package:
 	file: M20251020T075324 foil_mask_pt.png
 	file: M20251020T075324 foil_mask_round.png
 	file: M20251020T075324 girder.png
-	file: M20251020T075324 hybrid_blend_card.png
-	file: M20251020T075324 multicolor_blend_card.png
+	file: D hybrid_blend_card.png
+	file: D multicolor_blend_card.png
 	file: M20251020T075324 namebox_mask.png
 	file: M20251020T075324 pt.png
 	file: M20251020T075324 pt_shadow.png
 	file: M20251020T075324 stamprim.png
-	file: M20251020T075324 style
+	file: M20260220T163708 style
 	file: M20251020T075324 textbox.png
 	file: M20251020T075324 textbox_dark.png
 	file: M20251020T075324 textbox_mask.png
@@ -21232,10 +21620,10 @@ package:
 	name: magic-m15-showcase-capenna-skyscraper.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075324 artifact_blend_card.png
-	file: M20251020T075324 artifact_blend_nonstamprim.png
-	file: M20251020T075324 artifact_blend_pt.png
-	file: M20251020T075324 artifact_blend_stamprim.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_nonstamprim.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamprim.png
 	file: M20251020T075324 border_mask.png
 	file: M20251020T075324 border_stamp_mask.png
 	file: M20251020T075324 card/acard.png
@@ -21253,16 +21641,16 @@ package:
 	file: M20251020T075324 foil_mask_crown.png
 	file: M20251020T075324 foil_mask_pt.png
 	file: M20251020T075324 foil_mask_round.png
-	file: M20251020T075324 hybrid_blend_card.png
-	file: M20251020T075324 hybrid_blend_nonstamprim.png
-	file: M20251020T075324 hybrid_blend_pt.png
-	file: M20251020T075324 hybrid_blend_stamprim.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_nonstamprim.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamprim.png
 	file: M20251020T075324 image_mask.png
 	file: M20251020T075324 image_mask_full.png
 	file: M20251020T075324 multicolor_blend_card.png
-	file: M20251020T075324 multicolor_blend_nonstamprim.png
-	file: M20251020T075324 multicolor_blend_pt.png
-	file: M20251020T075324 multicolor_blend_stamprim.png
+	file: D multicolor_blend_nonstamprim.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamprim.png
 	file: M20251020T075324 nonstamprim/anonstamprim.png
 	file: M20251020T075324 nonstamprim/bnonstamprim.png
 	file: M20251020T075324 nonstamprim/cnonstamprim.png
@@ -21289,13 +21677,13 @@ package:
 	file: M20251020T075324 stamprim/rstamprim.png
 	file: M20251020T075324 stamprim/ustamprim.png
 	file: M20251020T075324 stamprim/wstamprim.png
-	file: M20251020T075324 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-doctor-who-tardis.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075324 artifact_blend_card.png
-	file: M20251020T075324 artifact_blend_crown.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
 	file: M20251020T075324 border_mask.png
 	file: M20251020T075324 border_stamp_mask.png
 	file: M20251020T075324 border_stamp_tri_mask.png
@@ -21329,21 +21717,21 @@ package:
 	file: M20251020T075324 foil_mask_triangle.png
 	file: M20251020T075324 fonts/chantilly-medium-regular-allcaps.ttf
 	file: M20251020T075324 fonts/chantilly-medium-regular.ttf
-	file: M20251020T075324 hybrid_blend_card.png
-	file: M20251020T075324 hybrid_blend_crown.png
-	file: M20251020T075324 multicolor_blend_card.png
-	file: M20251020T075324 multicolor_blend_crown.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
 	file: M20251020T075324 pt.png
 	file: M20251020T075324 pt_shadow.png
-	file: M20251020T075324 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-dominaria-stained-glass.mse-style
 	version: 2024-10-01
 	status: 34
 	file: M20251020T075324 artifact_blend_card.png
 	file: M20251020T075324 artifact_blend_crown.png
-	file: M20251020T075324 artifact_blend_pt.png
-	file: M20251020T075324 artifact_blend_stamp.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075324 card/acard.png
 	file: M20251020T075324 card/bcard.png
 	file: M20251020T075324 card/ccard.png
@@ -21366,16 +21754,16 @@ package:
 	file: M20251020T075324 foil_mask_crown.png
 	file: M20251020T075324 foil_mask_pt.png
 	file: M20251020T075324 foil_mask_round.png
-	file: M20251020T075324 hybrid_blend_card.png
-	file: M20251020T075324 hybrid_blend_crown.png
-	file: M20251020T075324 hybrid_blend_pt.png
-	file: M20251020T075324 hybrid_blend_stamp.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075324 image_mask.png
 	file: M20251020T075324 image_mask_full.png
 	file: M20251020T075324 multicolor_blend_card.png
 	file: M20251020T075324 multicolor_blend_crown.png
-	file: M20251020T075324 multicolor_blend_pt.png
-	file: M20251020T075324 multicolor_blend_stamp.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075324 pt/apt.png
 	file: M20251020T075324 pt/bpt.png
 	file: M20251020T075324 pt/cpt.png
@@ -21395,7 +21783,7 @@ package:
 	file: M20251020T075325 stamp/ustamp.png
 	file: M20251020T075325 stamp/wstamp.png
 	file: M20251020T075325 stamp_border_mask.png
-	file: M20251020T075325 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-dungeon-module.mse-style
 	version: 2024-05-26
@@ -21422,10 +21810,10 @@ package:
 	name: magic-m15-showcase-duskmourn-paranormal.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075325 artifact_blend_card.png
-	file: M20251020T075325 artifact_blend_crown.png
-	file: M20251020T075325 artifact_blend_pt.png
-	file: M20251020T075325 artifact_blend_stamp.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075325 border_mask.png
 	file: M20251020T075325 border_stamp_mask.png
 	file: M20251020T075325 card/acard.png
@@ -21450,15 +21838,15 @@ package:
 	file: M20251020T075325 foil_mask_crown.png
 	file: M20251020T075325 foil_mask_pt.png
 	file: M20251020T075325 foil_mask_stamp.png
-	file: M20251020T075325 hybrid_blend_card.png
-	file: M20251020T075325 hybrid_blend_crown.png
-	file: M20251020T075325 hybrid_blend_pt.png
-	file: M20251020T075325 hybrid_blend_stamp.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075325 image_mask.png
-	file: M20251020T075325 multicolor_blend_card.png
-	file: M20251020T075325 multicolor_blend_crown.png
-	file: M20251020T075325 multicolor_blend_pt.png
-	file: M20251020T075325 multicolor_blend_stamp.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075325 pt/apt.png
 	file: M20251020T075325 pt/bpt.png
 	file: M20251020T075325 pt/cpt.png
@@ -21477,16 +21865,17 @@ package:
 	file: M20251020T075325 stamp/rstamp.png
 	file: M20251020T075325 stamp/ustamp.png
 	file: M20251020T075325 stamp/wstamp.png
-	file: M20251020T075325 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-eldraine-tales.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075325 artifact_blend_border.png
+	file: A20260220T163708 alias_mask.png
+	file: D artifact_blend_border.png
 	file: M20251020T075325 artifact_blend_card.png
-	file: M20251020T075325 artifact_blend_pt.png
-	file: M20251020T075325 artifact_blend_stamprim.png
-	file: M20251020T075325 artifact_blend_textbox.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamprim.png
+	file: D artifact_blend_textbox.png
 	file: M20251020T075325 border/aborder.png
 	file: M20251020T075325 border/bborder.png
 	file: M20251020T075325 border/cborder.png
@@ -21511,17 +21900,17 @@ package:
 	file: M20251020T075325 foil_mask.png
 	file: M20251020T075325 foil_mask_pt.png
 	file: M20251020T075325 foil_mask_round.png
-	file: M20251020T075325 hybrid_blend_border.png
-	file: M20251020T075325 hybrid_blend_card.png
-	file: M20251020T075325 hybrid_blend_pt.png
-	file: M20251020T075325 hybrid_blend_stamprim.png
-	file: M20251020T075325 hybrid_blend_textbox.png
+	file: D hybrid_blend_border.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamprim.png
+	file: D hybrid_blend_textbox.png
 	file: M20251020T075325 image_mask_full.png
-	file: M20251020T075325 multicolor_blend_border.png
+	file: D multicolor_blend_border.png
 	file: M20251020T075325 multicolor_blend_card.png
-	file: M20251020T075325 multicolor_blend_pt.png
-	file: M20251020T075325 multicolor_blend_stamprim.png
-	file: M20251020T075325 multicolor_blend_textbox.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamprim.png
+	file: D multicolor_blend_textbox.png
 	file: M20251020T075325 pt/apt.png
 	file: M20251020T075325 pt/bpt.png
 	file: M20251020T075325 pt/cpt.png
@@ -21548,7 +21937,7 @@ package:
 	file: M20251020T075325 stamprim/ub/wstamprim.png
 	file: M20251020T075325 stamprim/ustamprim.png
 	file: M20251020T075325 stamprim/wstamprim.png
-	file: M20251020T075325 style
+	file: M20260220T163708 style
 	file: M20251020T075325 textbox/atextbox.png
 	file: M20251020T075325 textbox/btextbox.png
 	file: M20251020T075325 textbox/ctextbox.png
@@ -21596,7 +21985,7 @@ package:
 	file: M20251020T075325 multicolor_blend_crown.png
 	file: M20251020T075325 rcard.png
 	file: D rstamp.jpg
-	file: M20251020T075325 style
+	file: M20260220T163708 style
 	file: M20251020T075325 ucard.png
 	file: D ustamp.png
 	file: M20251020T075325 voverlay.png
@@ -21604,12 +21993,72 @@ package:
 	file: M20251020T075325 wcard.png
 	file: D wstamp.jpg
 package:
+	name: magic-m15-showcase-eternities-stellar-sights-poster.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_mask.png
+	file: A20260220T163708 card/a.png
+	file: A20260220T163708 card/b.png
+	file: A20260220T163708 card/c.png
+	file: A20260220T163708 card/g.png
+	file: A20260220T163708 card/m.png
+	file: A20260220T163708 card/r.png
+	file: A20260220T163708 card/u.png
+	file: A20260220T163708 card/w.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 pt/a.png
+	file: A20260220T163708 pt/b.png
+	file: A20260220T163708 pt/c.png
+	file: A20260220T163708 pt/g.png
+	file: A20260220T163708 pt/m.png
+	file: A20260220T163708 pt/r.png
+	file: A20260220T163708 pt/u.png
+	file: A20260220T163708 pt/w.png
+	file: A20260220T163708 special_blend_pt.png
+	file: A20260220T163708 stamp_border_mask.png
+	file: A20260220T163708 style
+	file: A20260220T163708 textbox.png
+package:
+	name: magic-m15-showcase-eternities-stellar-sights.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_mask.png
+	file: A20260220T163708 card/a.png
+	file: A20260220T163708 card/b.png
+	file: A20260220T163708 card/c.png
+	file: A20260220T163708 card/g.png
+	file: A20260220T163708 card/m.png
+	file: A20260220T163708 card/r.png
+	file: A20260220T163708 card/u.png
+	file: A20260220T163708 card/w.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 fonts/magic-fomalhaut.ttf
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 namebox.png
+	file: A20260220T163708 pt/a.png
+	file: A20260220T163708 pt/b.png
+	file: A20260220T163708 pt/c.png
+	file: A20260220T163708 pt/g.png
+	file: A20260220T163708 pt/m.png
+	file: A20260220T163708 pt/r.png
+	file: A20260220T163708 pt/u.png
+	file: A20260220T163708 pt/w.png
+	file: A20260220T163708 special_blend_pt.png
+	file: A20260220T163708 stamp_border_mask.png
+	file: A20260220T163708 style
+	file: A20260220T163708 textbox.png
+package:
 	name: magic-m15-showcase-fallout-pipboy.mse-style
 	version: 2024-10-01
 	status: 34
 	file: M20251020T075325 alias.png
-	file: M20251020T075325 artifact_blend_card.png
-	file: M20251020T075325 artifact_blend_crown.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
 	file: M20251020T075325 border_mask.png
 	file: M20251020T075325 border_stamp_mask.png
 	file: M20251020T075325 border_stamp_tri_mask.png
@@ -21645,26 +22094,26 @@ package:
 	file: M20251020T075325 hud_special.png
 	file: M20251020T075325 hud_status.png
 	file: M20251020T075325 hud_top.png
-	file: M20251020T075325 hybrid_blend_card.png
-	file: M20251020T075325 hybrid_blend_crown.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
 	file: M20251020T075325 image_mask.png
 	file: M20251020T075325 image_mask_full.png
-	file: M20251020T075325 multicolor_blend_card.png
-	file: M20251020T075325 multicolor_blend_crown.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
 	file: M20251020T075325 none_stamp_rim.png
 	file: M20251020T075325 pt.png
 	file: M20251020T075325 round_stamp_rim.png
 	file: M20251020T075325 scanlines.png
-	file: M20251020T075325 style
+	file: M20260220T163708 style
 	file: M20251020T075325 triangle_stamp_rim.png
 package:
 	name: magic-m15-showcase-ikoria-crystal.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075325 artifact_blend_card.png
-	file: M20251020T075325 artifact_blend_crown.png
-	file: M20251020T075325 artifact_blend_pt.png
-	file: M20251020T075325 artifact_blend_stamp.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075325 border_mask.png
 	file: M20251020T075325 card/acard.png
 	file: M20251020T075325 card/bcard.png
@@ -21688,18 +22137,19 @@ package:
 	file: M20251020T075325 foil_mask_pt.png
 	file: M20251020T075325 foil_mask_rare.png
 	file: M20251020T075325 foil_mask_rare_pt.png
-	file: M20251020T075325 hybrid_blend_card.png
-	file: M20251020T075325 hybrid_blend_crown.png
-	file: M20251020T075325 hybrid_blend_pt.png
-	file: M20251020T075325 hybrid_blend_stamp.png
+	file: A20260220T163708 frame_mask.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075325 image_mask.png
 	file: M20251020T075325 image_mask_crown.png
 	file: M20251020T075325 image_mask_pt.png
 	file: M20251020T075325 image_mask_pt_crown.png
-	file: M20251020T075325 multicolor_blend_card.png
-	file: M20251020T075325 multicolor_blend_crown.png
-	file: M20251020T075325 multicolor_blend_pt.png
-	file: M20251020T075325 multicolor_blend_stamp.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075325 nameline.png
 	file: M20251020T075325 pt/apt.png
 	file: M20251020T075325 pt/bpt.png
@@ -21721,14 +22171,14 @@ package:
 	file: M20251020T075325 stamp/ustamp.png
 	file: M20251020T075325 stamp/wstamp.png
 	file: M20251020T075325 stamp_border_mask.png
-	file: M20251020T075325 style
+	file: M20260220T163708 style
 	file: M20251020T075325 typeline.png
 package:
 	name: magic-m15-showcase-innistrad-double-feature-walker.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075325 artifact_blend_card.png
-	file: M20251020T075325 artifact_blend_cardtall.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_cardtall.png
 	file: M20251020T075325 border_mask.png
 	file: M20251020T075325 border_stamp_mask.png
 	file: M20251020T075325 card/acard.png
@@ -21754,8 +22204,8 @@ package:
 	file: M20251020T075325 foil_mask_pt.png
 	file: M20251020T075325 foil_mask_rare.png
 	file: M20251020T075325 foil_mask_rare_pt.png
-	file: M20251020T075325 hybrid_blend_card.png
-	file: M20251020T075325 hybrid_blend_cardtall.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_cardtall.png
 	file: M20251020T075325 loyalty/loy.png
 	file: M20251020T075325 loyalty/loydown.png
 	file: M20251020T075325 loyalty/loydown_shadow.png
@@ -21763,12 +22213,12 @@ package:
 	file: M20251020T075325 loyalty/loynil_shadow.png
 	file: M20251020T075326 loyalty/loyup.png
 	file: M20251020T075326 loyalty/loyup_shadow.png
-	file: M20251020T075326 multicolor_blend_card.png
-	file: M20251020T075326 multicolor_blend_cardtall.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_cardtall.png
 	file: M20251020T075326 stamp_rim.png
 	file: M20251020T075326 stripe_bottom.png
 	file: M20251020T075326 stripe_top.png
-	file: M20251020T075326 style
+	file: M20260220T163708 style
 	file: M20251020T075326 textbox_background.png
 	file: M20251020T075326 textbox_mask.png
 	file: M20251020T075326 textbox_tall_mask.png
@@ -21776,11 +22226,11 @@ package:
 	name: magic-m15-showcase-innistrad-double-feature.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075326 artifact_blend_card.png
-	file: M20251020T075326 artifact_blend_crown.png
-	file: M20251020T075326 artifact_blend_nonstamprim.png
-	file: M20251020T075326 artifact_blend_pt.png
-	file: M20251020T075326 artifact_blend_stamprim.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_nonstamprim.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamprim.png
 	file: M20251020T075326 border_crown_mask.png
 	file: M20251020T075326 border_mask.png
 	file: M20251020T075326 border_stamp_mask.png
@@ -21818,16 +22268,16 @@ package:
 	file: M20251020T075326 foil_mask_rare_crown.png
 	file: M20251020T075326 foil_mask_rare_pt.png
 	file: M20251020T075326 foil_mask_rare_pt_crown.png
-	file: M20251020T075326 hybrid_blend_card.png
-	file: M20251020T075326 hybrid_blend_crown.png
-	file: M20251020T075326 hybrid_blend_nonstamprim.png
-	file: M20251020T075326 hybrid_blend_pt.png
-	file: M20251020T075326 hybrid_blend_stamprim.png
-	file: M20251020T075326 multicolor_blend_card.png
-	file: M20251020T075326 multicolor_blend_crown.png
-	file: M20251020T075326 multicolor_blend_nonstamprim.png
-	file: M20251020T075326 multicolor_blend_pt.png
-	file: M20251020T075326 multicolor_blend_stamprim.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_nonstamprim.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamprim.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_nonstamprim.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamprim.png
 	file: M20251020T075326 nonstamprim/alnonstamprim.png
 	file: M20251020T075326 nonstamprim/anonstamprim.png
 	file: M20251020T075326 nonstamprim/blnonstamprim.png
@@ -21870,16 +22320,16 @@ package:
 	file: M20251020T075326 stamprim/ustamprim.png
 	file: M20251020T075326 stamprim/wlstamprim.png
 	file: M20251020T075326 stamprim/wstamprim.png
-	file: M20251020T075326 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-innistrad-mid.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075326 artifact_blend_card.png
-	file: M20251020T075326 artifact_blend_crown.png
-	file: M20251020T075326 artifact_blend_pt.png
-	file: M20251020T075326 artifact_blend_stamp.png
-	file: M20251020T075326 artifact_blend_textboxes.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
+	file: D artifact_blend_textboxes.png
 	file: M20251020T075326 card/acard.png
 	file: M20251020T075326 card/bcard.png
 	file: M20251020T075326 card/ccard.png
@@ -21906,16 +22356,16 @@ package:
 	file: M20251020T075326 foil_mask_rare_crown.png
 	file: M20251020T075326 foil_mask_rare_pt.png
 	file: M20251020T075326 foil_mask_rare_pt_crown.png
-	file: M20251020T075326 hybrid_blend_card.png
-	file: M20251020T075326 hybrid_blend_crown.png
-	file: M20251020T075326 hybrid_blend_pt.png
-	file: M20251020T075326 hybrid_blend_stamp.png
-	file: M20251020T075326 hybrid_blend_textboxes.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
+	file: D hybrid_blend_textboxes.png
 	file: M20251020T075326 image_mask.png
 	file: M20251020T075326 multicolor_blend_card.png
 	file: M20251020T075326 multicolor_blend_crown.png
-	file: M20251020T075326 multicolor_blend_pt.png
-	file: M20251020T075326 multicolor_blend_stamp.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075326 multicolor_blend_textboxes.png
 	file: M20251020T075326 name_mask.png
 	file: M20251020T075326 pt/apt.png
@@ -21938,7 +22388,7 @@ package:
 	file: M20251020T075326 stamp/ustamp.png
 	file: M20251020T075326 stamp/wstamp.png
 	file: M20251020T075326 stamp_border_mask.png
-	file: M20251020T075326 style
+	file: M20260220T163708 style
 	file: M20251020T075326 text_mask.png
 	file: M20251020T075326 textboxes/atextboxes.png
 	file: M20251020T075326 textboxes/btextboxes.png
@@ -21954,9 +22404,9 @@ package:
 	version: 2024-10-01
 	status: 34
 	file: M20251020T075326 artifact_blend_card.png
-	file: M20251020T075326 artifact_blend_crown.png
-	file: M20251020T075326 artifact_blend_pt.png
-	file: M20251020T075326 artifact_blend_stamp.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075326 border_mask.png
 	file: M20251020T075326 card/acard.png
 	file: M20251020T075326 card/bcard.png
@@ -21980,17 +22430,17 @@ package:
 	file: M20251020T075326 foil_mask_pt.png
 	file: M20251020T075326 foil_mask_round.png
 	file: M20251020T075326 foil_mask_triangle.png
-	file: A20251020T075326 frame_mask.png
+	file: M20251020T075326 frame_mask.png
 	file: M20251020T075326 hybrid_blend_card.png
-	file: M20251020T075326 hybrid_blend_crown.png
-	file: M20251020T075326 hybrid_blend_pt.png
-	file: M20251020T075326 hybrid_blend_stamp.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075326 image_mask.png
 	file: M20251020T075326 image_mask_full.png
 	file: M20251020T075326 multicolor_blend_card.png
-	file: M20251020T075326 multicolor_blend_crown.png
-	file: M20251020T075326 multicolor_blend_pt.png
-	file: M20251020T075326 multicolor_blend_stamp.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075326 pt/apt.png
 	file: M20251020T075326 pt/bpt.png
 	file: M20251020T075326 pt/cpt.png
@@ -22016,7 +22466,7 @@ package:
 	file: M20251020T075326 stamp/ub/wstamp.png
 	file: M20251020T075326 stamp/ustamp.png
 	file: M20251020T075326 stamp/wstamp.png
-	file: M20251020T075326 style
+	file: M20260220T163708 style
 	file: M20251020T075326 textboxes/atextboxes.png
 	file: M20251020T075326 textboxes/btextboxes.png
 	file: M20251020T075326 textboxes/ctextboxes.png
@@ -22029,9 +22479,9 @@ package:
 	name: magic-m15-showcase-ixalan-caverns.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075326 artifact_blend_card.png
-	file: M20251020T075326 artifact_blend_crown.png
-	file: M20251020T075326 artifact_blend_pt.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075326 card/acard.png
 	file: M20251020T075326 card/bcard.png
 	file: M20251020T075326 card/ccard.png
@@ -22053,14 +22503,14 @@ package:
 	file: M20251020T075326 foil_mask_crown.png
 	file: M20251020T075326 foil_mask_pt.png
 	file: M20251020T075326 foil_mask_round.png
-	file: M20251020T075326 hybrid_blend_card.png
-	file: M20251020T075326 hybrid_blend_crown.png
-	file: M20251020T075326 hybrid_blend_pt.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
 	file: M20251020T075326 image_mask.png
 	file: M20251020T075326 image_mask_full.png
-	file: M20251020T075326 multicolor_blend_card.png
-	file: M20251020T075326 multicolor_blend_crown.png
-	file: M20251020T075326 multicolor_blend_pt.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075326 pt/apt.png
 	file: M20251020T075326 pt/bpt.png
 	file: M20251020T075326 pt/cpt.png
@@ -22072,17 +22522,17 @@ package:
 	file: M20251020T075326 shadow.png
 	file: M20251020T075326 special_blend_pt.png
 	file: M20251020T075326 stamp_border_mask.png
-	file: M20251020T075326 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-ixalan-legends.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075326 artifact_blend_card.png
-	file: M20251020T075326 artifact_blend_crown.png
-	file: M20251020T075326 artifact_blend_motif_1.png
-	file: M20251020T075326 artifact_blend_motif_2.png
-	file: M20251020T075326 artifact_blend_motif_3.png
-	file: M20251020T075326 artifact_blend_pt.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_motif_1.png
+	file: D artifact_blend_motif_2.png
+	file: D artifact_blend_motif_3.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075326 border_mask.png
 	file: M20251020T075326 border_stamp_mask.png
 	file: M20251020T075326 border_stamp_tri_mask.png
@@ -22109,12 +22559,12 @@ package:
 	file: M20251020T075326 foil_mask_pt.png
 	file: M20251020T075326 foil_mask_round.png
 	file: M20251020T075326 foil_mask_triangle.png
-	file: M20251020T075326 hybrid_blend_card.png
-	file: M20251020T075326 hybrid_blend_crown.png
-	file: M20251020T075326 hybrid_blend_motif_1.png
-	file: M20251020T075326 hybrid_blend_motif_2.png
-	file: M20251020T075326 hybrid_blend_motif_3.png
-	file: M20251020T075326 hybrid_blend_pt.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_motif_1.png
+	file: D hybrid_blend_motif_2.png
+	file: D hybrid_blend_motif_3.png
+	file: D hybrid_blend_pt.png
 	file: M20251020T075326 image_mask_extended.png
 	file: M20251020T075326 image_mask_extended_landscape.png
 	file: M20251020T075326 image_mask_full.png
@@ -22143,12 +22593,12 @@ package:
 	file: M20251020T075327 motif_3/umotif_3.png
 	file: M20251020T075327 motif_3/wmotif_3.png
 	file: M20251020T075327 motif_background.png
-	file: M20251020T075327 multicolor_blend_card.png
-	file: M20251020T075327 multicolor_blend_crown.png
-	file: M20251020T075327 multicolor_blend_motif_1.png
-	file: M20251020T075327 multicolor_blend_motif_2.png
-	file: M20251020T075327 multicolor_blend_motif_3.png
-	file: M20251020T075327 multicolor_blend_pt.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_motif_1.png
+	file: D multicolor_blend_motif_2.png
+	file: D multicolor_blend_motif_3.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075327 pt/apt.png
 	file: M20251020T075327 pt/bpt.png
 	file: M20251020T075327 pt/cpt.png
@@ -22159,14 +22609,14 @@ package:
 	file: M20251020T075327 pt/wpt.png
 	file: M20251020T075327 pt_shadow.png
 	file: M20251020T075327 special_blend_pt.png
-	file: M20251020T075327 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-ixalan-treasure.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075327 artifact_blend_card.png
-	file: M20251020T075327 artifact_blend_crown.png
-	file: M20251020T075327 artifact_blend_pt.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075327 card/acard.png
 	file: M20251020T075327 card/bcard.png
 	file: M20251020T075327 card/ccard.png
@@ -22188,15 +22638,15 @@ package:
 	file: M20251020T075327 foil_mask_crown.png
 	file: M20251020T075327 foil_mask_pt.png
 	file: M20251020T075327 foil_mask_round.png
-	file: M20251020T075327 hybrid_blend_card.png
-	file: M20251020T075327 hybrid_blend_crown.png
-	file: M20251020T075327 hybrid_blend_pt.png
-	file: M20251020T075327 image_background.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: M20260220T163708 image_background.png
 	file: M20251020T075327 image_mask.png
 	file: M20251020T075327 image_mask_full.png
-	file: M20251020T075327 multicolor_blend_card.png
-	file: M20251020T075327 multicolor_blend_crown.png
-	file: M20251020T075327 multicolor_blend_pt.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075327 pt/apt.png
 	file: M20251020T075327 pt/bpt.png
 	file: M20251020T075327 pt/cpt.png
@@ -22208,12 +22658,13 @@ package:
 	file: M20251020T075327 special_blend_pt.png
 	file: M20251020T075327 stamp_border_mask.png
 	file: M20251020T075327 stamprim.png
-	file: M20251020T075327 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-kaldheim-dfc.mse-style
 	version: 2024-09-01
 	status: 34
 	file: M20251020T075327 acard.png
+	file: A20260220T163708 alias_mask.png
 	file: M20251020T075327 apt.png
 	file: M20251020T075327 artifact_blend_card.png
 	file: M20251020T075327 artifact_blend_card2.png
@@ -22234,28 +22685,28 @@ package:
 	file: D bstamp.jpg
 	file: M20251020T075327 card-sample.png
 	file: M20251020T075327 ccard.png
-	file: M20251020T075327 corners/aetherprint.png
-	file: M20251020T075327 corners/artifact.png
-	file: M20251020T075327 corners/bcorner.png
-	file: M20251020T075327 corners/ccorner.png
-	file: M20251020T075327 corners/compass.png
-	file: M20251020T075327 corners/creature.png
-	file: M20251020T075327 corners/eldrazi.png
-	file: M20251020T075327 corners/enchantment.png
-	file: M20251020T075327 corners/gcorner.png
-	file: M20251020T075327 corners/instant.png
-	file: M20251020T075327 corners/land.png
-	file: M20251020T075327 corners/mcorner.png
-	file: M20251020T075327 corners/moon.png
-	file: M20251020T075327 corners/multitype.png
-	file: M20251020T075327 corners/night_circle.png
-	file: M20251020T075327 corners/planeswalker.png
-	file: M20251020T075327 corners/rcorner.png
-	file: M20251020T075327 corners/sorcery.png
-	file: M20251020T075327 corners/structure.png
-	file: M20251020T075327 corners/sun_circle.png
-	file: M20251020T075327 corners/ucorner.png
-	file: M20251020T075327 corners/wcorner.png
+	file: D corners/aetherprint.png
+	file: D corners/artifact.png
+	file: D corners/bcorner.png
+	file: D corners/ccorner.png
+	file: D corners/compass.png
+	file: D corners/creature.png
+	file: D corners/eldrazi.png
+	file: D corners/enchantment.png
+	file: D corners/gcorner.png
+	file: D corners/instant.png
+	file: D corners/land.png
+	file: D corners/mcorner.png
+	file: D corners/moon.png
+	file: D corners/multitype.png
+	file: D corners/night_circle.png
+	file: D corners/planeswalker.png
+	file: D corners/rcorner.png
+	file: D corners/sorcery.png
+	file: D corners/structure.png
+	file: D corners/sun_circle.png
+	file: D corners/ucorner.png
+	file: D corners/wcorner.png
 	file: M20251020T075327 cpt.png
 	file: D cstamp.jpg
 	file: M20251020T075327 flags/aflag.png
@@ -22292,22 +22743,22 @@ package:
 	file: M20251020T075327 hybrid_blend_pt2.png
 	file: M20251020T075327 hybrid_blend_stamp.png
 	file: D hyvrid_blend_card2.png
-	file: M20251020T075327 icons/aarrow.png
-	file: M20251020T075327 icons/aarrow2.png
-	file: M20251020T075327 icons/barrow.png
-	file: M20251020T075327 icons/barrow2.png
-	file: M20251020T075327 icons/carrow.png
-	file: M20251020T075327 icons/carrow2.png
-	file: M20251020T075328 icons/garrow.png
-	file: M20251020T075328 icons/garrow2.png
-	file: M20251020T075328 icons/marrow.png
-	file: M20251020T075328 icons/marrow2.png
-	file: M20251020T075328 icons/rarrow.png
-	file: M20251020T075328 icons/rarrow2.png
-	file: M20251020T075328 icons/uarrow.png
-	file: M20251020T075328 icons/uarrow2.png
-	file: M20251020T075328 icons/warrow.png
-	file: M20251020T075328 icons/warrow2.png
+	file: D icons/aarrow.png
+	file: D icons/aarrow2.png
+	file: D icons/barrow.png
+	file: D icons/barrow2.png
+	file: D icons/carrow.png
+	file: D icons/carrow2.png
+	file: D icons/garrow.png
+	file: D icons/garrow2.png
+	file: D icons/marrow.png
+	file: D icons/marrow2.png
+	file: D icons/rarrow.png
+	file: D icons/rarrow2.png
+	file: D icons/uarrow.png
+	file: D icons/uarrow2.png
+	file: D icons/warrow.png
+	file: D icons/warrow2.png
 	file: M20251020T075328 imagemask.png
 	file: M20251020T075328 legend/acard.png
 	file: M20251020T075328 legend/bcard.png
@@ -22336,7 +22787,7 @@ package:
 	file: M20251020T075328 rcard.png
 	file: M20251020T075328 rpt.png
 	file: D rstamp.jpg
-	file: M20251020T075328 style
+	file: M20260220T163708 style
 	file: M20251020T075328 ucard.png
 	file: M20251020T075328 upt.png
 	file: D ustamp.png
@@ -22402,7 +22853,7 @@ package:
 	file: M20251020T075328 rcard.png
 	file: M20251020T075328 rpt.png
 	file: D rstamp.jpg
-	file: M20251020T075328 style
+	file: M20260220T163708 style
 	file: M20251020T075328 ucard.png
 	file: M20251020T075328 upt.png
 	file: D ustamp.png
@@ -22479,7 +22930,7 @@ package:
 	file: M20251020T075329 short/wcard.png
 	file: M20251020T075329 special_blend_pt.png
 	file: M20251020T075329 stamp_mask.png
-	file: M20251020T075329 style
+	file: M20260220T163708 style
 	file: M20251020T075329 walker_mask.png
 package:
 	name: magic-m15-showcase-kamigawa-ninja.mse-style
@@ -22541,7 +22992,7 @@ package:
 	file: M20251020T075329 stamp/rstamp.png
 	file: M20251020T075329 stamp/ustamp.png
 	file: M20251020T075329 stamp/wstamp.png
-	file: M20251020T075329 style
+	file: M20260220T163708 style
 	file: M20251020T075329 walker_mask.png
 package:
 	name: magic-m15-showcase-kamigawa-samurai.mse-style
@@ -22593,18 +23044,79 @@ package:
 	file: M20251020T075329 pt/wpt.png
 	file: M20251020T075329 special_blend_pt.png
 	file: M20251020T075329 stamp_mask.png
-	file: M20251020T075329 style
+	file: M20260220T163708 style
 	file: M20251020T075329 walker_mask.png
+package:
+	name: magic-m15-showcase-lorwyn-fable.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 alias/a.png
+	file: A20260220T163708 alias/b.png
+	file: A20260220T163708 alias/c.png
+	file: A20260220T163708 alias/g.png
+	file: A20260220T163708 alias/m.png
+	file: A20260220T163708 alias/r.png
+	file: A20260220T163708 alias/u.png
+	file: A20260220T163708 alias/w.png
+	file: A20260220T163708 border_borderless_mask.png
+	file: A20260220T163708 border_extended_mask.png
+	file: A20260220T163708 border_fade_mask.png
+	file: A20260220T163708 card/a.png
+	file: A20260220T163708 card/b.png
+	file: A20260220T163708 card/c.png
+	file: A20260220T163708 card/g.png
+	file: A20260220T163708 card/m.png
+	file: A20260220T163708 card/r.png
+	file: A20260220T163708 card/u.png
+	file: A20260220T163708 card/w.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 crown/a.png
+	file: A20260220T163708 crown/b.png
+	file: A20260220T163708 crown/c.png
+	file: A20260220T163708 crown/g.png
+	file: A20260220T163708 crown/m.png
+	file: A20260220T163708 crown/r.png
+	file: A20260220T163708 crown/u.png
+	file: A20260220T163708 crown/w.png
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 nonstamp/a.png
+	file: A20260220T163708 nonstamp/b.png
+	file: A20260220T163708 nonstamp/c.png
+	file: A20260220T163708 nonstamp/g.png
+	file: A20260220T163708 nonstamp/m.png
+	file: A20260220T163708 nonstamp/r.png
+	file: A20260220T163708 nonstamp/u.png
+	file: A20260220T163708 nonstamp/w.png
+	file: A20260220T163708 pt/a.png
+	file: A20260220T163708 pt/b.png
+	file: A20260220T163708 pt/c.png
+	file: A20260220T163708 pt/g.png
+	file: A20260220T163708 pt/m.png
+	file: A20260220T163708 pt/r.png
+	file: A20260220T163708 pt/u.png
+	file: A20260220T163708 pt/w.png
+	file: A20260220T163708 special_blend_pt.png
+	file: A20260220T163708 stamp/a.png
+	file: A20260220T163708 stamp/b.png
+	file: A20260220T163708 stamp/c.png
+	file: A20260220T163708 stamp/g.png
+	file: A20260220T163708 stamp/m.png
+	file: A20260220T163708 stamp/r.png
+	file: A20260220T163708 stamp/u.png
+	file: A20260220T163708 stamp/w.png
+	file: A20260220T163708 style
 package:
 	name: magic-m15-showcase-lotr-scroll-saga.mse-style
 	version: 2024-10-01
 	status: 34
 	file: M20251020T075329 art_filter.png
-	file: M20251020T075329 artifact_blend_card.png
-	file: M20251020T075329 artifact_blend_crown.png
-	file: M20251020T075329 artifact_blend_nonstamprim.png
-	file: M20251020T075329 artifact_blend_pt.png
-	file: M20251020T075329 artifact_blend_stamprim.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_nonstamprim.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamprim.png
 	file: M20251020T075329 bookmark_mask.png
 	file: M20251020T075329 border_mask.png
 	file: M20251020T075329 card/acard.png
@@ -22638,16 +23150,16 @@ package:
 	file: M20251020T075329 foil_mask_triangle.png
 	file: M20251020T075329 gold_bars.png
 	file: M20251020T075329 hybrid_bands.png
-	file: M20251020T075329 hybrid_blend_card.png
-	file: M20251020T075329 hybrid_blend_crown.png
-	file: M20251020T075329 hybrid_blend_nonstamprim.png
-	file: M20251020T075329 hybrid_blend_pt.png
-	file: M20251020T075329 hybrid_blend_stamprim.png
-	file: M20251020T075329 multicolor_blend_card.png
-	file: M20251020T075329 multicolor_blend_crown.png
-	file: M20251020T075329 multicolor_blend_nonstamprim.png
-	file: M20251020T075329 multicolor_blend_pt.png
-	file: M20251020T075329 multicolor_blend_stamprim.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_nonstamprim.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamprim.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_nonstamprim.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamprim.png
 	file: M20251020T075329 nonstamprim/anonstamprim.png
 	file: M20251020T075329 nonstamprim/bnonstamprim.png
 	file: M20251020T075329 nonstamprim/cnonstamprim.png
@@ -22674,18 +23186,18 @@ package:
 	file: M20251020T075329 stamprim/rstamprim.png
 	file: M20251020T075329 stamprim/ustamprim.png
 	file: M20251020T075329 stamprim/wstamprim.png
-	file: M20251020T075329 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-lotr-scroll.mse-style
 	version: 2024-10-01
 	status: 34
 	file: M20251020T075329 art_filter.png
-	file: M20251020T075329 artifact_blend_card.png
-	file: M20251020T075329 artifact_blend_crown.png
-	file: M20251020T075329 artifact_blend_loyaltycost.png
-	file: M20251020T075329 artifact_blend_nonstamprim.png
-	file: M20251020T075329 artifact_blend_pt.png
-	file: M20251020T075329 artifact_blend_stamprim.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_loyaltycost.png
+	file: D artifact_blend_nonstamprim.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamprim.png
 	file: M20251020T075329 border_mask.png
 	file: M20251020T075329 card/acard.png
 	file: M20251020T075329 card/bcard.png
@@ -22706,12 +23218,12 @@ package:
 	file: M20251020T075329 crown/ucrown.png
 	file: M20251020T075329 crown/wcrown.png
 	file: M20251020T075329 gold_bars.png
-	file: M20251020T075329 hybrid_blend_card.png
-	file: M20251020T075329 hybrid_blend_crown.png
-	file: M20251020T075329 hybrid_blend_loyaltycost.png
-	file: M20251020T075329 hybrid_blend_nonstamprim.png
-	file: M20251020T075329 hybrid_blend_pt.png
-	file: M20251020T075329 hybrid_blend_stamprim.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_loyaltycost.png
+	file: D hybrid_blend_nonstamprim.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamprim.png
 	file: M20251020T075329 image_mask.png
 	file: M20251020T075329 loyaltycost/aloyaltycost.png
 	file: M20251020T075329 loyaltycost/bloyaltycost.png
@@ -22721,12 +23233,12 @@ package:
 	file: M20251020T075329 loyaltycost/rloyaltycost.png
 	file: M20251020T075329 loyaltycost/uloyaltycost.png
 	file: M20251020T075329 loyaltycost/wloyaltycost.png
-	file: M20251020T075329 multicolor_blend_card.png
-	file: M20251020T075329 multicolor_blend_crown.png
-	file: M20251020T075329 multicolor_blend_loyaltycost.png
-	file: M20251020T075329 multicolor_blend_nonstamprim.png
-	file: M20251020T075329 multicolor_blend_pt.png
-	file: M20251020T075329 multicolor_blend_stamprim.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_loyaltycost.png
+	file: D multicolor_blend_nonstamprim.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamprim.png
 	file: M20251020T075329 nonstamprim/anonstamprim.png
 	file: M20251020T075329 nonstamprim/bnonstamprim.png
 	file: M20251020T075329 nonstamprim/cnonstamprim.png
@@ -22763,14 +23275,14 @@ package:
 	file: M20251020T075329 stamprim/wstamprim.png
 	file: M20251020T075329 stripe_1.png
 	file: M20251020T075329 stripe_2.png
-	file: M20251020T075329 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-lotr.mse-style
 	version: 2024-10-01
 	status: 34
 	file: M20251020T075329 artifact_blend_card.png
 	file: M20251020T075329 artifact_blend_crown.png
-	file: M20251020T075329 artifact_blend_pt.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075329 artifact_blend_stamp.png
 	file: M20251020T075329 card/acard.png
 	file: M20251020T075329 card/bcard.png
@@ -22794,15 +23306,15 @@ package:
 	file: M20251020T075329 foil_mask_pt.png
 	file: M20251020T075329 foil_mask_triangle.png
 	file: M20251020T075329 frame_shadow.png
-	file: M20251020T075329 hybrid_blend_card.png
-	file: M20251020T075329 hybrid_blend_crown.png
-	file: M20251020T075329 hybrid_blend_pt.png
-	file: M20251020T075329 hybrid_blend_stamp.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075329 image_mask.png
 	file: M20251020T075329 image_mask_full.png
 	file: M20251020T075329 multicolor_blend_card.png
 	file: M20251020T075329 multicolor_blend_crown.png
-	file: M20251020T075329 multicolor_blend_pt.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075329 multicolor_blend_stamp.png
 	file: M20251020T075329 pt/apt.png
 	file: M20251020T075329 pt/bpt.png
@@ -22823,7 +23335,7 @@ package:
 	file: M20251020T075329 stamp/ustamp.png
 	file: M20251020T075329 stamp/wstamp.png
 	file: M20251020T075329 stamp_border_mask.png
-	file: M20251020T075329 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-monster-manual.mse-style
 	version: 2024-09-01
@@ -22854,7 +23366,7 @@ package:
 	file: M20251020T075329 splashes/r.jpg
 	file: M20251020T075329 splashes/u.jpg
 	file: M20251020T075329 splashes/w.jpg
-	file: M20251020T075329 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-praetor.mse-style
 	version: 2024-09-01
@@ -22897,7 +23409,7 @@ package:
 	file: M20251020T075330 ref.png
 	file: M20251020T075330 rpt.png
 	file: D rstamp.jpg
-	file: M20251020T075330 style
+	file: M20260220T163708 style
 	file: M20251020T075330 ucard.png
 	file: M20251020T075330 upt.png
 	file: D ustamp.png
@@ -22910,10 +23422,10 @@ package:
 	name: magic-m15-showcase-ravnica-city-mural.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075330 artifact_blend_card.png
-	file: M20251020T075330 artifact_blend_crown.png
-	file: M20251020T075330 artifact_blend_pt.png
-	file: M20251020T075330 artifact_blend_stamp.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075330 card/acard.png
 	file: M20251020T075330 card/bcard.png
 	file: M20251020T075330 card/ccard.png
@@ -22937,16 +23449,17 @@ package:
 	file: M20251020T075330 foil_mask_pt.png
 	file: M20251020T075330 foil_mask_round.png
 	file: M20251020T075330 foil_mask_triangle.png
-	file: M20251020T075330 hybrid_blend_card.png
-	file: M20251020T075330 hybrid_blend_crown.png
-	file: M20251020T075330 hybrid_blend_pt.png
-	file: M20251020T075330 hybrid_blend_stamp.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075330 image_mask.png
 	file: M20251020T075330 image_mask_full.png
-	file: M20251020T075330 multicolor_blend_card.png
-	file: M20251020T075330 multicolor_blend_crown.png
-	file: M20251020T075330 multicolor_blend_pt.png
-	file: M20251020T075330 multicolor_blend_stamp.png
+	file: A20260220T163708 image_mask_partial.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075330 pt/apt.png
 	file: M20251020T075330 pt/bpt.png
 	file: M20251020T075330 pt/cpt.png
@@ -22962,13 +23475,13 @@ package:
 	file: M20251020T075330 stamp_background.png
 	file: M20251020T075330 stamp_border_mask.png
 	file: M20251020T075330 stamp_tri_border_mask.png
-	file: M20251020T075330 style
+	file: M20260220T163708 style
 package:
 	name: magic-m15-showcase-ravnica-dossier.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075330 artifact_blend_card.png
-	file: M20251020T075330 artifact_blend_crown.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
 	file: M20251020T075330 border_mask.png
 	file: M20251020T075330 border_stamp_mask.png
 	file: M20251020T075330 border_stamp_tri_mask.png
@@ -22998,30 +23511,180 @@ package:
 	file: M20251020T075330 foil_mask_triangle.png
 	file: M20251020T075330 fonts/secretarytypewriter.ttf
 	file: M20251020T075330 fonts/specialelite-regular.ttf
-	file: M20251020T075330 hybrid_blend_card.png
-	file: M20251020T075330 hybrid_blend_crown.png
-	file: M20251020T075330 multicolor_blend_card.png
-	file: M20251020T075330 multicolor_blend_crown.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
 	file: M20251020T075330 pt.png
 	file: M20251020T075330 stamp_rim.png
-	file: M20251020T075330 style
+	file: M20260220T163708 style
+package:
+	name: magic-m15-showcase-ravnica-magnified.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 card/acard.png
+	file: A20260220T163708 card/bcard.png
+	file: A20260220T163708 card/ccard.png
+	file: A20260220T163708 card/gcard.png
+	file: A20260220T163708 card/mcard.png
+	file: A20260220T163708 card/rcard.png
+	file: A20260220T163708 card/ucard.png
+	file: A20260220T163708 card/wcard.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 crown/acrown.png
+	file: A20260220T163708 crown/bcrown.png
+	file: A20260220T163708 crown/ccrown.png
+	file: A20260220T163708 crown/gcrown.png
+	file: A20260220T163708 crown/mcrown.png
+	file: A20260220T163708 crown/rcrown.png
+	file: A20260220T163708 crown/ucrown.png
+	file: A20260220T163708 crown/wcrown.png
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 foil_mask_crown.png
+	file: A20260220T163708 foil_mask_pt.png
+	file: A20260220T163708 foil_mask_round.png
+	file: A20260220T163708 foil_mask_triangle.png
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 pt/apt.png
+	file: A20260220T163708 pt/bpt.png
+	file: A20260220T163708 pt/cpt.png
+	file: A20260220T163708 pt/gpt.png
+	file: A20260220T163708 pt/mpt.png
+	file: A20260220T163708 pt/rpt.png
+	file: A20260220T163708 pt/upt.png
+	file: A20260220T163708 pt/wpt.png
+	file: A20260220T163708 special_blend_pt.png
+	file: A20260220T163708 stamp_border_rounded.png
+	file: A20260220T163708 stamp_border_triangle.png
+	file: A20260220T163708 style
+package:
+	name: magic-m15-showcase-spiderman-panel.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_borderless_mask.png
+	file: A20260220T163708 border_extended_mask.png
+	file: A20260220T163708 border_fade_mask.png
+	file: A20260220T163708 card/a.png
+	file: A20260220T163708 card/b.png
+	file: A20260220T163708 card/c.png
+	file: A20260220T163708 card/g.png
+	file: A20260220T163708 card/m.png
+	file: A20260220T163708 card/r.png
+	file: A20260220T163708 card/u.png
+	file: A20260220T163708 card/w.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 crown/a.png
+	file: A20260220T163708 crown/b.png
+	file: A20260220T163708 crown/c.png
+	file: A20260220T163708 crown/g.png
+	file: A20260220T163708 crown/m.png
+	file: A20260220T163708 crown/r.png
+	file: A20260220T163708 crown/u.png
+	file: A20260220T163708 crown/w.png
+	file: A20260220T163708 foil_mask.png
+	file: A20260220T163708 fonts/ccmeanwhile bold.ttf
+	file: A20260220T163708 fonts/ccmeanwhile italic.ttf
+	file: A20260220T163708 fonts/ccmeanwhile regular.ttf
+	file: A20260220T163708 image_mask.png
+	file: A20260220T163708 nonstamp/a.png
+	file: A20260220T163708 nonstamp/b.png
+	file: A20260220T163708 nonstamp/c.png
+	file: A20260220T163708 nonstamp/g.png
+	file: A20260220T163708 nonstamp/m.png
+	file: A20260220T163708 nonstamp/r.png
+	file: A20260220T163708 nonstamp/u.png
+	file: A20260220T163708 nonstamp/w.png
+	file: A20260220T163708 pt/a.png
+	file: A20260220T163708 pt/b.png
+	file: A20260220T163708 pt/c.png
+	file: A20260220T163708 pt/g.png
+	file: A20260220T163708 pt/m.png
+	file: A20260220T163708 pt/r.png
+	file: A20260220T163708 pt/u.png
+	file: A20260220T163708 pt/w.png
+	file: A20260220T163708 special_blend_pt.png
+	file: A20260220T163708 style
+package:
+	name: magic-m15-showcase-spiderman-web-slinger.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163708 border_borderless_mask.png
+	file: A20260220T163708 border_extended_mask.png
+	file: A20260220T163708 border_fade_mask.png
+	file: A20260220T163708 card/a.png
+	file: A20260220T163708 card/b.png
+	file: A20260220T163708 card/c.png
+	file: A20260220T163708 card/g.png
+	file: A20260220T163708 card/m.png
+	file: A20260220T163708 card/r.png
+	file: A20260220T163708 card/u.png
+	file: A20260220T163708 card/w.png
+	file: A20260220T163708 card_mask.png
+	file: A20260220T163708 card_sample.png
+	file: A20260220T163708 crown/a.png
+	file: A20260220T163708 crown/b.png
+	file: A20260220T163708 crown/c.png
+	file: A20260220T163708 crown/g.png
+	file: A20260220T163708 crown/m.png
+	file: A20260220T163708 crown/r.png
+	file: A20260220T163709 crown/u.png
+	file: A20260220T163709 crown/w.png
+	file: A20260220T163709 foil_mask.png
+	file: A20260220T163709 image_mask.png
+	file: A20260220T163709 noncrown/a.png
+	file: A20260220T163709 noncrown/b.png
+	file: A20260220T163709 noncrown/c.png
+	file: A20260220T163709 noncrown/g.png
+	file: A20260220T163709 noncrown/m.png
+	file: A20260220T163709 noncrown/r.png
+	file: A20260220T163709 noncrown/u.png
+	file: A20260220T163709 noncrown/w.png
+	file: A20260220T163709 nonstamp/a.png
+	file: A20260220T163709 nonstamp/b.png
+	file: A20260220T163709 nonstamp/c.png
+	file: A20260220T163709 nonstamp/g.png
+	file: A20260220T163709 nonstamp/m.png
+	file: A20260220T163709 nonstamp/r.png
+	file: A20260220T163709 nonstamp/u.png
+	file: A20260220T163709 nonstamp/w.png
+	file: A20260220T163709 pt/a.png
+	file: A20260220T163709 pt/b.png
+	file: A20260220T163709 pt/c.png
+	file: A20260220T163709 pt/g.png
+	file: A20260220T163709 pt/m.png
+	file: A20260220T163709 pt/r.png
+	file: A20260220T163709 pt/u.png
+	file: A20260220T163709 pt/w.png
+	file: A20260220T163709 special_blend_pt.png
+	file: A20260220T163709 stamp/a.png
+	file: A20260220T163709 stamp/b.png
+	file: A20260220T163709 stamp/c.png
+	file: A20260220T163709 stamp/g.png
+	file: A20260220T163709 stamp/m.png
+	file: A20260220T163709 stamp/r.png
+	file: A20260220T163709 stamp/u.png
+	file: A20260220T163709 stamp/w.png
+	file: A20260220T163709 stamp_border_mask.png
+	file: A20260220T163709 style
 package:
 	name: magic-m15-showcase-strixhaven-jp.mse-style
 	version: 2024-09-01
 	status: 34
-	file: M20251020T075330 artifact_blend_card.png
-	file: M20251020T075330 artifact_blend_crown.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
 	file: D artifact_blend_identity.png
-	file: M20251020T075330 artifact_blend_name1.png
-	file: M20251020T075330 artifact_blend_name2.png
-	file: M20251020T075330 artifact_blend_name3.png
-	file: M20251020T075330 artifact_blend_pt.png
-	file: M20251020T075330 artifact_blend_stamp.png
-	file: M20251020T075330 artifact_blend_textbox.png
-	file: M20251020T075330 artifact_blend_triangle_stamp.png
-	file: M20251020T075330 artifact_blend_type1.png
-	file: M20251020T075330 artifact_blend_type2.png
-	file: M20251020T075330 artifact_blend_type3.png
+	file: D artifact_blend_name1.png
+	file: D artifact_blend_name2.png
+	file: D artifact_blend_name3.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
+	file: D artifact_blend_textbox.png
+	file: D artifact_blend_triangle_stamp.png
+	file: D artifact_blend_type1.png
+	file: D artifact_blend_type2.png
+	file: D artifact_blend_type3.png
 	file: M20251020T075330 bar.png
 	file: M20251020T075330 border_mask.png
 	file: M20251020T075330 border_mask_pt.png
@@ -23039,30 +23702,30 @@ package:
 	file: M20251020T075330 foil_mask_pt_rare.png
 	file: M20251020T075330 foil_mask_rare.png
 	file: M20251020T075330 frame_mask.png
-	file: M20251020T075330 hybrid_blend_card.png
-	file: M20251020T075330 hybrid_blend_crown.png
-	file: M20251020T075330 hybrid_blend_name1.png
-	file: M20251020T075330 hybrid_blend_name2.png
-	file: M20251020T075330 hybrid_blend_name3.png
-	file: M20251020T075330 hybrid_blend_pt.png
-	file: M20251020T075330 hybrid_blend_stamp.png
-	file: M20251020T075330 hybrid_blend_textbox.png
-	file: M20251020T075330 hybrid_blend_triangle_stamp.png
-	file: M20251020T075330 hybrid_blend_type1.png
-	file: M20251020T075330 hybrid_blend_type2.png
-	file: M20251020T075330 hybrid_blend_type3.png
-	file: M20251020T075330 multicolor_blend_card.png
-	file: M20251020T075330 multicolor_blend_crown.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_name1.png
+	file: D hybrid_blend_name2.png
+	file: D hybrid_blend_name3.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
+	file: D hybrid_blend_textbox.png
+	file: D hybrid_blend_triangle_stamp.png
+	file: D hybrid_blend_type1.png
+	file: D hybrid_blend_type2.png
+	file: D hybrid_blend_type3.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
 	file: M20251020T075330 multicolor_blend_name1.png
 	file: M20251020T075330 multicolor_blend_name2.png
 	file: M20251020T075330 multicolor_blend_name3.png
-	file: M20251020T075330 multicolor_blend_pt.png
-	file: M20251020T075330 multicolor_blend_stamp.png
-	file: M20251020T075330 multicolor_blend_textbox.png
-	file: M20251020T075330 multicolor_blend_triangle_stamp.png
-	file: M20251020T075330 multicolor_blend_type1.png
-	file: M20251020T075330 multicolor_blend_type2.png
-	file: M20251020T075330 multicolor_blend_type3.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
+	file: D multicolor_blend_textbox.png
+	file: D multicolor_blend_triangle_stamp.png
+	file: D multicolor_blend_type1.png
+	file: D multicolor_blend_type2.png
+	file: D multicolor_blend_type3.png
 	file: M20251020T075330 name/acap.png
 	file: M20251020T075330 name/aname.png
 	file: M20251020T075330 name/bcap.png
@@ -23097,7 +23760,7 @@ package:
 	file: M20251020T075331 stamp/triangle_mask.png
 	file: M20251020T075331 stamp/ustamp.png
 	file: M20251020T075331 stamp/wstamp.png
-	file: M20251020T075331 style
+	file: M20260220T163709 style
 	file: M20251020T075331 textbox/atextbox.png
 	file: M20251020T075331 textbox/btextbox.png
 	file: M20251020T075331 textbox/ctextbox.png
@@ -23135,61 +23798,214 @@ package:
 	file: M20251020T075331 type/wtype.png
 package:
 	name: magic-m15-showcase-strixhaven.mse-style
-	version: 2024-09-01
+	version: 2024-10-01
 	status: 34
-	file: M20251020T075331 acard.png
+	file: D acard.png
+	file: A20260220T163709 alias/a.png
+	file: A20260220T163709 alias/b.png
+	file: A20260220T163709 alias/c.png
+	file: A20260220T163709 alias/g.png
+	file: A20260220T163709 alias/m.png
+	file: A20260220T163709 alias/r.png
+	file: A20260220T163709 alias/u.png
+	file: A20260220T163709 alias/w.png
 	file: D apt.png
-	file: M20251020T075331 artifact_blend_card.png
-	file: M20251020T075331 artifact_blend_crown.png
+	file: A20260220T163709 artifact_blend_alias.png
+	file: M20260220T163709 artifact_blend_card.png
+	file: D artifact_blend_crown.png
 	file: D artifact_blend_identity.png
 	file: D artifact_blend_pt.png
 	file: D artifact_blend_stamp.png
 	file: D bar.png
-	file: M20251020T075331 bcard.png
-	file: M20251020T075331 blends
-	file: M20251020T075331 border_mask.png
+	file: D bcard.png
+	file: A20260220T163709 black_aliasbox.png
+	file: A20260220T163709 black_namebox.png
+	file: A20260220T163709 black_textbox.png
+	file: A20260220T163709 black_typebox.png
+	file: D blends
+	file: A20260220T163709 border_borderless_mask.png
+	file: A20260220T163709 border_extended_mask.png
+	file: A20260220T163709 border_fade_mask.png
+	file: D border_mask.png
 	file: D bpt.png
-	file: M20251020T075331 card-sample.png
-	file: M20251020T075331 ccard.png
+	file: D card-sample.png
+	file: A20260220T163709 card/a.png
+	file: A20260220T163709 card/b.png
+	file: A20260220T163709 card/c.png
+	file: A20260220T163709 card/g.png
+	file: A20260220T163709 card/m.png
+	file: A20260220T163709 card/r.png
+	file: A20260220T163709 card/u.png
+	file: A20260220T163709 card/w.png
+	file: A20260220T163709 card_mask.png
+	file: A20260220T163709 card_sample.png
+	file: D ccard.png
 	file: D cpt.png
-	file: M20251020T075331 foil_mask.png
-	file: M20251020T075331 foil_mask_rare.png
-	file: M20251020T075331 frame_mask.png
+	file: A20260220T163709 crown/a.png
+	file: A20260220T163709 crown/b.png
+	file: A20260220T163709 crown/c.png
+	file: A20260220T163709 crown/g.png
+	file: A20260220T163709 crown/m.png
+	file: A20260220T163709 crown/r.png
+	file: A20260220T163709 crown/u.png
+	file: A20260220T163709 crown/w.png
+	file: M20260220T163709 foil_mask.png
+	file: D foil_mask_rare.png
+	file: D frame_mask.png
 	file: D framemask.png
-	file: M20251020T075331 gcard.png
+	file: D gcard.png
 	file: D gpt.png
-	file: M20251020T075331 hybrid_blend_card.png
-	file: M20251020T075331 hybrid_blend_crown.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
 	file: D hybrid_blend_identity.png
 	file: D hybrid_blend_pt.png
 	file: D hybrid_blend_stamp.png
-	file: M20251020T075331 imagemask.png
-	file: M20251020T075331 mcard.png
+	file: A20260220T163709 image_mask.png
+	file: D imagemask.png
+	file: D mcard.png
 	file: D mpt.png
-	file: M20251020T075331 multicolor_blend_card.png
-	file: M20251020T075331 multicolor_blend_crown.png
+	file: A20260220T163709 multicolor_blend_alias.png
+	file: M20260220T163709 multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
 	file: D multicolor_blend_identity.png
 	file: D multicolor_blend_pt.png
 	file: D multicolor_blend_stamp.png
-	file: M20251020T075331 pt.png
-	file: M20251020T075331 rcard.png
+	file: A20260220T163709 paper_aliasbox.png
+	file: A20260220T163709 paper_namebox.png
+	file: A20260220T163709 paper_textbox.png
+	file: A20260220T163709 paper_typebox.png
+	file: M20260220T163709 pt.png
+	file: A20260220T163709 pt/a.png
+	file: A20260220T163709 pt/b.png
+	file: A20260220T163709 pt/c.png
+	file: A20260220T163709 pt/g.png
+	file: A20260220T163709 pt/m.png
+	file: A20260220T163709 pt/r.png
+	file: A20260220T163709 pt/u.png
+	file: A20260220T163709 pt/w.png
+	file: D rcard.png
 	file: D rpt.png
-	file: M20251020T075331 shutters.png
-	file: M20251020T075331 style
-	file: M20251020T075331 ucard.png
+	file: M20260220T163709 shutters.png
+	file: A20260220T163709 special_blend_card.png
+	file: A20260220T163709 special_blend_pt.png
+	file: A20260220T163709 stamp_border_mask.png
+	file: A20260220T163709 stamp_triangle_border_mask.png
+	file: M20260220T163709 style
+	file: D ucard.png
 	file: D upt.png
-	file: M20251020T075331 voverlay.png
-	file: M20251020T075331 voverlay_mask.png
-	file: M20251020T075331 wcard.png
+	file: D voverlay.png
+	file: D voverlay_mask.png
+	file: D wcard.png
 	file: D wpt.png
+package:
+	name: magic-m15-showcase-tarkir-draconic-adventure.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163709 border_mask.png
+	file: A20260220T163709 card/acard.png
+	file: A20260220T163709 card/bcard.png
+	file: A20260220T163709 card/ccard.png
+	file: A20260220T163709 card/gcard.png
+	file: A20260220T163709 card/mcard.png
+	file: A20260220T163709 card/rcard.png
+	file: A20260220T163709 card/ucard.png
+	file: A20260220T163709 card/wcard.png
+	file: A20260220T163709 card_mask.png
+	file: A20260220T163709 card_sample.png
+	file: A20260220T163709 crown/acrown.png
+	file: A20260220T163709 crown/bcrown.png
+	file: A20260220T163709 crown/ccrown.png
+	file: A20260220T163709 crown/gcrown.png
+	file: A20260220T163709 crown/mcrown.png
+	file: A20260220T163709 crown/rcrown.png
+	file: A20260220T163709 crown/ucrown.png
+	file: A20260220T163709 crown/wcrown.png
+	file: A20260220T163709 foil_mask.png
+	file: A20260220T163709 image_mask.png
+	file: A20260220T163709 page/apage.png
+	file: A20260220T163709 page/bpage.png
+	file: A20260220T163709 page/cpage.png
+	file: A20260220T163709 page/gpage.png
+	file: A20260220T163709 page/mpage.png
+	file: A20260220T163709 page/rpage.png
+	file: A20260220T163709 page/upage.png
+	file: A20260220T163709 page/wpage.png
+	file: A20260220T163709 page_mask.png
+	file: A20260220T163709 pt/apt.png
+	file: A20260220T163709 pt/bpt.png
+	file: A20260220T163709 pt/cpt.png
+	file: A20260220T163709 pt/gpt.png
+	file: A20260220T163709 pt/mpt.png
+	file: A20260220T163709 pt/rpt.png
+	file: A20260220T163709 pt/upt.png
+	file: A20260220T163709 pt/wpt.png
+	file: A20260220T163709 special_blend_card.png
+	file: A20260220T163709 special_blend_card_v.png
+	file: A20260220T163709 special_blend_pt.png
+	file: A20260220T163709 stamp/astamp.png
+	file: A20260220T163709 stamp/bstamp.png
+	file: A20260220T163709 stamp/cstamp.png
+	file: A20260220T163709 stamp/gstamp.png
+	file: A20260220T163709 stamp/mstamp.png
+	file: A20260220T163709 stamp/rstamp.png
+	file: A20260220T163709 stamp/ustamp.png
+	file: A20260220T163709 stamp/wstamp.png
+	file: A20260220T163709 stamp_border_mask.png
+	file: A20260220T163709 style
+package:
+	name: magic-m15-showcase-tarkir-draconic.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163709 border_mask.png
+	file: A20260220T163709 card/acard.png
+	file: A20260220T163709 card/bcard.png
+	file: A20260220T163709 card/ccard.png
+	file: A20260220T163709 card/gcard.png
+	file: A20260220T163709 card/mcard.png
+	file: A20260220T163709 card/rcard.png
+	file: A20260220T163709 card/ucard.png
+	file: A20260220T163709 card/wcard.png
+	file: A20260220T163709 card_mask.png
+	file: A20260220T163709 card_sample.png
+	file: A20260220T163709 crown/acrown.png
+	file: A20260220T163709 crown/bcrown.png
+	file: A20260220T163709 crown/ccrown.png
+	file: A20260220T163709 crown/gcrown.png
+	file: A20260220T163709 crown/mcrown.png
+	file: A20260220T163709 crown/rcrown.png
+	file: A20260220T163709 crown/ucrown.png
+	file: A20260220T163709 crown/wcrown.png
+	file: A20260220T163709 foil_mask.png
+	file: A20260220T163709 image_mask.png
+	file: A20260220T163709 pt/apt.png
+	file: A20260220T163709 pt/bpt.png
+	file: A20260220T163709 pt/cpt.png
+	file: A20260220T163709 pt/gpt.png
+	file: A20260220T163709 pt/mpt.png
+	file: A20260220T163709 pt/rpt.png
+	file: A20260220T163709 pt/upt.png
+	file: A20260220T163709 pt/wpt.png
+	file: A20260220T163709 special_blend_card.png
+	file: A20260220T163709 special_blend_card_v.png
+	file: A20260220T163709 special_blend_pt.png
+	file: A20260220T163709 stamp/astamp.png
+	file: A20260220T163709 stamp/bstamp.png
+	file: A20260220T163709 stamp/cstamp.png
+	file: A20260220T163709 stamp/gstamp.png
+	file: A20260220T163709 stamp/mstamp.png
+	file: A20260220T163709 stamp/rstamp.png
+	file: A20260220T163709 stamp/ustamp.png
+	file: A20260220T163709 stamp/wstamp.png
+	file: A20260220T163709 stamp_border_mask.png
+	file: A20260220T163709 style
 package:
 	name: magic-m15-showcase-tarkir-dragon-wing.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075331 artifact_blend_card.png
-	file: M20251020T075331 artifact_blend_crown.png
-	file: M20251020T075331 artifact_blend_pt.png
-	file: M20251020T075331 artifact_blend_stamp.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075331 card/acard.png
 	file: M20251020T075331 card/bcard.png
 	file: M20251020T075331 card/ccard.png
@@ -23214,16 +24030,16 @@ package:
 	file: M20251020T075331 foil_mask_round.png
 	file: M20251020T075331 foil_mask_triangle.png
 	file: M20251020T075331 frame_shadow.png
-	file: M20251020T075331 hybrid_blend_card.png
-	file: M20251020T075331 hybrid_blend_crown.png
-	file: M20251020T075331 hybrid_blend_pt.png
-	file: M20251020T075331 hybrid_blend_stamp.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075331 image_mask.png
 	file: M20251020T075331 image_mask_full.png
-	file: M20251020T075331 multicolor_blend_card.png
-	file: M20251020T075331 multicolor_blend_crown.png
-	file: M20251020T075331 multicolor_blend_pt.png
-	file: M20251020T075331 multicolor_blend_stamp.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
+	file: D multicolor_blend_stamp.png
 	file: M20251020T075331 pt/apt.png
 	file: M20251020T075331 pt/bpt.png
 	file: M20251020T075331 pt/cpt.png
@@ -23238,13 +24054,64 @@ package:
 	file: M20251020T075331 stamp_background.png
 	file: M20251020T075331 stamp_border_mask.png
 	file: M20251020T075331 stamp_tri_border_mask.png
-	file: M20251020T075332 style
+	file: M20260220T163709 style
+package:
+	name: magic-m15-showcase-tarkir-ghostfire-walker.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163709 border_mask.png
+	file: A20260220T163709 border_mask_borderless.png
+	file: A20260220T163709 border_stamp_mask.png
+	file: A20260220T163709 card.png
+	file: A20260220T163709 card_mask.png
+	file: A20260220T163709 card_sample.png
+	file: A20260220T163709 card_stamp_mask.png
+	file: A20260220T163709 card_tall.png
+	file: A20260220T163709 card_tall_mask.png
+	file: A20260220T163709 card_tall_stamp_mask.png
+	file: A20260220T163709 crown.png
+	file: A20260220T163709 image_mask.png
+	file: A20260220T163709 image_tall_mask.png
+	file: A20260220T163709 loyalty/loyalty cost + shadow.png
+	file: A20260220T163709 loyalty/loyalty cost +.png
+	file: A20260220T163709 loyalty/loyalty cost - shadow.png
+	file: A20260220T163709 loyalty/loyalty cost -.png
+	file: A20260220T163709 loyalty/loyalty cost 0 shadow.png
+	file: A20260220T163709 loyalty/loyalty cost 0.png
+	file: A20260220T163709 loyalty/loyalty shadow.png
+	file: A20260220T163709 loyalty/loyalty.png
+	file: A20260220T163709 namebox.png
+	file: A20260220T163709 style
+	file: A20260220T163709 textbox.png
+	file: A20260220T163709 textbox_mask.png
+	file: A20260220T163709 textbox_mask_tall.png
+	file: A20260220T163709 textbox_tall.png
+	file: A20260220T163709 typebox.png
+	file: A20260220T163709 typebox_tall.png
+package:
+	name: magic-m15-showcase-tarkir-ghostfire.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163709 border_mask.png
+	file: A20260220T163709 border_mask_borderless.png
+	file: A20260220T163709 border_stamp_mask.png
+	file: A20260220T163709 card.png
+	file: A20260220T163709 card_mask.png
+	file: A20260220T163709 card_sample.png
+	file: A20260220T163709 card_stamp_mask.png
+	file: A20260220T163709 crown.png
+	file: A20260220T163709 image_mask.png
+	file: A20260220T163709 namebox.png
+	file: A20260220T163709 pt.png
+	file: A20260220T163709 style
+	file: A20260220T163709 textbox.png
+	file: A20260220T163709 typebox.png
 package:
 	name: magic-m15-showcase-theros-constellation.mse-style
 	version: 2024-09-19
 	status: 34
 	file: M20251020T075332 artifact_blend_card.png
-	file: M20251020T075332 artifact_blend_crown.png
+	file: D artifact_blend_crown.png
 	file: M20251020T075332 border_crown.png
 	file: M20251020T075332 border_mask.png
 	file: M20251020T075332 card/acard.png
@@ -23271,11 +24138,11 @@ package:
 	file: M20251020T075332 foil_mask_round.png
 	file: M20251020T075332 foil_mask_triangle.png
 	file: M20251020T075332 hybrid_blend_card.png
-	file: M20251020T075332 hybrid_blend_crown.png
+	file: D hybrid_blend_crown.png
 	file: M20251020T075332 image_mask.png
 	file: M20251020T075332 image_mask_full.png
 	file: M20251020T075332 multicolor_blend_card.png
-	file: M20251020T075332 multicolor_blend_crown.png
+	file: D multicolor_blend_crown.png
 	file: M20251020T075332 stamp/artifact_blend_stamp.png
 	file: M20251020T075332 stamp/astamp.png
 	file: M20251020T075332 stamp/bstamp.png
@@ -23287,14 +24154,14 @@ package:
 	file: M20251020T075332 stamp/rstamp.png
 	file: M20251020T075332 stamp/ustamp.png
 	file: M20251020T075332 stamp/wstamp.png
-	file: M20251020T075332 style
+	file: M20260220T163709 style
 package:
 	name: magic-m15-showcase-thunder-junction-breaking-news.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075332 artifact_blend_card.png
-	file: M20251020T075332 artifact_blend_crown.png
-	file: M20251020T075332 artifact_blend_pt.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075332 card/acard.png
 	file: M20251020T075332 card/bcard.png
 	file: M20251020T075332 card/ccard.png
@@ -23323,13 +24190,13 @@ package:
 	file: M20251020T075332 crown/ucrown.png
 	file: M20251020T075332 crown/wcrown.png
 	file: M20251020T075332 fonts/roulettecapsopti.otf
-	file: M20251020T075332 hybrid_blend_card.png
-	file: M20251020T075332 hybrid_blend_crown.png
-	file: M20251020T075332 hybrid_blend_pt.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
 	file: M20251020T075332 image_mask_full.png
-	file: M20251020T075332 multicolor_blend_card.png
-	file: M20251020T075332 multicolor_blend_crown.png
-	file: M20251020T075332 multicolor_blend_pt.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075332 pt/apt.png
 	file: M20251020T075332 pt/bpt.png
 	file: M20251020T075332 pt/cpt.png
@@ -23340,15 +24207,15 @@ package:
 	file: M20251020T075332 pt/upt.png
 	file: M20251020T075332 pt/wpt.png
 	file: M20251020T075332 special_blend_pt.png
-	file: M20251020T075332 style
+	file: M20260220T163709 style
 package:
 	name: magic-m15-showcase-thunder-junction-vault.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075332 artifact_blend_card.png
-	file: M20251020T075332 artifact_blend_crown.png
-	file: M20251020T075332 artifact_blend_nonstamp.png
-	file: M20251020T075332 artifact_blend_pt.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_nonstamp.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075332 border_mask.png
 	file: M20251020T075332 card/acard.png
 	file: M20251020T075332 card/bcard.png
@@ -23370,14 +24237,14 @@ package:
 	file: M20251020T075332 crown/wcrown.png
 	file: M20251020T075332 eclipsecard.png
 	file: M20251020T075332 eclipsecrown.png
-	file: M20251020T075332 hybrid_blend_card.png
-	file: M20251020T075332 hybrid_blend_crown.png
-	file: M20251020T075332 hybrid_blend_nonstamp.png
-	file: M20251020T075332 hybrid_blend_pt.png
-	file: M20251020T075332 multicolor_blend_card.png
-	file: M20251020T075332 multicolor_blend_crown.png
-	file: M20251020T075332 multicolor_blend_nonstamp.png
-	file: M20251020T075332 multicolor_blend_pt.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_nonstamp.png
+	file: D hybrid_blend_pt.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_crown.png
+	file: D multicolor_blend_nonstamp.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075332 nonstamp/anonstamp.png
 	file: M20251020T075332 nonstamp/bnonstamp.png
 	file: M20251020T075332 nonstamp/cnonstamp.png
@@ -23395,13 +24262,13 @@ package:
 	file: M20251020T075332 pt/upt.png
 	file: M20251020T075332 pt/wpt.png
 	file: M20251020T075332 special_blend_pt.png
-	file: M20251020T075332 style
+	file: M20260220T163709 style
 package:
 	name: magic-m15-showcase-thunder-junction-wanted-poster.mse-style
 	version: 2024-10-01
 	status: 34
-	file: M20251020T075332 artifact_blend_card.png
-	file: M20251020T075332 artifact_blend_pt.png
+	file: D artifact_blend_card.png
+	file: D artifact_blend_pt.png
 	file: M20251020T075332 card/acard.png
 	file: M20251020T075332 card/bcard.png
 	file: M20251020T075332 card/ccard.png
@@ -23417,11 +24284,11 @@ package:
 	file: M20251020T075332 fonts/saddlebag allcaps.ttf
 	file: M20251020T075332 fonts/schnebel slab pro italic.ttf
 	file: M20251020T075332 fonts/schnebel slab pro regular.ttf
-	file: M20251020T075332 hybrid_blend_card.png
-	file: M20251020T075332 hybrid_blend_pt.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_pt.png
 	file: M20251020T075332 image_mask_full.png
-	file: M20251020T075332 multicolor_blend_card.png
-	file: M20251020T075332 multicolor_blend_pt.png
+	file: D multicolor_blend_card.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075332 non_stamp_rim.png
 	file: M20251020T075332 pt/apt.png
 	file: M20251020T075332 pt/bpt.png
@@ -23433,15 +24300,15 @@ package:
 	file: M20251020T075332 pt/wpt.png
 	file: M20251020T075332 special_blend_card.png
 	file: M20251020T075332 special_blend_pt.png
-	file: M20251020T075333 style
+	file: M20260220T163709 style
 package:
 	name: magic-m15-showcase-unfinity.mse-style
 	version: 2024-10-01
 	status: 34
 	file: M20251020T075333 artifact_blend_card.png
-	file: M20251020T075333 artifact_blend_crown.png
-	file: M20251020T075333 artifact_blend_pt.png
-	file: M20251020T075333 artifact_blend_stamp.png
+	file: D artifact_blend_crown.png
+	file: D artifact_blend_pt.png
+	file: D artifact_blend_stamp.png
 	file: M20251020T075333 bar.png
 	file: M20251020T075333 card-sample.png
 	file: M20251020T075333 card/acard.png
@@ -23465,14 +24332,14 @@ package:
 	file: M20251020T075333 foil_mask_pt.png
 	file: M20251020T075333 foil_mask_round.png
 	file: M20251020T075333 foil_mask_triangle.png
-	file: M20251020T075333 hybrid_blend_card.png
-	file: M20251020T075333 hybrid_blend_crown.png
-	file: M20251020T075333 hybrid_blend_pt.png
-	file: M20251020T075333 hybrid_blend_stamp.png
+	file: D hybrid_blend_card.png
+	file: D hybrid_blend_crown.png
+	file: D hybrid_blend_pt.png
+	file: D hybrid_blend_stamp.png
 	file: M20251020T075333 image_mask.png
 	file: M20251020T075333 multicolor_blend_card.png
 	file: M20251020T075333 multicolor_blend_crown.png
-	file: M20251020T075333 multicolor_blend_pt.png
+	file: D multicolor_blend_pt.png
 	file: M20251020T075333 multicolor_blend_stamp.png
 	file: M20251020T075333 pt/apt.png
 	file: M20251020T075333 pt/bpt.png
@@ -23495,7 +24362,7 @@ package:
 	file: M20251020T075333 stamp_border_mask.png
 	file: M20251020T075333 stamp_normal_foil.png
 	file: M20251020T075333 stamp_tri_border_mask.png
-	file: M20251020T075333 style
+	file: M20260220T163709 style
 package:
 	name: magic-m15-showcase-zendikar.mse-style
 	version: 2024-09-01
@@ -23503,8 +24370,8 @@ package:
 	file: M20251020T075333 acard.png
 	file: M20251020T075333 apt.png
 	file: M20251020T075333 artifact_blend_card.png
-	file: M20251020T075333 artifact_blend_card2.png
-	file: M20251020T075333 artifact_blend_crown.png
+	file: D artifact_blend_card2.png
+	file: D artifact_blend_crown.png
 	file: M20251020T075333 artifact_blend_pt.png
 	file: M20251020T075333 artist_arrow.png
 	file: D astamp.jpg
@@ -23543,8 +24410,8 @@ package:
 	file: M20251020T075333 gpt.png
 	file: D gstamp.jpg
 	file: M20251020T075333 hybrid_blend_card.png
-	file: M20251020T075333 hybrid_blend_card2.png
-	file: M20251020T075333 hybrid_blend_crown.png
+	file: D hybrid_blend_card2.png
+	file: D hybrid_blend_crown.png
 	file: M20251020T075333 hybrid_blend_pt.png
 	file: M20251020T075333 hyvrid_blend_card2.png
 	file: D imagemask.png
@@ -23552,13 +24419,13 @@ package:
 	file: M20251020T075333 mpt.png
 	file: D mstamp.jpg
 	file: M20251020T075333 multicolor_blend_card.png
-	file: M20251020T075333 multicolor_blend_card2.png
-	file: M20251020T075333 multicolor_blend_crown.png
+	file: D multicolor_blend_card2.png
+	file: D multicolor_blend_crown.png
 	file: M20251020T075333 multicolor_blend_pt.png
 	file: M20251020T075333 rcard.png
 	file: M20251020T075333 rpt.png
 	file: D rstamp.jpg
-	file: M20251020T075333 style
+	file: M20260220T163709 style
 	file: M20251020T075333 ucard.png
 	file: M20251020T075333 upt.png
 	file: D ustamp.png
@@ -23706,164 +24573,164 @@ package:
 	name: magic-m15-split-fusable.mse-style
 	version: 2024-09-03
 	status: 34
-	file: A20251020T075334 arrow_mask.png
-	file: A20251020T075334 bar.png
-	file: A20251020T075334 bar_mask.png
-	file: A20251020T075334 border_mask.png
-	file: A20251020T075334 borders/borderless.png
-	file: A20251020T075334 borders/canvas.png
-	file: A20251020T075334 borders/clear_fuse.png
-	file: A20251020T075334 borders/fuse_add.png
-	file: A20251020T075334 borders/fuse_mask.png
-	file: A20251020T075334 borders/left_mask.png
-	file: A20251020T075334 borders/mask.png
-	file: A20251020T075334 borders/room.png
-	file: A20251020T075334 borders/room_cfuse.png
-	file: A20251020T075334 borders/top_mask.png
-	file: A20251020T075334 bridge/abridge.png
-	file: A20251020T075334 bridge/bbridge.png
-	file: A20251020T075334 bridge/blbridge.png
-	file: A20251020T075334 bridge/bridgemask.png
-	file: A20251020T075334 bridge/cbridge.png
-	file: A20251020T075334 bridge/clbridge.png
-	file: A20251020T075334 bridge/cxmask.png
-	file: A20251020T075334 bridge/gbridge.png
-	file: A20251020T075334 bridge/glbridge.png
-	file: A20251020T075334 bridge/mbridge.png
-	file: A20251020T075334 bridge/mlbridge.png
-	file: A20251020T075334 bridge/rbridge.png
-	file: A20251020T075334 bridge/rlbridge.png
-	file: A20251020T075334 bridge/ubridge.png
-	file: A20251020T075334 bridge/ulbridge.png
-	file: A20251020T075334 bridge/wbridge.png
-	file: A20251020T075334 bridge/wlbridge.png
-	file: A20251020T075334 bridge/xcmask.png
-	file: A20251020T075334 build.bat
-	file: A20251020T075334 card-sample.png
-	file: A20251020T075334 fuse_left/afuse.png
-	file: A20251020T075334 fuse_left/artifact_blend_fuse.png
-	file: A20251020T075334 fuse_left/bfuse.png
-	file: A20251020T075334 fuse_left/borderless_clear_mask.png
-	file: A20251020T075334 fuse_left/cfuse.png
-	file: A20251020T075334 fuse_left/clear_room_mask.png
-	file: A20251020T075334 fuse_left/clfuse.png
-	file: A20251020T075334 fuse_left/gfuse.png
-	file: A20251020T075334 fuse_left/hybrid_blend_fuse.png
-	file: A20251020T075334 fuse_left/mfuse.png
-	file: A20251020T075334 fuse_left/multicolor_blend_fuse.png
-	file: A20251020T075334 fuse_left/rfuse.png
-	file: A20251020T075334 fuse_left/ufuse.png
-	file: A20251020T075334 fuse_left/wfuse.png
-	file: A20251020T075334 fuse_left/xfuse.png
-	file: A20251020T075334 fuse_left/xfuse2.png
-	file: A20251020T075334 fuse_right/afuse.png
-	file: A20251020T075334 fuse_right/artifact_blend_fuse.png
-	file: A20251020T075334 fuse_right/bfuse.png
-	file: A20251020T075334 fuse_right/borderless_clear_mask.png
-	file: A20251020T075334 fuse_right/cfuse.png
-	file: A20251020T075334 fuse_right/clear_room_mask.png
-	file: A20251020T075334 fuse_right/clfuse.png
-	file: A20251020T075334 fuse_right/gfuse.png
-	file: A20251020T075334 fuse_right/hybrid_blend_fuse.png
-	file: A20251020T075334 fuse_right/mfuse.png
-	file: A20251020T075334 fuse_right/multicolor_blend_fuse.png
-	file: A20251020T075334 fuse_right/rfuse.png
-	file: A20251020T075334 fuse_right/ufuse.png
-	file: A20251020T075334 fuse_right/wfuse.png
-	file: A20251020T075334 fuse_right/xfuse.png
-	file: A20251020T075334 fuse_right/xfuse2.png
-	file: A20251020T075334 normal/acard.png
-	file: A20251020T075334 normal/artifact_blend_card.png
-	file: A20251020T075334 normal/bcard.png
-	file: A20251020T075334 normal/blcard.png
-	file: A20251020T075334 normal/borderless/acard.png
-	file: A20251020T075334 normal/borderless/bcard.png
-	file: A20251020T075334 normal/borderless/ccard.png
-	file: A20251020T075334 normal/borderless/gcard.png
-	file: A20251020T075334 normal/borderless/left_mask.png
-	file: A20251020T075334 normal/borderless/mcard.png
-	file: A20251020T075334 normal/borderless/rcard.png
-	file: A20251020T075334 normal/borderless/right_mask.png
-	file: A20251020T075334 normal/borderless/ucard.png
-	file: A20251020T075334 normal/borderless/wcard.png
-	file: A20251020T075334 normal/borderless_clear_mask.png
-	file: A20251020T075334 normal/ccard.png
-	file: A20251020T075334 normal/clcard.png
-	file: A20251020T075334 normal/gcard.png
-	file: A20251020T075334 normal/glcard.png
-	file: A20251020T075334 normal/hybrid_blend_card.png
-	file: A20251020T075334 normal/image_mask.png
-	file: A20251020T075334 normal/image_mask_bl.png
-	file: A20251020T075334 normal/image_mask_left.png
-	file: A20251020T075334 normal/image_mask_left_bl.png
-	file: A20251020T075334 normal/image_mask_left_clear.png
-	file: A20251020T075334 normal/image_mask_right.png
-	file: A20251020T075334 normal/image_mask_right_bl.png
-	file: A20251020T075334 normal/image_mask_right_clear.png
-	file: A20251020T075334 normal/left_mask.png
-	file: A20251020T075334 normal/mcard.png
-	file: A20251020T075334 normal/mlcard.png
-	file: A20251020T075334 normal/multicolor_blend_card.png
-	file: A20251020T075334 normal/rcard.png
-	file: A20251020T075334 normal/right_mask.png
-	file: A20251020T075334 normal/rlcard.png
-	file: A20251020T075334 normal/ucard.png
-	file: A20251020T075334 normal/ulcard.png
-	file: A20251020T075334 normal/wcard.png
-	file: A20251020T075334 normal/wlcard.png
-	file: A20251020T075334 normal/xcard.png
-	file: A20251020T075334 normal/xcard2.png
-	file: A20251020T075334 rooms/acover.png
-	file: A20251020T075334 rooms/artifact_blend_cover.png
-	file: A20251020T075334 rooms/bcover.png
-	file: A20251020T075334 rooms/bl_frame_mask.png
-	file: A20251020T075334 rooms/blend_mask.png
-	file: A20251020T075334 rooms/bottom_mask.png
-	file: A20251020T075334 rooms/ccover.png
-	file: A20251020T075334 rooms/cover_mask_bl.png
-	file: A20251020T075334 rooms/gcover.png
-	file: A20251020T075334 rooms/hybrid_blend_cover.png
-	file: A20251020T075334 rooms/image_mask.png
-	file: A20251020T075334 rooms/image_mask_arrow.png
-	file: A20251020T075334 rooms/image_mask_bl.png
-	file: A20251020T075334 rooms/image_mask_clear.png
-	file: A20251020T075334 rooms/image_mask_left.png
-	file: A20251020T075334 rooms/image_mask_left_arrow.png
-	file: A20251020T075334 rooms/image_mask_left_bl.png
-	file: A20251020T075334 rooms/image_mask_left_clear.png
-	file: A20251020T075334 rooms/image_mask_middle.png
-	file: A20251020T075334 rooms/image_mask_middle_arrow.png
-	file: A20251020T075334 rooms/image_mask_middle_bl.png
-	file: A20251020T075334 rooms/image_mask_middle_fuse.png
-	file: A20251020T075334 rooms/image_mask_right.png
-	file: A20251020T075334 rooms/image_mask_right_arrow.png
-	file: A20251020T075334 rooms/image_mask_right_bl.png
-	file: A20251020T075334 rooms/image_mask_right_clear.png
-	file: A20251020T075334 rooms/image_mask_right_short.png
-	file: A20251020T075334 rooms/mcover.png
-	file: A20251020T075334 rooms/multicolor_blend_cover.png
-	file: A20251020T075334 rooms/patch.png
-	file: A20251020T075334 rooms/rcover.png
-	file: A20251020T075334 rooms/roombar.png
-	file: A20251020T075334 rooms/ucover.png
-	file: A20251020T075334 rooms/wcover.png
-	file: A20251020T075334 rooms/xcover.png
-	file: A20251020T075334 shadow_mask.png
-	file: A20251020T075334 style
-	file: A20251020T075334 texture/artifact_blend_texture.png
-	file: A20251020T075334 texture/atexture.png
-	file: A20251020T075334 texture/btexture.png
-	file: A20251020T075334 texture/ctexture.png
-	file: A20251020T075334 texture/gtexture.png
-	file: A20251020T075334 texture/hybrid_blend_texture.png
-	file: A20251020T075334 texture/ltexture.png
-	file: A20251020T075334 texture/mtexture.png
-	file: A20251020T075334 texture/multicolor_blend_texture.png
-	file: A20251020T075334 texture/rtexture.png
-	file: A20251020T075334 texture/utexture.png
-	file: A20251020T075334 texture/wtexture.png
-	file: A20251020T075334 top_arrow_mask.png
-	file: A20251020T075334 trim_mask.png
+	file: M20251020T075334 arrow_mask.png
+	file: M20251020T075334 bar.png
+	file: M20251020T075334 bar_mask.png
+	file: M20251020T075334 border_mask.png
+	file: M20251020T075334 borders/borderless.png
+	file: M20251020T075334 borders/canvas.png
+	file: M20251020T075334 borders/clear_fuse.png
+	file: M20251020T075334 borders/fuse_add.png
+	file: M20251020T075334 borders/fuse_mask.png
+	file: M20251020T075334 borders/left_mask.png
+	file: M20251020T075334 borders/mask.png
+	file: M20251020T075334 borders/room.png
+	file: M20251020T075334 borders/room_cfuse.png
+	file: M20251020T075334 borders/top_mask.png
+	file: M20251020T075334 bridge/abridge.png
+	file: M20251020T075334 bridge/bbridge.png
+	file: M20251020T075334 bridge/blbridge.png
+	file: M20251020T075334 bridge/bridgemask.png
+	file: M20251020T075334 bridge/cbridge.png
+	file: M20251020T075334 bridge/clbridge.png
+	file: M20251020T075334 bridge/cxmask.png
+	file: M20251020T075334 bridge/gbridge.png
+	file: M20251020T075334 bridge/glbridge.png
+	file: M20251020T075334 bridge/mbridge.png
+	file: M20251020T075334 bridge/mlbridge.png
+	file: M20251020T075334 bridge/rbridge.png
+	file: M20251020T075334 bridge/rlbridge.png
+	file: M20251020T075334 bridge/ubridge.png
+	file: M20251020T075334 bridge/ulbridge.png
+	file: M20251020T075334 bridge/wbridge.png
+	file: M20251020T075334 bridge/wlbridge.png
+	file: M20251020T075334 bridge/xcmask.png
+	file: M20251020T075334 build.bat
+	file: M20251020T075334 card-sample.png
+	file: M20251020T075334 fuse_left/afuse.png
+	file: M20251020T075334 fuse_left/artifact_blend_fuse.png
+	file: M20251020T075334 fuse_left/bfuse.png
+	file: M20251020T075334 fuse_left/borderless_clear_mask.png
+	file: M20251020T075334 fuse_left/cfuse.png
+	file: M20251020T075334 fuse_left/clear_room_mask.png
+	file: M20251020T075334 fuse_left/clfuse.png
+	file: M20251020T075334 fuse_left/gfuse.png
+	file: M20251020T075334 fuse_left/hybrid_blend_fuse.png
+	file: M20251020T075334 fuse_left/mfuse.png
+	file: M20251020T075334 fuse_left/multicolor_blend_fuse.png
+	file: M20251020T075334 fuse_left/rfuse.png
+	file: M20251020T075334 fuse_left/ufuse.png
+	file: M20251020T075334 fuse_left/wfuse.png
+	file: M20251020T075334 fuse_left/xfuse.png
+	file: M20251020T075334 fuse_left/xfuse2.png
+	file: M20251020T075334 fuse_right/afuse.png
+	file: M20251020T075334 fuse_right/artifact_blend_fuse.png
+	file: M20251020T075334 fuse_right/bfuse.png
+	file: M20251020T075334 fuse_right/borderless_clear_mask.png
+	file: M20251020T075334 fuse_right/cfuse.png
+	file: M20251020T075334 fuse_right/clear_room_mask.png
+	file: M20251020T075334 fuse_right/clfuse.png
+	file: M20251020T075334 fuse_right/gfuse.png
+	file: M20251020T075334 fuse_right/hybrid_blend_fuse.png
+	file: M20251020T075334 fuse_right/mfuse.png
+	file: M20251020T075334 fuse_right/multicolor_blend_fuse.png
+	file: M20251020T075334 fuse_right/rfuse.png
+	file: M20251020T075334 fuse_right/ufuse.png
+	file: M20251020T075334 fuse_right/wfuse.png
+	file: M20251020T075334 fuse_right/xfuse.png
+	file: M20251020T075334 fuse_right/xfuse2.png
+	file: M20251020T075334 normal/acard.png
+	file: M20251020T075334 normal/artifact_blend_card.png
+	file: M20251020T075334 normal/bcard.png
+	file: M20251020T075334 normal/blcard.png
+	file: M20251020T075334 normal/borderless/acard.png
+	file: M20251020T075334 normal/borderless/bcard.png
+	file: M20251020T075334 normal/borderless/ccard.png
+	file: M20251020T075334 normal/borderless/gcard.png
+	file: M20251020T075334 normal/borderless/left_mask.png
+	file: M20251020T075334 normal/borderless/mcard.png
+	file: M20251020T075334 normal/borderless/rcard.png
+	file: M20251020T075334 normal/borderless/right_mask.png
+	file: M20251020T075334 normal/borderless/ucard.png
+	file: M20251020T075334 normal/borderless/wcard.png
+	file: M20251020T075334 normal/borderless_clear_mask.png
+	file: M20251020T075334 normal/ccard.png
+	file: M20251020T075334 normal/clcard.png
+	file: M20251020T075334 normal/gcard.png
+	file: M20251020T075334 normal/glcard.png
+	file: M20251020T075334 normal/hybrid_blend_card.png
+	file: M20251020T075334 normal/image_mask.png
+	file: M20251020T075334 normal/image_mask_bl.png
+	file: M20251020T075334 normal/image_mask_left.png
+	file: M20251020T075334 normal/image_mask_left_bl.png
+	file: M20251020T075334 normal/image_mask_left_clear.png
+	file: M20251020T075334 normal/image_mask_right.png
+	file: M20251020T075334 normal/image_mask_right_bl.png
+	file: M20251020T075334 normal/image_mask_right_clear.png
+	file: M20251020T075334 normal/left_mask.png
+	file: M20251020T075334 normal/mcard.png
+	file: M20251020T075334 normal/mlcard.png
+	file: M20251020T075334 normal/multicolor_blend_card.png
+	file: M20251020T075334 normal/rcard.png
+	file: M20251020T075334 normal/right_mask.png
+	file: M20251020T075334 normal/rlcard.png
+	file: M20251020T075334 normal/ucard.png
+	file: M20251020T075334 normal/ulcard.png
+	file: M20251020T075334 normal/wcard.png
+	file: M20251020T075334 normal/wlcard.png
+	file: M20251020T075334 normal/xcard.png
+	file: M20251020T075334 normal/xcard2.png
+	file: M20251020T075334 rooms/acover.png
+	file: M20251020T075334 rooms/artifact_blend_cover.png
+	file: M20251020T075334 rooms/bcover.png
+	file: M20251020T075334 rooms/bl_frame_mask.png
+	file: M20251020T075334 rooms/blend_mask.png
+	file: M20251020T075334 rooms/bottom_mask.png
+	file: M20251020T075334 rooms/ccover.png
+	file: M20251020T075334 rooms/cover_mask_bl.png
+	file: M20251020T075334 rooms/gcover.png
+	file: M20251020T075334 rooms/hybrid_blend_cover.png
+	file: M20251020T075334 rooms/image_mask.png
+	file: M20251020T075334 rooms/image_mask_arrow.png
+	file: M20251020T075334 rooms/image_mask_bl.png
+	file: M20251020T075334 rooms/image_mask_clear.png
+	file: M20251020T075334 rooms/image_mask_left.png
+	file: M20251020T075334 rooms/image_mask_left_arrow.png
+	file: M20251020T075334 rooms/image_mask_left_bl.png
+	file: M20251020T075334 rooms/image_mask_left_clear.png
+	file: M20251020T075334 rooms/image_mask_middle.png
+	file: M20251020T075334 rooms/image_mask_middle_arrow.png
+	file: M20251020T075334 rooms/image_mask_middle_bl.png
+	file: M20251020T075334 rooms/image_mask_middle_fuse.png
+	file: M20251020T075334 rooms/image_mask_right.png
+	file: M20251020T075334 rooms/image_mask_right_arrow.png
+	file: M20251020T075334 rooms/image_mask_right_bl.png
+	file: M20251020T075334 rooms/image_mask_right_clear.png
+	file: M20251020T075334 rooms/image_mask_right_short.png
+	file: M20251020T075334 rooms/mcover.png
+	file: M20251020T075334 rooms/multicolor_blend_cover.png
+	file: M20251020T075334 rooms/patch.png
+	file: M20251020T075334 rooms/rcover.png
+	file: M20251020T075334 rooms/roombar.png
+	file: M20251020T075334 rooms/ucover.png
+	file: M20251020T075334 rooms/wcover.png
+	file: M20251020T075334 rooms/xcover.png
+	file: M20251020T075334 shadow_mask.png
+	file: M20251020T075334 style
+	file: M20251020T075334 texture/artifact_blend_texture.png
+	file: M20251020T075334 texture/atexture.png
+	file: M20251020T075334 texture/btexture.png
+	file: M20251020T075334 texture/ctexture.png
+	file: M20251020T075334 texture/gtexture.png
+	file: M20251020T075334 texture/hybrid_blend_texture.png
+	file: M20251020T075334 texture/ltexture.png
+	file: M20251020T075334 texture/mtexture.png
+	file: M20251020T075334 texture/multicolor_blend_texture.png
+	file: M20251020T075334 texture/rtexture.png
+	file: M20251020T075334 texture/utexture.png
+	file: M20251020T075334 texture/wtexture.png
+	file: M20251020T075334 top_arrow_mask.png
+	file: M20251020T075334 trim_mask.png
 package:
 	name: magic-m15-split-fuse.mse-style
 	version: 2024-09-03
@@ -24112,7 +24979,7 @@ package:
 	file: M20251020T075335 mlcard.jpg
 	file: M20251020T075335 multicolor_blend_card.png
 	file: M20251020T075335 rlcard.jpg
-	file: M20251020T075335 style
+	file: M20260220T163709 style
 	file: M20251020T075335 ulcard.jpg
 	file: M20251020T075335 wlcard.jpg
 package:
@@ -24238,6 +25105,7 @@ package:
 	file: M20251020T075336 foil_mask.png
 	file: M20251020T075336 foil_mask_rare.png
 	file: M20251020T075336 frame_mask.png
+	file: A20260220T163709 frame_mask_full.png
 	file: M20251020T075336 gcard.png
 	file: M20251020T075336 glcard.png
 	file: M20251020T075336 glpt.png
@@ -24256,7 +25124,7 @@ package:
 	file: M20251020T075336 rlcard.png
 	file: M20251020T075336 rlpt.png
 	file: M20251020T075336 rpt.png
-	file: M20251020T075336 style
+	file: M20260220T163709 style
 	file: M20251020T075336 ucard-full.png
 	file: M20251020T075336 ucard.png
 	file: M20251020T075336 ulcard.png
@@ -24337,6 +25205,42 @@ package:
 	file: D wlstamp.jpg
 	file: D wpt.png
 	file: D wstamp.jpg
+package:
+	name: magic-m15-unfinity-full-art-basics.mse-style
+	version: 2024-05-20
+	status: 34
+	file: A20260220T163709 border_mask.png
+	file: A20260220T163709 border_mask_namebox.png
+	file: A20260220T163709 border_mask_stamp.png
+	file: A20260220T163709 card/a.png
+	file: A20260220T163709 card/b.png
+	file: A20260220T163709 card/c.png
+	file: A20260220T163709 card/g.png
+	file: A20260220T163709 card/m.png
+	file: A20260220T163709 card/r.png
+	file: A20260220T163709 card/u.png
+	file: A20260220T163709 card/w.png
+	file: A20260220T163709 card_mask.png
+	file: A20260220T163709 card_sample.png
+	file: A20260220T163709 image_mask.png
+	file: A20260220T163709 image_mask_symbol.png
+	file: A20260220T163709 namebox_background.png
+	file: A20260220T163709 namebox_shadow.png
+	file: A20260220T163709 stamp/a.png
+	file: A20260220T163709 stamp/b.png
+	file: A20260220T163709 stamp/c.png
+	file: A20260220T163709 stamp/g.png
+	file: A20260220T163709 stamp/m.png
+	file: A20260220T163709 stamp/r.png
+	file: A20260220T163709 stamp/u.png
+	file: A20260220T163709 stamp/w.png
+	file: A20260220T163709 style
+	file: A20260220T163709 symbol/b.png
+	file: A20260220T163709 symbol/c.png
+	file: A20260220T163709 symbol/g.png
+	file: A20260220T163709 symbol/r.png
+	file: A20260220T163709 symbol/u.png
+	file: A20260220T163709 symbol/w.png
 package:
 	name: magic-m15-unstable-basics.mse-style
 	version: 2024-05-26
@@ -24740,12 +25644,12 @@ package:
 	name: magic-mainframe-extras.mse-include
 	version: 2018-01-01
 	status: 34
-	file: A20251020T094144 axewm.png
-	file: A20251223T100108 bowwm.png
+	file: M20251020T094144 axewm.png
+	file: M20251223T100108 bowwm.png
 	file: M20251020T092802 br.png
 	file: M20251225T133844 brandoftheexalt.png
 	file: M20251020T092710 bs.png
-	file: A20251020T094113 dswm.png
+	file: M20251020T094113 dswm.png
 	file: M20251020T075336 examples/border/anyx.png
 	file: M20251020T075336 examples/border/bnyx.png
 	file: M20251020T075336 examples/border/clnyx.png
@@ -24843,18 +25747,18 @@ package:
 	file: M20251020T075337 examples/symbol/tragedy.png
 	file: M20251020T075337 examples/watermarks/discord.png
 	file: M20251020T075337 examples/watermarks/fesemblem.png
-	file: A20241014T090350 fesword.png
+	file: M20241014T090350 fesword.png
 	file: M20251020T075337 include
-	file: A20251020T094214 lancewm.png
+	file: M20251020T094214 lancewm.png
 	file: M20251020T075337 mfsfiles/list.png
 	file: M20251020T075337 mfsfiles/mseal.png
 	file: M20251020T075337 mfsfiles/sseal.png
 	file: M20240128T093707 mseal.png
 	file: M20251020T075337 readme.txt
 	file: M20240128T094930 sseal.png
-	file: A20251020T094326 staffwm.png
-	file: A20251020T094241 swordwm.png
-	file: A20251225T134451 tomewm.png
+	file: M20251020T094326 staffwm.png
+	file: M20251020T094241 swordwm.png
+	file: M20251225T134451 tomewm.png
 package:
 	name: magic-mana-agflat.mse-symbol-font
 	version: 2016-01-17
@@ -26542,6 +27446,9 @@ package:
 	file: M20251020T075342 loyalty_down.png
 	file: M20251020T075342 loyalty_naught.png
 	file: M20251020T075342 loyalty_up.png
+	file: A20260220T163709 magic-mana-genevensis-small.mse-symbol-font/symbol-font
+	file: A20260220T163709 magic-mana-genevensis-small.mse-symbol-font/tap_old.png
+	file: A20260220T163709 magic-mana-genevensis-small.mse-symbol-font/tap_older.png
 	file: M20251020T075342 mana_0.png
 	file: M20251020T075342 mana_1.png
 	file: M20251020T075342 mana_2.png
@@ -26894,8 +27801,10 @@ package:
 	file: M20251020T075343 purple_variant/mana_bi_wp.png
 	file: M20251020T075343 purple_variant/mana_half_p.png
 	file: M20251020T075343 purple_variant/mana_sol_p.png
-	file: M20251020T075343 symbol-font
+	file: M20260220T163709 symbol-font
 	file: M20251020T075343 tap.png
+	file: A20260220T163709 tap_old.png
+	file: A20260220T163709 tap_older.png
 	file: M20251020T075343 untap.png
 package:
 	name: magic-mana-graffiti.mse-symbol-font
@@ -27422,7 +28331,7 @@ package:
 	file: M20251020T075343 mask_phyrexian.png
 	file: M20251020T075343 mask_trihybrid_1.png
 	file: M20251020T075343 mask_trihybrid_2.png
-	file: M20251020T075343 symbol-font
+	file: M20260220T163709 symbol-font
 	file: M20251020T075343 ticket.png
 package:
 	name: magic-mana-maps.mse-symbol-font
@@ -28053,6 +28962,43 @@ package:
 	file: M20251020T075344 mana_z.png
 	file: M20251020T075344 phi.png
 	file: M20251020T075344 symbol-font
+package:
+	name: magic-mana-secret-lair-arcade.mse-symbol-font
+	version: 2025-02-02
+	status: 34
+	file: A20260220T163709 mana_phy_b.png
+	file: A20260220T163709 mana_phy_g.png
+	file: A20260220T163709 mana_phy_r.png
+	file: A20260220T163709 mana_phy_u.png
+	file: A20260220T163709 mana_phy_w.png
+	file: A20260220T163709 mana_sol_0.png
+	file: A20260220T163709 mana_sol_1.png
+	file: A20260220T163709 mana_sol_10.png
+	file: A20260220T163709 mana_sol_11.png
+	file: A20260220T163709 mana_sol_12.png
+	file: A20260220T163709 mana_sol_13.png
+	file: A20260220T163709 mana_sol_14.png
+	file: A20260220T163709 mana_sol_15.png
+	file: A20260220T163709 mana_sol_2.png
+	file: A20260220T163709 mana_sol_3.png
+	file: A20260220T163709 mana_sol_4.png
+	file: A20260220T163709 mana_sol_5.png
+	file: A20260220T163709 mana_sol_6.png
+	file: A20260220T163709 mana_sol_7.png
+	file: A20260220T163709 mana_sol_8.png
+	file: A20260220T163709 mana_sol_9.png
+	file: A20260220T163709 mana_sol_a.png
+	file: A20260220T163709 mana_sol_b.png
+	file: A20260220T163709 mana_sol_c.png
+	file: A20260220T163709 mana_sol_g.png
+	file: A20260220T163709 mana_sol_i.png
+	file: A20260220T163709 mana_sol_r.png
+	file: A20260220T163709 mana_sol_s.png
+	file: A20260220T163709 mana_sol_u.png
+	file: A20260220T163709 mana_sol_w.png
+	file: A20260220T163709 mana_sol_x.png
+	file: A20260220T163709 preview.png
+	file: A20260220T163709 symbol-font
 package:
 	name: magic-mana-secret-lair-gatewatch.mse-symbol-font
 	version: 2023-09-19
@@ -29824,6 +30770,16 @@ package:
 	name: magic-modules.mse-include
 	version: 2024-10-01
 	status: 34
+	file: A20260220T163709 alias/base.png
+	file: A20260220T163709 alias/card_fields
+	file: A20260220T163709 alias/card_fields_dfc
+	file: A20260220T163709 alias/card_fields_under
+	file: A20260220T163709 alias/card_fields_under_dfc
+	file: A20260220T163709 alias/color.png
+	file: A20260220T163709 alias/mask.png
+	file: A20260220T163709 alias/masks/remove_color.png
+	file: A20260220T163709 alias/masks/remove_outline.png
+	file: A20260220T163709 alias/readme.txt
 	file: M20251020T075348 bookmarks/744x1039/m15/saga/base/bright/abookmark.png
 	file: M20251020T075348 bookmarks/744x1039/m15/saga/base/bright/bbookmark.png
 	file: M20251020T075348 bookmarks/744x1039/m15/saga/base/bright/cbookmark.png
@@ -29867,7 +30823,7 @@ package:
 	file: M20251020T075348 borders/744x1039/m15/saga/notch_left_mask.png
 	file: M20251020T075348 borders/744x1039/m15/saga/notch_right_mask.png
 	file: M20251020T075348 borders/744x1039/m15/walker/base.png
-	file: M20251020T075348 borders/744x1039/m15/walker/borderless.png
+	file: M20260220T163709 borders/744x1039/m15/walker/borderless.png
 	file: M20251020T075348 borders/744x1039/m15/walker/image_short.png
 	file: M20251020T075348 borders/744x1039/m15/walker/image_tall.png
 	file: M20251020T075348 borders/744x1039/m15/walker/notch_right_mask.png
@@ -29879,6 +30835,86 @@ package:
 	file: M20251020T075348 card-symbols/choices
 	file: M20251020T075348 card-symbols/readme.txt
 	file: M20251020T075348 card-symbols/tombstone.png
+	file: A20260220T163709 cards/375 m15 battle/acard.png
+	file: A20260220T163709 cards/375 m15 battle/artifact_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/bcard.png
+	file: A20260220T163709 cards/375 m15 battle/beyond/acard.png
+	file: A20260220T163709 cards/375 m15 battle/beyond/bcard.png
+	file: A20260220T163709 cards/375 m15 battle/beyond/ccard.png
+	file: A20260220T163709 cards/375 m15 battle/beyond/gcard.png
+	file: A20260220T163709 cards/375 m15 battle/beyond/mcard.png
+	file: A20260220T163709 cards/375 m15 battle/beyond/rcard.png
+	file: A20260220T163709 cards/375 m15 battle/beyond/ucard.png
+	file: A20260220T163709 cards/375 m15 battle/beyond/wcard.png
+	file: A20260220T163709 cards/375 m15 battle/ccard.png
+	file: A20260220T163709 cards/375 m15 battle/gcard.png
+	file: A20260220T163709 cards/375 m15 battle/hybrid_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/mcard.png
+	file: A20260220T163709 cards/375 m15 battle/multicolor_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/acard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/artifact_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/bcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/beyond/acard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/beyond/bcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/beyond/ccard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/beyond/gcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/beyond/mcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/beyond/rcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/beyond/ucard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/beyond/wcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/ccard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/gcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/hybrid_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/left_symbol.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/mcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/multicolor_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/rcard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/right_symbol.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/ucard.png
+	file: A20260220T163709 cards/375 m15 battle/namebar/wcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/acard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/artifact_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/notch/bcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/beyond/acard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/beyond/bcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/beyond/ccard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/beyond/gcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/beyond/mcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/beyond/rcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/beyond/ucard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/beyond/wcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/ccard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/gcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/hybrid_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/notch/mcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/multicolor_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/notch/rcard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/ucard.png
+	file: A20260220T163709 cards/375 m15 battle/notch/wcard.png
+	file: A20260220T163709 cards/375 m15 battle/rcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/acard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/artifact_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/texture/bcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/acard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/bcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/ccard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/gcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/lcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/mcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/rcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/ucard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/beyond/wcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/ccard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/gcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/hybrid_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/texture/lcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/mcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/multicolor_blend_card.png
+	file: A20260220T163709 cards/375 m15 battle/texture/rcard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/ucard.png
+	file: A20260220T163709 cards/375 m15 battle/texture/wcard.png
+	file: A20260220T163709 cards/375 m15 battle/ucard.png
+	file: A20260220T163709 cards/375 m15 battle/wcard.png
 	file: M20251020T075348 cards/375 m15 cut/acard.jpg
 	file: M20251020T075348 cards/375 m15 cut/artifact_blend_card.png
 	file: M20251020T075348 cards/375 m15 cut/back/acard.jpg
@@ -29985,7 +31021,7 @@ package:
 	file: M20251020T075348 cards/375 m15 saga/rcard.jpg
 	file: M20251020T075348 cards/375 m15 saga/rlcard.jpg
 	file: M20251020T075348 cards/375 m15 saga/textmask.png
-	file: M20251020T075348 cards/375 m15 saga/ucard.jpg
+	file: M20260220T163709 cards/375 m15 saga/ucard.jpg
 	file: M20251020T075348 cards/375 m15 saga/ulcard.jpg
 	file: M20251020T075348 cards/375 m15 saga/wcard.jpg
 	file: M20251020T075348 cards/375 m15 saga/wlcard.jpg
@@ -30127,9 +31163,9 @@ package:
 	file: M20251020T075349 cards/750 m15 planeswalker cut/ucard.png
 	file: M20251020T075349 cards/750 m15 planeswalker cut/wcard.png
 	file: M20251020T075349 cards/750 m15 planeswalker cut/xcard.png
-	file: M20251020T075349 casting-costs/card_fields
-	file: M20251020T075349 casting-costs/card_fields_dfc
-	file: M20251020T075349 casting-costs/card_fields_tfc
+	file: M20260220T163709 casting-costs/card_fields
+	file: M20260220T163709 casting-costs/card_fields_dfc
+	file: M20260220T163709 casting-costs/card_fields_tfc
 	file: M20251020T075349 casting-costs/readme.txt
 	file: M20251020T075349 casting-costs/styling_fields
 	file: M20251020T075349 chapters/chapter0.png
@@ -30308,20 +31344,6 @@ package:
 	file: M20251020T075349 crowns/375/rcrown.png
 	file: M20251020T075349 crowns/375/shifted/acrown.png
 	file: M20251020T075349 crowns/375/shifted/artifact_blend_crown.png
-	file: M20251020T075350 crowns/375/shifted/bcrown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/acrown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/artifact_blend_crown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/bcrown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/ccrown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/gcrown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/hybrid_blend_crown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/mcrown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/multicolor_blend_crown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/rcrown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/ucrown.png
-	file: M20251020T075350 crowns/375/shifted/borderless/wcrown.png
-	file: M20251020T075350 crowns/375/shifted/ccrown.png
-	file: M20251020T075350 crowns/375/shifted/companion/acrown.png
 	file: M20251020T075350 crowns/375/shifted/companion/artifact_blend_crown.png
 	file: M20251020T075350 crowns/375/shifted/companion/bcrown.png
 	file: M20251020T075350 crowns/375/shifted/companion/ccrown.png
@@ -30489,8 +31511,8 @@ package:
 	file: M20251020T075350 indicators/bidentity.png
 	file: M20251020T075350 indicators/blidentity.png
 	file: M20251020T075350 indicators/card_fields
-	file: M20251020T075350 indicators/card_fields_dfc
-	file: M20251020T075350 indicators/card_fields_tfc
+	file: M20260220T163709 indicators/card_fields_dfc
+	file: M20260220T163709 indicators/card_fields_tfc
 	file: M20251020T075350 indicators/cidentity.png
 	file: M20251020T075350 indicators/clidentity.png
 	file: M20251020T075350 indicators/gidentity.png
@@ -30516,33 +31538,33 @@ package:
 	file: M20251020T075350 indicators/styling_fields
 	file: M20251020T075350 indicators/uidentity.png
 	file: M20251020T075350 indicators/ulidentity.png
-	file: A20251020T075350 indicators/vow/aidentity.png
-	file: A20251020T075350 indicators/vow/artifact_blend_identity.png
-	file: A20251020T075350 indicators/vow/baidentity.png
-	file: A20251020T075350 indicators/vow/bidentity.png
-	file: A20251020T075350 indicators/vow/blidentity.png
-	file: A20251020T075350 indicators/vow/cidentity.png
-	file: A20251020T075350 indicators/vow/clidentity.png
-	file: A20251020T075350 indicators/vow/gidentity.png
-	file: A20251020T075350 indicators/vow/glidentity.png
-	file: A20251020T075350 indicators/vow/hybrid_blend_identity.png
-	file: A20251020T075350 indicators/vow/midentity.png
-	file: A20251020T075350 indicators/vow/mlidentity.png
-	file: A20251020T075350 indicators/vow/multicolor_blend_identity.png
-	file: A20251020T075350 indicators/vow/omidentity.png
-	file: A20251020T075350 indicators/vow/omlidentity.png
-	file: A20251020T075350 indicators/vow/ridentity.png
-	file: A20251020T075350 indicators/vow/rlidentity.png
-	file: A20251020T075350 indicators/vow/uidentity.png
-	file: A20251020T075350 indicators/vow/ulidentity.png
-	file: A20251020T075350 indicators/vow/widentity.png
-	file: A20251020T075350 indicators/vow/wlidentity.png
+	file: M20251020T075350 indicators/vow/aidentity.png
+	file: M20251020T075350 indicators/vow/artifact_blend_identity.png
+	file: M20251020T075350 indicators/vow/baidentity.png
+	file: M20251020T075350 indicators/vow/bidentity.png
+	file: M20251020T075350 indicators/vow/blidentity.png
+	file: M20251020T075350 indicators/vow/cidentity.png
+	file: M20251020T075350 indicators/vow/clidentity.png
+	file: M20251020T075350 indicators/vow/gidentity.png
+	file: M20251020T075350 indicators/vow/glidentity.png
+	file: M20251020T075350 indicators/vow/hybrid_blend_identity.png
+	file: M20251020T075350 indicators/vow/midentity.png
+	file: M20251020T075350 indicators/vow/mlidentity.png
+	file: M20251020T075350 indicators/vow/multicolor_blend_identity.png
+	file: M20251020T075350 indicators/vow/omidentity.png
+	file: M20251020T075350 indicators/vow/omlidentity.png
+	file: M20251020T075350 indicators/vow/ridentity.png
+	file: M20251020T075350 indicators/vow/rlidentity.png
+	file: M20251020T075350 indicators/vow/uidentity.png
+	file: M20251020T075350 indicators/vow/ulidentity.png
+	file: M20251020T075350 indicators/vow/widentity.png
+	file: M20251020T075350 indicators/vow/wlidentity.png
 	file: M20251020T075350 indicators/widentity.png
 	file: M20251020T075350 indicators/wlidentity.png
 	file: M20251020T075350 information/art old.png
 	file: M20251020T075350 information/art.png
-	file: M20251020T075350 information/card_fields
-	file: M20251020T075350 information/card_fields_dfc
+	file: M20260220T163709 information/card_fields
+	file: M20260220T163709 information/card_fields_dfc
 	file: M20251020T075350 information/card_fields_tfc
 	file: M20251020T075350 information/choices
 	file: M20251020T075350 information/choices_partition
@@ -30553,7 +31575,7 @@ package:
 	file: M20251020T075350 information/list_field_dfc
 	file: M20251020T075350 information/mechanics.png
 	file: M20251020T075350 information/none.png
-	file: M20251020T075350 information/readme.txt
+	file: M20260220T163709 information/readme.txt
 	file: M20251020T075350 information/styling_fields
 	file: M20251020T075350 information/template.png
 	file: M20251020T075350 information/the list 750.png
@@ -30645,7 +31667,31 @@ package:
 	file: M20251020T075351 levels/arrows/artifact_blend_arrow.png
 	file: M20251020T075351 levels/arrows/hybrid_blend_arrow.png
 	file: M20251020T075351 levels/arrows/multicolor_blend_arrow.png
+	file: A20260220T163709 levels/circles/station/acircle.png
+	file: A20260220T163709 levels/circles/station/bcircle.png
+	file: A20260220T163709 levels/circles/station/ccircle.png
+	file: A20260220T163709 levels/circles/station/gcircle.png
+	file: A20260220T163709 levels/circles/station/mcircle.png
+	file: A20260220T163709 levels/circles/station/rcircle.png
+	file: A20260220T163709 levels/circles/station/ucircle.png
+	file: A20260220T163709 levels/circles/station/wcircle.png
 	file: M20251020T075351 levels/d20slice.png
+	file: A20260220T163709 levels/slides/0/alslide.png
+	file: A20260220T163709 levels/slides/0/aslide.png
+	file: A20260220T163709 levels/slides/0/blslide.png
+	file: A20260220T163709 levels/slides/0/bslide.png
+	file: A20260220T163709 levels/slides/0/clslide.png
+	file: A20260220T163709 levels/slides/0/cslide.png
+	file: A20260220T163709 levels/slides/0/glslide.png
+	file: A20260220T163709 levels/slides/0/gslide.png
+	file: A20260220T163709 levels/slides/0/mlslide.png
+	file: A20260220T163709 levels/slides/0/mslide.png
+	file: A20260220T163709 levels/slides/0/rlslide.png
+	file: A20260220T163709 levels/slides/0/rslide.png
+	file: A20260220T163709 levels/slides/0/ulslide.png
+	file: A20260220T163709 levels/slides/0/uslide.png
+	file: A20260220T163709 levels/slides/0/wlslide.png
+	file: A20260220T163709 levels/slides/0/wslide.png
 	file: M20251020T075351 levels/slides/1/aslide.png
 	file: M20251020T075351 levels/slides/1/back/aslide.png
 	file: M20251020T075351 levels/slides/1/back/blslide.png
@@ -30810,8 +31856,8 @@ package:
 	file: M20251020T075351 loyalty/loyalty cost ult shadow.png
 	file: M20251020T075351 loyalty/loyalty cost ult.png
 	file: M20251020T075351 loyalty/loyalty shadow.png
-	file: M20251020T075351 loyalty/loyalty.png
-	file: M20251020T075351 loyalty/readme.txt
+	file: M20260220T163709 loyalty/loyalty.png
+	file: M20260220T163709 loyalty/readme.txt
 	file: M20251020T075351 loyalty/separator_fields
 	file: M20251020T075351 loyalty/separator_fields_dfc
 	file: M20251020T075351 loyalty/stripe_bottom.png
@@ -30820,8 +31866,8 @@ package:
 	file: M20251020T075351 loyalty/stripe_top.png
 	file: M20251020T075351 loyalty/styling_fields
 	file: M20251020T075351 loyalty/styling_fields_dfc
-	file: M20251020T075351 loyalty/styling_formatting
-	file: M20251020T075351 loyalty/styling_formatting_dfc
+	file: M20260220T163709 loyalty/styling_formatting
+	file: M20260220T163709 loyalty/styling_formatting_dfc
 	file: M20251020T075351 loyalty/styling_recoloring
 	file: M20251020T075351 loyalty/styling_recoloring_dfc
 	file: M20251020T075351 mana-symbols/alchemy old.png
@@ -30894,6 +31940,7 @@ package:
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/base/dark/rnamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/base/dark/unamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/base/dark/wnamebox.png
+	file: A20260220T163709 nameboxes/744x1039/m15/normal/base/transparent.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_left/border_mask.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_left/bright/anamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_left/bright/bnamebox.png
@@ -30911,6 +31958,7 @@ package:
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_left/dark/rnamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_left/dark/unamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_left/dark/wnamebox.png
+	file: A20260220T163709 nameboxes/744x1039/m15/normal/symbol_left/transparent.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_right/border_mask.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_right/bright/anamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_right/bright/bnamebox.png
@@ -30928,6 +31976,7 @@ package:
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_right/dark/rnamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_right/dark/unamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/normal/symbol_right/dark/wnamebox.png
+	file: A20260220T163709 nameboxes/744x1039/m15/normal/symbol_right/transparent.png
 	file: M20251020T075351 nameboxes/744x1039/m15/walker/base/border_mask.png
 	file: M20251020T075351 nameboxes/744x1039/m15/walker/base/bright/anamebox.png
 	file: M20251020T075351 nameboxes/744x1039/m15/walker/base/bright/bnamebox.png
@@ -30983,9 +32032,9 @@ package:
 	file: M20251020T075351 namelines/card_fields_dfc
 	file: M20251020T075351 namelines/card_fields_tfc
 	file: M20251020T075351 namelines/readme.txt
-	file: M20251020T075351 names/card_fields
-	file: M20251020T075351 names/card_fields_dfc
-	file: M20251020T075351 names/card_fields_tfc
+	file: M20260220T163709 names/card_fields
+	file: M20260220T163709 names/card_fields_dfc
+	file: M20260220T163709 names/card_fields_tfc
 	file: M20251020T075352 names/readme.txt
 	file: M20251020T075352 pages/744x1039/m15/adventure/base/left/bright/apage.png
 	file: M20251020T075352 pages/744x1039/m15/adventure/base/left/bright/bpage.png
@@ -31017,11 +32066,11 @@ package:
 	file: M20251020T075352 pages/double_flat/upage.png
 	file: M20251020T075352 pages/double_flat/wpage.png
 	file: M20251020T075352 pages/double_page/apage.png
-	file: M20251020T075352 pages/double_page/artifact_blend_double_page.png
+	file: M20260220T163709 pages/double_page/artifact_blend_double_page.png
 	file: M20251020T075352 pages/double_page/bpage.png
 	file: M20251020T075352 pages/double_page/cpage.png
 	file: M20251020T075352 pages/double_page/gpage.png
-	file: M20251020T075352 pages/double_page/hybrid_blend_double_page.png
+	file: M20260220T163709 pages/double_page/hybrid_blend_double_page.png
 	file: M20251020T075352 pages/double_page/mpage.png
 	file: M20251020T075352 pages/double_page/multicolor_blend_double_page.png
 	file: M20251020T075352 pages/double_page/rpage.png
@@ -31051,11 +32100,11 @@ package:
 	file: M20251020T075352 pages/single_flat/upage.png
 	file: M20251020T075352 pages/single_flat/wpage.png
 	file: M20251020T075352 pages/single_page/apage.png
-	file: M20251020T075352 pages/single_page/artifact_blend_single_page.png
+	file: M20260220T163709 pages/single_page/artifact_blend_single_page.png
 	file: M20251020T075352 pages/single_page/bpage.png
 	file: M20251020T075352 pages/single_page/cpage.png
 	file: M20251020T075352 pages/single_page/gpage.png
-	file: M20251020T075352 pages/single_page/hybrid_blend_single_page.png
+	file: M20260220T163709 pages/single_page/hybrid_blend_single_page.png
 	file: M20251020T075352 pages/single_page/mpage.png
 	file: M20251020T075352 pages/single_page/multicolor_blend_single_page.png
 	file: M20251020T075352 pages/single_page/rpage.png
@@ -31456,6 +32505,33 @@ package:
 	file: M20251020T075352 popouts/readme.txt
 	file: M20251020T075352 popouts/styling_fields
 	file: M20251020T075352 popouts/styling_fields_dfc
+	file: A20260220T163709 protoboxes/box/abox.png
+	file: A20260220T163709 protoboxes/box/bbox.png
+	file: A20260220T163709 protoboxes/box/cbox.png
+	file: A20260220T163709 protoboxes/box/gbox.png
+	file: A20260220T163709 protoboxes/box/ibox.png
+	file: A20260220T163709 protoboxes/box/mbox.png
+	file: A20260220T163709 protoboxes/box/rbox.png
+	file: A20260220T163709 protoboxes/box/ubox.png
+	file: A20260220T163709 protoboxes/box/wbox.png
+	file: A20260220T163709 protoboxes/cost/acost.png
+	file: A20260220T163709 protoboxes/cost/bcost.png
+	file: A20260220T163709 protoboxes/cost/ccost.png
+	file: A20260220T163709 protoboxes/cost/gcost.png
+	file: A20260220T163709 protoboxes/cost/icost.png
+	file: A20260220T163709 protoboxes/cost/mcost.png
+	file: A20260220T163709 protoboxes/cost/rcost.png
+	file: A20260220T163709 protoboxes/cost/ucost.png
+	file: A20260220T163709 protoboxes/cost/wcost.png
+	file: A20260220T163709 protoboxes/pt/apt.png
+	file: A20260220T163709 protoboxes/pt/bpt.png
+	file: A20260220T163709 protoboxes/pt/cpt.png
+	file: A20260220T163709 protoboxes/pt/gpt.png
+	file: A20260220T163709 protoboxes/pt/ipt.png
+	file: A20260220T163709 protoboxes/pt/mpt.png
+	file: A20260220T163709 protoboxes/pt/rpt.png
+	file: A20260220T163709 protoboxes/pt/upt.png
+	file: A20260220T163709 protoboxes/pt/wpt.png
 	file: M20251020T075352 ptboxes/744x1039/m15/normal/base/bright/aptbox.png
 	file: M20251020T075352 ptboxes/744x1039/m15/normal/base/bright/bptbox.png
 	file: M20251020T075352 ptboxes/744x1039/m15/normal/base/bright/cptbox.png
@@ -31597,6 +32673,14 @@ package:
 	file: M20251020T075353 pts/375 m15/shifted/upt.png
 	file: M20251020T075353 pts/375 m15/shifted/wlpt.png
 	file: M20251020T075353 pts/375 m15/shifted/wpt.png
+	file: A20260220T163709 pts/375 m15/station/apt.png
+	file: A20260220T163709 pts/375 m15/station/bpt.png
+	file: A20260220T163709 pts/375 m15/station/cpt.png
+	file: A20260220T163709 pts/375 m15/station/gpt.png
+	file: A20260220T163709 pts/375 m15/station/mpt.png
+	file: A20260220T163709 pts/375 m15/station/rpt.png
+	file: A20260220T163709 pts/375 m15/station/upt.png
+	file: A20260220T163709 pts/375 m15/station/wpt.png
 	file: M20251020T075353 pts/375 m15/ulpt.png
 	file: M20251020T075353 pts/375 m15/upt.png
 	file: M20251020T075353 pts/375 m15/vpt.png
@@ -31624,13 +32708,13 @@ package:
 	file: M20251020T075353 rarities/card_fields
 	file: M20251020T075353 rarities/card_fields_dfc
 	file: M20251020T075353 rarities/card_fields_tfc
-	file: M20251020T075353 rarities/choice_images
-	file: M20251020T075353 rarities/choice_images_old
+	file: M20260220T163709 rarities/choice_images
+	file: M20260220T163709 rarities/choice_images_old
 	file: M20251020T075353 rarities/readme.txt
 	file: M20251020T075353 rarities/set_info
 	file: M20251020T075353 rarities/set_info_old
 	file: M20251020T075353 rarities/styling_fields
-	file: M20251020T075353 readme.txt
+	file: M20260220T163709 readme.txt
 	file: M20251020T075353 reminderboxes/744x1039/m15/normal/arrow_mask.png
 	file: M20251020T075353 reminderboxes/744x1039/m15/normal/base/bright/areminderbox.png
 	file: M20251020T075353 reminderboxes/744x1039/m15/normal/base/bright/breminderbox.png
@@ -31824,15 +32908,15 @@ package:
 	file: M20251020T075353 stamps/backs/375 ub/mlstamp.png
 	file: M20251020T075353 stamps/backs/375 ub/mstamp.png
 	file: M20251020T075353 stamps/backs/375 ub/multicolor_blend_stamp.png
-	file: A20251020T075353 stamps/backs/375 ub/pw/artifact_blend_stamp.png
+	file: M20251020T075353 stamps/backs/375 ub/pw/artifact_blend_stamp.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/astamp.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/border_mask.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/bstamp.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/cstamp.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/gstamp.png
-	file: A20251020T075353 stamps/backs/375 ub/pw/hybrid_blend_stamp.png
+	file: M20251020T075353 stamps/backs/375 ub/pw/hybrid_blend_stamp.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/mstamp.png
-	file: A20251020T075353 stamps/backs/375 ub/pw/multicolor_blend_stamp.png
+	file: M20251020T075353 stamps/backs/375 ub/pw/multicolor_blend_stamp.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/rstamp.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/ustamp.png
 	file: M20251020T075353 stamps/backs/375 ub/pw/wstamp.png
@@ -31934,6 +33018,7 @@ package:
 	file: M20251020T075353 symbol-fonts/small/defense_wide.png
 	file: M20251020T075353 symbol-fonts/small/defense_x.png
 	file: M20251020T075353 symbol-fonts/small/energy.png
+	file: A20260220T163709 symbol-fonts/small/inf.png
 	file: M20251020T075353 symbol-fonts/small/loyalty_down.png
 	file: M20251020T075353 symbol-fonts/small/loyalty_down_1.png
 	file: M20251020T075353 symbol-fonts/small/loyalty_down_10.png
@@ -31972,12 +33057,12 @@ package:
 	file: M20251020T075353 symbol-fonts/small/loyalty_up_x.png
 	file: M20251020T075353 symbol-fonts/small/menu_choices_defense
 	file: M20251020T075353 symbol-fonts/small/menu_choices_loyalty
-	file: M20251020T075353 symbol-fonts/small/menu_choices_misc
+	file: M20260220T163709 symbol-fonts/small/menu_choices_misc
 	file: M20251020T075353 symbol-fonts/small/pawprint.png
 	file: M20251020T075353 symbol-fonts/small/phi.png
 	file: M20251020T075353 symbol-fonts/small/symbol_fields_defense
 	file: M20251020T075353 symbol-fonts/small/symbol_fields_loyalty
-	file: M20251020T075353 symbol-fonts/small/symbol_fields_misc
+	file: M20260220T163709 symbol-fonts/small/symbol_fields_misc
 	file: M20251020T075353 symbol-fonts/small/ticket.png
 	file: M20251020T075353 symbol-fonts/styling_fields
 	file: M20251020T075353 symbol-fonts/tap_new.png
@@ -32478,7 +33563,7 @@ package:
 	file: M20251020T075356 trims/beyond/rbeyond.png
 	file: M20251020T075356 trims/beyond/ubeyond.png
 	file: M20251020T075356 trims/beyond/vbeyond.png
-	file: A20251020T075356 trims/beyond/vnormal.png
+	file: M20251020T075356 trims/beyond/vnormal.png
 	file: M20251020T075356 trims/beyond/wbeyond.png
 	file: M20251020T075356 trims/draft/adraft.png
 	file: M20251020T075356 trims/draft/artifact_blend_draft.png
@@ -32663,6 +33748,7 @@ package:
 	file: M20251020T075357 typeboxes/744x1039/m15/normal/base/dark/rtypebox.png
 	file: M20251020T075357 typeboxes/744x1039/m15/normal/base/dark/utypebox.png
 	file: M20251020T075357 typeboxes/744x1039/m15/normal/base/dark/wtypebox.png
+	file: A20260220T163709 typeboxes/744x1039/m15/normal/base/transparent.png
 	file: M20251020T075357 typeboxes/744x1039/m15/saga/base/border_mask.png
 	file: M20251020T075357 typeboxes/744x1039/m15/saga/base/bright/atypebox.png
 	file: M20251020T075357 typeboxes/744x1039/m15/saga/base/bright/btypebox.png
@@ -32731,9 +33817,9 @@ package:
 	file: M20251020T075357 typelines/card_fields_dfc
 	file: M20251020T075357 typelines/card_fields_tfc
 	file: M20251020T075357 typelines/readme.txt
-	file: M20251020T075357 types/card_fields
-	file: M20251020T075357 types/card_fields_dfc
-	file: M20251020T075357 types/card_fields_tfc
+	file: M20260220T163709 types/card_fields
+	file: M20260220T163709 types/card_fields_dfc
+	file: M20260220T163709 types/card_fields_tfc
 	file: M20251020T075357 types/readme.txt
 	file: M20251020T075357 watermarks/alara/bant.png
 	file: M20251020T075357 watermarks/alara/bant_colored.png
@@ -32745,6 +33831,10 @@ package:
 	file: M20251020T075357 watermarks/alara/jund_colored.png
 	file: M20251020T075357 watermarks/alara/naya.png
 	file: M20251020T075357 watermarks/alara/naya_colored.png
+	file: A20260220T163709 watermarks/avatar/air_nomads.png
+	file: A20260220T163709 watermarks/avatar/earth_kingdom.png
+	file: A20260220T163709 watermarks/avatar/fire_nation.png
+	file: A20260220T163709 watermarks/avatar/water_tribe.png
 	file: M20251020T075357 watermarks/capenna/brokers.png
 	file: M20251020T075357 watermarks/capenna/cabaretti.png
 	file: M20251020T075357 watermarks/capenna/maestros.png
@@ -32753,7 +33843,7 @@ package:
 	file: M20251020T075357 watermarks/card_fields
 	file: M20251020T075357 watermarks/card_fields_dfc
 	file: M20251020T075357 watermarks/card_fields_tfc
-	file: M20251020T075357 watermarks/choices
+	file: M20260220T163709 watermarks/choices
 	file: M20251020T075357 watermarks/frazier/azorius.png
 	file: M20251020T075357 watermarks/frazier/boros.png
 	file: M20251020T075357 watermarks/frazier/dimir.png
@@ -35905,6 +36995,22 @@ package:
 	file: M20251020T075404 ucard.png
 	file: M20251020T075404 wcard.png
 package:
+	name: magic-old-saga.mse-style
+	version: 2025-05-12
+	status: 34
+	file: A20260220T163709 card-sample.png
+	file: A20260220T163709 card/acard.jpg
+	file: A20260220T163709 card/bcard.jpg
+	file: A20260220T163709 card/ccard.jpg
+	file: A20260220T163709 card/gcard.jpg
+	file: A20260220T163709 card/lcard.jpg
+	file: A20260220T163709 card/mcard.jpg
+	file: A20260220T163709 card/rcard.jpg
+	file: A20260220T163709 card/ucard.jpg
+	file: A20260220T163709 card/wcard.jpg
+	file: A20260220T163709 divide.png
+	file: A20260220T163709 style
+package:
 	name: magic-old-split-clear.mse-style
 	version: 2024-05-29
 	status: 34
@@ -36068,7 +37174,7 @@ package:
 	file: M20251020T075405 wlcard.jpg
 package:
 	name: magic-old.mse-style
-	version: 2024-05-29
+	version: 2025-10-20
 	status: 34
 	file: M20251020T075405 acard.jpg
 	file: M20251020T075405 alpha_blend.png
@@ -36089,11 +37195,12 @@ package:
 	file: M20251020T075405 multicolor_blend_card2.png
 	file: M20251020T075405 rcard.jpg
 	file: M20251020T075405 rlcard.jpg
-	file: M20251020T075405 style
+	file: M20260220T163709 style
 	file: M20251020T075405 ucard.jpg
 	file: M20251020T075405 ulcard.jpg
 	file: M20251020T075405 wcard.jpg
 	file: M20251020T075405 wlcard.jpg
+	file: A20260220T163709 xcard.jpg
 package:
 	name: magic-overlay-foil-fracture.mse-include
 	version: 2009-06-30
@@ -36527,6 +37634,32 @@ package:
 	file: M20251020T075407 portalshield.png
 	file: M20251020T075407 portalsword.png
 	file: M20251020T075407 symbol-font
+package:
+	name: magic-rule-card.mse-style
+	version: 2024-10-01
+	status: 34
+	file: A20260220T163709 card_sample.png
+	file: A20260220T163709 divider.png
+	file: A20260220T163709 image_borderless_mask.png
+	file: A20260220T163709 image_mask.png
+	file: A20260220T163709 pinlines.png
+	file: A20260220T163709 pt.png
+	file: A20260220T163709 stamp_border_mask_round.png
+	file: A20260220T163709 stamp_border_mask_triangle.png
+	file: A20260220T163709 stamp_none.png
+	file: A20260220T163709 stamp_round.png
+	file: A20260220T163709 stamp_shadow_none.png
+	file: A20260220T163709 stamp_shadow_round.png
+	file: A20260220T163709 stamp_shadow_triangle.png
+	file: A20260220T163709 stamp_textbox_mask_none.png
+	file: A20260220T163709 stamp_textbox_mask_round.png
+	file: A20260220T163709 stamp_textbox_mask_triangle.png
+	file: A20260220T163709 stamp_triangle.png
+	file: A20260220T163709 stampline.png
+	file: A20260220T163709 style
+	file: A20260220T163709 textbox_background.png
+	file: A20260220T163709 typeline.png
+	file: A20260220T163709 typeline_inner.png
 package:
 	name: magic-rulestip.mse-style
 	version: 2024-05-30
@@ -37156,6 +38289,20 @@ package:
 	file: M20251020T075409 wcard.png
 	file: M20251020T075409 wpt.png
 package:
+	name: magic-spoiler.mse-export-template
+	version: 2014-06-19
+	status: 34
+	file: A20260220T163709 blank.gif
+	file: A20260220T163709 card_color.png
+	file: A20260220T163709 desktop.ini
+	file: A20260220T163709 export-template
+	file: A20260220T163709 preview.png
+	file: A20260220T163709 sans-serif.png
+	file: A20260220T163709 script js
+	file: A20260220T163709 serif.png
+	file: A20260220T163709 style css
+	file: A20260220T163709 workaround
+package:
 	name: magic-starwars.mse-style
 	version: 2014-02-22
 	status: 34
@@ -37400,6 +38547,12 @@ package:
 	status: 34
 	file: M20251020T075410 export-template
 	file: M20251020T075410 icon.png
+package:
+	name: magic-tts.mse-export-template
+	version: 2025-10-10
+	status: 34
+	file: A20260220T163709 export-template
+	file: A20260220T163709 icon.png
 package:
 	name: magic-urban.mse-style
 	version: 2024-05-30
@@ -37812,7 +38965,7 @@ package:
 	file: M20251020T075411 aetherprint2.png
 	file: M20251020T075411 aetherprint3.png
 	file: M20251020T075411 akros.png
-	file: A20251020T075411 axewm.png
+	file: M20251020T075411 axewm.png
 	file: M20251020T075411 branded.png
 	file: M20251020T075411 brandoftheexalt.png
 	file: M20251020T075411 capenna_brokers.png
@@ -37827,10 +38980,10 @@ package:
 	file: M20251020T075411 death-juice.png
 	file: M20251020T075411 desparked.png
 	file: M20251020T075411 discord.png
-	file: A20251020T075411 fates.png
+	file: M20251020T075411 fates.png
 	file: M20251020T075411 fes_stamp.png
 	file: M20251020T075411 fesemblem.png
-	file: A20251020T075411 fesword.png
+	file: M20251020T075411 fesword.png
 	file: M20251020T075411 foretell.png
 	file: M20251020T075411 futsymbol_artifact.png
 	file: M20251020T075411 futsymbol_creature.png
@@ -37861,7 +39014,7 @@ package:
 	file: M20251020T075411 kxp/usona.png
 	file: M20251020T075411 kxp/usona_light.png
 	file: M20251020T075411 kxp/way.png
-	file: A20251020T075411 lancewm.png
+	file: M20251020T075411 lancewm.png
 	file: M20251020T075411 meletis.png
 	file: M20251020T075411 nephalia.png
 	file: M20251020T075411 oldspotlightmask.png
@@ -37919,7 +39072,7 @@ package:
 	file: M20251020T075411 spotlight/wspotlight.png
 	file: M20251020T075411 spotlight2.png
 	file: M20251020T075411 stensia.png
-	file: A20251020T075411 swordwm.png
+	file: M20251020T075411 swordwm.png
 	file: M20251020T075411 thran.png
 	file: M20251020T075411 transformers.png
 	file: M20251020T075411 ubr.png
@@ -38158,16 +39311,16 @@ package:
 	file: M20251020T075412 icon.png
 package:
 	name: magic.mse-game
-	version: 2024-10-01
+	version: 2025-06-14
 	status: 50
 	file: M20251020T075412 add_cards_scripts
-	file: M20251020T075412 auto_replace
+	file: M20260220T163709 auto_replace
 	file: M20251020T075412 card-back.png
 	file: M20251020T075412 card-symbols/alchemy old.png
 	file: M20251020T075412 card-symbols/alchemy.png
 	file: M20251020T075412 card-symbols/menu_choice_images
 	file: M20251020T075412 card-symbols/tombstone.png
-	file: M20251020T075412 card_fields
+	file: M20260220T163709 card_fields
 	file: M20251020T075412 corners/diagonal.png
 	file: M20251020T075412 corners/menu_choice_images
 	file: M20251020T075412 corners/none.png
@@ -38223,7 +39376,7 @@ package:
 	file: M20251020T075412 counters/vigilance.png
 	file: M20251020T075412 counters/void.png
 	file: M20251020T075412 custom_addons
-	file: A20251020T075412 custom_script
+	file: M20251020T075412 custom_script
 	file: M20251020T075412 dictionary/magic-words.cn_zhs.dic
 	file: M20251020T075412 dictionary/magic-words.cn_zht.dic
 	file: M20251020T075412 dictionary/magic-words.de_de.dic
@@ -38237,7 +39390,8 @@ package:
 	file: M20251020T075412 dictionary/magic-words.ko_ko.dic
 	file: M20251020T075412 dictionary/magic-words.pt_br.dic
 	file: M20251020T075412 dictionary/magic-words.ru_ru.dic
-	file: M20251020T075412 game
+	file: M20260220T163709 game
+	file: A20260220T163709 game_script
 	file: M20251020T075412 icons/center-1-line-text.png
 	file: M20251020T075412 icons/center-2-line-text.png
 	file: M20251020T075412 icons/center-3-line-text.png
@@ -38273,20 +39427,28 @@ package:
 	file: M20251020T075412 information/none.png
 	file: M20251020T075412 information/template.png
 	file: M20251020T075412 information/the_list.png
-	file: M20251020T075412 keywords
+	file: A20260220T163709 json_paths
+	file: D keywords
+	file: A20260220T163709 keywords_ch-s
+	file: A20260220T163709 keywords_ch-t
 	file: M20251020T075412 keywords_custom
-	file: M20251020T075412 keywords_de
-	file: M20251020T075412 keywords_es
-	file: M20251020T075412 keywords_fr
-	file: M20251020T075412 keywords_it
-	file: M20251020T075412 keywords_ja
+	file: A20260220T163709 keywords_da
+	file: M20260220T163709 keywords_de
+	file: A20260220T163709 keywords_en
+	file: M20260220T163709 keywords_es
+	file: M20260220T163709 keywords_fr
+	file: M20260220T163709 keywords_it
+	file: D keywords_ja
+	file: A20260220T163709 keywords_jp
 	file: M20251020T075412 keywords_ko
-	file: M20251020T075412 keywords_pt
+	file: A20260220T163709 keywords_pl
+	file: D keywords_pt
+	file: A20260220T163709 keywords_pt-br
 	file: M20251020T075412 keywords_ru
-	file: M20251020T075412 keywords_zhs
-	file: M20251020T075412 keywords_zht
-	file: M20251020T075412 language
-	file: M20251020T075412 language_map
+	file: D keywords_zhs
+	file: D keywords_zht
+	file: M20260220T163709 language
+	file: M20260220T163709 language_map
 	file: M20251020T075412 loyalty/defense.png
 	file: M20251020T075412 loyalty/loyalty cost +.png
 	file: M20251020T075412 loyalty/loyalty cost -.png
@@ -38301,8 +39463,8 @@ package:
 	file: M20251020T075412 loyalty/shadow.png
 	file: D magic-words.en_us.dic
 	file: M20251020T075412 packs
-	file: M20251020T075412 script
-	file: M20251020T075412 set_fields
+	file: M20260220T163709 script
+	file: M20260220T163709 set_fields
 	file: M20251020T075412 stamps/acorn.png
 	file: M20251020T075412 stamps/alchemy.png
 	file: M20251020T075412 stamps/alchemy_old.png
@@ -38333,18 +39495,25 @@ package:
 	file: M20251020T075412 stamps/oval.png
 	file: M20251020T075412 stamps/realms_acorn.png
 	file: M20251020T075412 stamps/ub.png
-	file: M20251020T075412 statistics
-	file: M20251020T075412 statistics_de
-	file: M20251020T075412 statistics_es
-	file: M20251020T075412 statistics_fr
-	file: M20251020T075412 statistics_it
-	file: M20251020T075412 statistics_ja
-	file: M20251020T075412 statistics_ko
-	file: M20251020T075412 statistics_pt
-	file: M20251020T075412 statistics_ru
-	file: M20251020T075412 statistics_script
-	file: M20251020T075412 statistics_zhs
-	file: M20251020T075412 statistics_zht
+	file: D statistics
+	file: A20260220T163709 statistics_ch-s
+	file: A20260220T163709 statistics_ch-t
+	file: A20260220T163709 statistics_da
+	file: M20260220T163709 statistics_de
+	file: A20260220T163709 statistics_en
+	file: M20260220T163709 statistics_es
+	file: M20260220T163709 statistics_fr
+	file: M20260220T163709 statistics_it
+	file: D statistics_ja
+	file: A20260220T163709 statistics_jp
+	file: M20260220T163709 statistics_ko
+	file: A20260220T163709 statistics_pl
+	file: D statistics_pt
+	file: A20260220T163709 statistics_pt-br
+	file: M20260220T163709 statistics_ru
+	file: M20260220T163709 statistics_script
+	file: D statistics_zhs
+	file: D statistics_zht
 	file: D stats/card_color.png
 	file: D stats/card_symbol.png
 	file: D stats/card_type.png
@@ -38443,6 +39612,10 @@ package:
 	file: M20251020T075412 unit_tests
 	file: M20251020T075412 watermarks/aetherprint.png
 	file: M20251020T075412 watermarks/akros.png
+	file: A20260220T163709 watermarks/avatar_air_nomads.png
+	file: A20260220T163709 watermarks/avatar_earth_kingdom.png
+	file: A20260220T163709 watermarks/avatar_fire_nation.png
+	file: A20260220T163709 watermarks/avatar_water_tribe.png
 	file: M20251020T075412 watermarks/capenna_brokers.png
 	file: M20251020T075412 watermarks/capenna_cabaretti.png
 	file: M20251020T075412 watermarks/capenna_maestros.png
@@ -38489,7 +39662,7 @@ package:
 	file: M20251020T075412 watermarks/mana_wu.png
 	file: M20251020T075412 watermarks/mana_wu_old.png
 	file: M20251020T075412 watermarks/meletis.png
-	file: M20251020T075412 watermarks/menu_choice_images
+	file: M20260220T163709 watermarks/menu_choice_images
 	file: M20251020T075412 watermarks/nephalia.png
 	file: M20251020T075412 watermarks/none.png
 	file: M20251020T075412 watermarks/phyrexia.png
@@ -38609,13 +39782,14 @@ package:
 	file: M20251020T075412 watermarks/watermark_wbmana_colored.png
 	file: M20251020T075412 watermarks/watermark_wumana.png
 	file: M20251020T075412 watermarks/watermark_wumana_colored.png
-	file: M20251020T075412 word_lists
+	file: M20260220T163709 word_lists
 	file: D word_lists_fr
+	file: A20260220T163709 word_lists_linux
 package:
 	name: pl.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
-	file: M20251020T075412 locale
+	file: M20260220T163709 locale
 	file: M20251020T075412 pl.png
 package:
 	name: planechase-cbg.mse-style
@@ -38733,15 +39907,15 @@ package:
 	file: M20251020T075412 stats/text_length.png
 package:
 	name: pt-br.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
 	file: M20251020T075412 br.png
-	file: M20251020T075412 locale
+	file: M20260220T163709 locale
 package:
 	name: ru.mse-locale
-	version: 2023-11-19
+	version: 2025-06-18
 	status: 34
-	file: M20251020T075412 locale
+	file: M20260220T163709 locale
 	file: M20251020T075412 ru.png
 package:
 	name: saga-forum.mse-export-template
